@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Queer Auntie Internet Adventure</title>
+		<description>If you've thought about it, I have wondered about it.</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Five Alive</title>
+				
+				
+					<description>&lt;p&gt;When Lucia saw the one where Bugs cut carrots into his own cauldron, the one he was being cooked in, she went to the kitchen and got a bag of carrots from the bottom drawer of the fridge and a knife from the wooden silverware drawer. On the sofa, she cut the carrots into disks and pretended to be boiled alive while singing like Bugs.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 18 Dec 2017 00:00:00 -0800</pubDate>
+				<link>http://localhost:4000/fiction/Five-Alive.html</link>
+				<guid isPermaLink="true">http://localhost:4000/fiction/Five-Alive.html</guid>
+			</item>
+		
+			<item>
+				<title>God’s Back (Again)</title>
+				
+				
+					<description>&lt;p&gt;“Hey there believers, it’s Angel Rafael here, with another vlog post. This time I’m in The Brooklyn Public Library. It’s the middle of the night. I was sent here to deliver these stone tablets with news from this one god named Rebenca. She’s the one who helps you get tax breaks out of the blue. And avoid meter maids. One time she made a meter maid trip and fall while he was ticketing a person who just lost their job. That Rebenca! She watches soaps and drinks whiskey sours all day. Then goes on walks through the galactic rainforest. Rebenca helped write three of the original commandments. Oh and she gives out EXTRA GOOD multiple orgasms to everyone, male or female, who is pure of heart. She throws parties every time the moons 3 galaxies away get full, which is most months. Oh Rebenca! Always wears these wild purple velvet gowns with three gemstones dangling on each shoulder pad. This week it’s rubies.’&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 18 Jan 2017 00:00:00 -0800</pubDate>
+				<link>http://localhost:4000/comedy/Commandments.html</link>
+				<guid isPermaLink="true">http://localhost:4000/comedy/Commandments.html</guid>
+			</item>
+		
+	</channel>
+</rss>

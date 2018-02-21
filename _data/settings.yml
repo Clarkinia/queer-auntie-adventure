@@ -1,0 +1,20 @@
+title:  "Queer Auntie Internet Adventure"
+tagline: "If you've thought about it, I have wondered about it."
+
+# Authors documented under _data
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'millennial-3'
+
+# Turning off menu for now but eventually i want to use it for a categories dd menu
+# menu:
+# - {name: 'queer auntie internet adventure', folder: 'pages', file: 'about.html'}
+
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'commenting', link: 'https://mastodon.social/@Clarkiniainia/'}
+- {icon: 'envelope', link: 'mailto:orangeowlqueen@gmail.com'}
+- {icon: 'rss-square', link: 'feed.xml'}
