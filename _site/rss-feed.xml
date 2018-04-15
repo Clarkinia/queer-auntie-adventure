@@ -7,16 +7,36 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Five Alive</title>
+				<title>Town Cats</title>
 				
 				
-					<description>&lt;p&gt;When Lucia saw the one where Bugs cut carrots into his own cauldron, the one he was being cooked in, she went to the kitchen and got a bag of carrots from the bottom drawer of the fridge and a knife from the wooden silverware drawer. On the sofa, she cut the carrots into disks and pretended to be boiled alive while singing like Bugs.&lt;/p&gt;
-
+					<description>&lt;p&gt;Town Cats who &lt;strong&gt;want&lt;/strong&gt; to own the turf.
+It’s a jukebox of kittens.
+They pee on the mats. Perfume!
+Now that’s the ticket.
+They &lt;strong&gt;start&lt;/strong&gt; to fight the House Cat.
+The big owner invades!
+They pee and have sex. Feline Infection!
+They &lt;strong&gt;realize&lt;/strong&gt; they don’t mind the cars, that much anyways.
+If they can only get Tommy to stop &lt;strong&gt;trying&lt;/strong&gt; an insurrection.
+Bass drum. High hat. Scratch. Crash! Ride.&lt;/p&gt;
 </description>
 				
-				<pubDate>Mon, 18 Dec 2017 00:00:00 -0800</pubDate>
-				<link>http://localhost:4000/fiction/Five-Alive.html</link>
-				<guid isPermaLink="true">http://localhost:4000/fiction/Five-Alive.html</guid>
+				<pubDate>Tue, 10 Apr 2018 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/poetry/Town-Cats.html</link>
+				<guid isPermaLink="true">http://localhost:4000/poetry/Town-Cats.html</guid>
+			</item>
+		
+			<item>
+				<title>When It’s Just Dark</title>
+				
+				
+					<description>&lt;p&gt;Sheets of hot tin roof go “waeahwaehhhweeaahhh,” a shimmering saw. Fleet-footed. A piece of cake pulled from the one cooling in the windah. Crumblings onto the unlit grass shards. Running through backyards in just the 1950s just a boy with a slingshot in yer pocket sayin’ “gee whiz” the neck snaps back, trachea bent into a dent by a cotton cord not always strung with clothes usually but not always. His birthright chances scatter like cat-eyes, surround where his spine lies. Their glassy flecks currying God-given favors, oven lives, clotheslines, boy oh boy cake freaks.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 04 Apr 2018 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/poetry/When-It-s-Just-Dark.html</link>
+				<guid isPermaLink="true">http://localhost:4000/poetry/When-It-s-Just-Dark.html</guid>
 			</item>
 		
 			<item>
@@ -27,9 +47,22 @@
 
 </description>
 				
-				<pubDate>Wed, 18 Jan 2017 00:00:00 -0800</pubDate>
+				<pubDate>Sun, 18 Mar 2018 00:00:00 -0700</pubDate>
 				<link>http://localhost:4000/comedy/Commandments.html</link>
 				<guid isPermaLink="true">http://localhost:4000/comedy/Commandments.html</guid>
+			</item>
+		
+			<item>
+				<title>Five Alive</title>
+				
+				
+					<description>&lt;p&gt;When Lucia saw the one where Bugs cut carrots into his own cauldron, the one he was being cooked in, she went to the kitchen and got a bag of carrots from the bottom drawer of the fridge and a knife from the wooden silverware drawer. On the sofa, she cut the carrots into disks and pretended to be boiled alive while singing like Bugs.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 01 Mar 2018 00:00:00 -0800</pubDate>
+				<link>http://localhost:4000/fiction/Five-Alive.html</link>
+				<guid isPermaLink="true">http://localhost:4000/fiction/Five-Alive.html</guid>
 			</item>
 		
 	</channel>
