@@ -7,18 +7,31 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Sugar Hill Museum</title>
+				
+				
+					<description>&lt;p&gt;The Sugar Hill Museum, in the Sugar Hill neighborhood of Harlem, is full of interactive materials. Raw wood sticks with frayed bark in a horizontal built-in shelf, some just lying there, others in a natural fiber basket. They seem like props for kids to generate stories and I wondered how it worked. Same with the living room-sized chess board on the floor with toddler-sized chess pieces in the central open gallery space. Keeping track of any chess game would result in a story structure, since it has relationship, motivation, strategy to pull that off with devastating losses and smug victories, and every emotion in the book.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 25 Apr 2018 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/museum%20review/Sugar-Hill-Museum.html</link>
+				<guid isPermaLink="true">http://localhost:4000/museum%20review/Sugar-Hill-Museum.html</guid>
+			</item>
+		
+			<item>
 				<title>Town Cats</title>
 				
 				
-					<description>&lt;p&gt;Town Cats who &lt;strong&gt;want&lt;/strong&gt; to own the turf.
-It’s a jukebox of kittens.
-They pee on the mats. Perfume!
-Now that’s the ticket.
-They &lt;strong&gt;start&lt;/strong&gt; to fight the House Cat.
-The big owner invades!
-They pee and have sex. Feline Infection!
-They &lt;strong&gt;realize&lt;/strong&gt; they don’t mind the cars, that much anyways.
-If they can only get Tommy to stop &lt;strong&gt;trying&lt;/strong&gt; an insurrection.
+					<description>&lt;p&gt;Town Cats who &lt;strong&gt;want&lt;/strong&gt; to own the turf.&lt;br /&gt;
+It’s a jukebox of kittens.&lt;br /&gt;
+They pee on the mats. Perfume!&lt;br /&gt;
+Now that’s the ticket.&lt;br /&gt;
+They &lt;strong&gt;start&lt;/strong&gt; to fight the House Cat.&lt;br /&gt;
+The big owner invades!&lt;br /&gt;
+They pee and have sex. Feline Infection!&lt;br /&gt;
+They &lt;strong&gt;realize&lt;/strong&gt; they don’t mind the cars, that much anyways.&lt;br /&gt;
+If they &lt;strong&gt;can&lt;/strong&gt; only &lt;strong&gt;get&lt;/strong&gt; Tommy to &lt;strong&gt;stop trying&lt;/strong&gt; an insurrection.&lt;br /&gt;
 Bass drum. High hat. Scratch. Crash! Ride.&lt;/p&gt;
 </description>
 				
