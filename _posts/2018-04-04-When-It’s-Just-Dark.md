@@ -4,7 +4,7 @@ title: When It’s Just Dark
 description: The origin of the football term "clothesline".
 author: Regina Clarkinia
 categories: [Poetry]
-tags: [Olden Days, Boyhood]
+tags: [Poetry, Noir, Olden Days, Boyhood]
 image:
   feature: clothesline.jpg
   teaser:

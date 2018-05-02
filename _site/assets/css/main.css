@@ -212,7 +212,14 @@ th, td {
   text-align: center; }
 
 .pagination a {
-  text-decoration: none; }
+  font: "Oswald", sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  color: black;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-decoration-color: #3eb984; }
 
 .pagination-button {
   color: #999;
@@ -229,6 +236,9 @@ th, td {
 
 .pagination-active:hover {
   background-color: #e0e0e0; }
+
+.pagination a:hover {
+  color: green; }
 
 .page-title {
   padding: 0px 10px 10px; }
@@ -344,7 +354,11 @@ background: {
 
 .related img {
   width: 600px;
-  padding-bottom: 1rem; }
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  /* 2 */ }
 
 .related-posts {
   padding: 10px 0px 10px;

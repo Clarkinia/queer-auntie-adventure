@@ -4,7 +4,7 @@ title: God’s Back (Again)
 description: Divine law upgrade from this one god, Rebenca.
 author: Regina Clarkinia
 categories: [Comedy]
-tags: [Sex , Conversation]
+tags: [Comedy, Fiction, Consensual, Auntie]
 image:
   feature: holytabs.jpg
   teaser:

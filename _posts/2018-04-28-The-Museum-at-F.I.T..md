@@ -4,7 +4,7 @@ title: The Museum at F.I.T.
 description: Body shaping and draping.
 author: Regina Clarkinia
 categories: [museum]
-tags: [Fashion, Femme]
+tags: [Museum, Body Image, Fashion, Femme]
 path: Town-Cats
 image:
   feature: physical.jpg

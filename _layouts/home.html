@@ -15,7 +15,7 @@ title: Home
       <h6><span class="post-cat">{{ post.categories }}</span></h6>
       <h5><span class="post-title">{{ post.title }}</span></h5>
       <h3><span class="post-description">{{ post.description }}</span></h3>
-        
+
       </div>
     </div>
   </a>
@@ -26,14 +26,14 @@ title: Home
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}" class="next">Older</a>
+    <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}" class="next">OLDER</a>
   {% else %}
-    <span class="pagination-button">Older</span>
+    <span class="pagination-button">OLDER</span>
   {% endif %}
 
   {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">Newer</a>
+    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">NEWER</a>
     {% else %}
-      <span class="pagination-button">Newer</span>
+      <span class="pagination-button">NEWER</span>
   {% endif %}
 </div>
