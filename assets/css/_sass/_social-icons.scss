@@ -1,4 +1,4 @@
-$icon-transition-time: .6s;
+$icon-transition-time: .4s;
 $envelope-color: #f39c12;
 $twitter-color: #00aced;
 $instagram-color: #375989;
@@ -26,13 +26,18 @@ $youtube-color: #ff0000;
 }
 
 .fa-envelope {
-  padding: 1px;
+  padding: 6px;
   @include social-media-icon($envelope-color, $icon-transition-time);
 }
 
 .fa-twitter {
-  padding: 1px;
+  padding: 6px;
   @include social-media-icon($twitter-color, $icon-transition-time);
+}
+
+.fa-facebook {
+  padding: 6px;
+  @include social-media-icon($facebook-color, $icon-transition-time);
 }
 
 .fa-instagram {
@@ -48,11 +53,6 @@ $youtube-color: #ff0000;
 .fa-linkedin {
   padding: 5px;
   @include social-media-icon($linkedin-color, $icon-transition-time);
-}
-
-.fa-facebook {
-  padding: 1px;
-  @include social-media-icon($facebook-color, $icon-transition-time);
 }
 
 .fa-google-plus {

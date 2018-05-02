@@ -14,23 +14,31 @@
 .post-info {
   display: block;
   margin-top: 3em;
-  margin-bottom: 1rem;
+  margin-bottom: .5rem;
 }
 .post-date {
   padding: 0;
   margin: 0;
-}	
+}
 .post-title {
-  padding: 2px 0 12px 0;
+  padding: 1px 0 8px 0;
+}
+.upper-post-share {
+  padding-bottom: 2rem;
+  float: right;
+}
+.post-author h2{
+  padding: 0px 0 0 0;
 }
 .featured-image img {
   align: middle;
-  margin: 5px auto 5px;
+  margin: 0px 0 0 0px;
   display: block;
   max-width: 600px;
 }
 .featured-image {
-  margin-bottom: 25px;
+  margin-bottom: 0 0 25px 0;
+  padding: 0px 0 0px 0;
 }
 @media (max-width: $container-width) {
   .page-content {
@@ -64,12 +72,12 @@
     max-width: 95vw;
   }
 }
-.post-share {
+.lower-post-share {
   padding-bottom: 1rem;
   float: right;
 }
 .sharing-icons a {
-  
+
 }
 
 /*
