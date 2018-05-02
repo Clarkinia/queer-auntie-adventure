@@ -86,6 +86,25 @@ layout: default
     </div>
   </div>
 
+    <!--
+  <article>
+    <a href="{{ site.github.url }}{{ post.url }}">
+      <div class="featured-posts"
+           {% if post.image.feature %}
+           style="background-image:url({{ site.github.url }}/assets/img/{{ post.image.feature }})"
+           {% endif %}>
+        <div class="post-description-container">
+        <h6><span class="post-cat">{{ post.categories }}</span></h6>
+        <h5><span class="post-title">{{ post.title }}</span></h5>
+        <h3><span class="post-description">{{ post.description }}</span></h3>
+
+        </div>
+      </div>
+    </a>
+  </article>
+  -->
+
+
   <div class="related">
   <!--  <h2>You may also enjoy...</h2> -->
     {% assign listed_posts_urls = page.url | split: ' ' %}
@@ -95,17 +114,20 @@ layout: default
           {% if listed_posts_urls contains mypost.url %}
           {% else %}
             <li>
-              <h3>
+              <h5>
                 <a href="{{ site.github.url }}{{ mypost.url }}">
-                  <div class="related-thumbnail">
-                    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ mypost.image.feature }}">
+                  <div class="related-thumbnail"
+                       {% if mypost.image.feature %}
+                       style="background-image:url({{ site.github.url }}/assets/img/{{ mypost.image.feature }})"
+                       {% endif %}>
+                    <div class="related-title-container">
+                    <h6><span class="related-cat">{{ mypost.categories }}</span></h6>
+                    <h5><span class="related-title">{{ mypost.title }}</span></h5>
+                    <h3><span class="related-description">{{ mypost.description }}</span></h3>
+                    </div>
                   </div>
-                  <div class="related-title">
-                    {{ mypost.title }}
-                  </div>
-                  <!--<small>{{ mypost.date | date: "%B %-d, %Y" }}</small>-->
                 </a>
-              </h3>
+              </h5>
             </li>
             {% assign listed_posts_urls = listed_posts_urls | push: mypost.url %}
           {% endif %}

@@ -74,7 +74,7 @@
 }
 .lower-post-share {
   padding-bottom: 1rem;
-  float: right;
+  float: left;
 }
 .sharing-icons a {
 
@@ -83,39 +83,74 @@
 /*
   Related Posts
 */
-
 .related {
-  padding-bottom: 1rem;
-}
-.related img {
-  width: 600px;
-  //padding-bottom: 20rem;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  position: absolute;               /* 2 */
-  //top: 10%;
-  //vertical-align: top;
-  //width: 100%;
-  //height: 100%;
+  margin: 100px 0 100px 0px;
+  padding: 0px;
 }
 .related-posts {
-  padding: 10px 0px 10px;
-  list-style: none;
-  display: inline-block;
+  list-style-type: none;
 }
 .related-thumbnail {
-  background-size: cover;
-	background-repeat: no-repeat;
-  float: left;
-  position: relative;
-  width: 600px;
   height: 200px;
-  overflow: hidden;
+  padding: 0px;
+  margin: 0 0 0px 0px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.related-thumbnail h5 h6 h3 {
+  padding: 0;
+  margin: 0;
+  line-height: 0px;
+}
+.related-title-container {
+  float:right;
+  display: inline-block;
+  width: 30%;
+  height: 45%;
+  padding: 20px;
+  margin: 40px 30px 0px 0px;
+  background: white;
+  vertical-align: baseline;
+}
+.related-cat {
+  font: $base-font-family;
+  color: #ff5062;
+  font-size: 1em;
+  font-weight: 400;
+  text-transform: uppercase;
+  padding: 0px;
+  margin: 0px;
+  line-height:0;
 }
 .related-title {
-  float: right;
-  padding-bottom: .5rem;
+  font-size: 20px;
+  font-weight: 400;
+  padding: 0px;
+  margin: 0px;
+  line-height: 20px;
+}
+.related-description {
+  font-size: 10px;
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0px;
+  padding: 0px;
+  margin: 0px;
+  line-height: 10px;
+}
+.related-thumbnail:hover {
+  outline: black solid 1px;
+  border-left: 2px solid black;
+  border-bottom: 3px solid black;
+}
+.related-thumbnail:hover div {
+  background: black;
+  color: white;
+}
+.related-thumbnail:hover h5 {
+  text-decoration: underline;
+  text-decoration-color: white;
 }
 @media (max-width: $container-width) {
   .related-thumbnail{
