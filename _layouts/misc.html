@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="page-title misc-content">
+<div class="misc-content">
   <h1>
     {{ page.title }}
   </h1>
@@ -11,15 +11,15 @@ layout: default
 <article>
   <div class="row">
 
-  <div class="column">
-     <img src="{{ site.github.url }}/assets/img/rmc.jpg" height="400px" >
-  </div>
+    <div class="photo-column">
+       <img src="{{ site.github.url }}/assets/img/rmc.jpg" >
+    </div>
 
-  <div class="column">
-  {{ content }}
-  </div>
+    <div class="text-column">
+     {{ content }}
+    </div>
 
-</div>
+  </div>
 </article>
 
 </div>

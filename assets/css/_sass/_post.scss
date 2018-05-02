@@ -30,16 +30,7 @@
 .post-author h2{
   padding: 0px 0 0 0;
 }
-.featured-image img {
-  align: middle;
-  margin: 0px 0 0 0px;
-  display: block;
-  max-width: 600px;
-}
-.featured-image {
-  margin-bottom: 0 0 25px 0;
-  padding: 0px 0 0px 0;
-}
+
 @media (max-width: $container-width) {
   .page-content {
     width: 60vw;
@@ -84,7 +75,7 @@
   Related Posts
 */
 .related {
-  margin: 100px 0 100px 0px;
+  margin: 100px 0 20px 0px;
   padding: 0px;
 }
 .related-posts {

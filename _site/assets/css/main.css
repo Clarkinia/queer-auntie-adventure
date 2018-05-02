@@ -241,24 +241,38 @@ th, td {
   color: green; }
 
 .page-title {
-  padding: 0px 10px 10px; }
+  margin: 0px;
+  padding: 0px; }
 
 .misc-content {
-  max-width: 1100px;
+  width: 600px;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
-  margin-bottom: 200px; }
+  margin-bottom: 10px; }
+
+.misc-content img {
+  width: 300px;
+  padding: 0px 20px 0 20px; }
+
+.misc-content a {
+  color: blue;
+  text-decoration: underline;
+  text-decoration-color: #3eb984; }
 
 .row {
-  display: flex; }
+  margin: 0px;
+  padding: 0px; }
 
 /* Create two equal columns that sits next to each other */
-.column {
-  flex: 50%;
-  padding: 10px;
-  height: 300px;
-  /* Should be removed. Only for demonstration */ }
+.photo-column {
+  margin: 0px;
+  padding: 0px; }
+
+.text-column {
+  margin: 0px 0 0 0;
+  padding: 0px 20px 0 20px; }
 
 /*
 background-image {
@@ -304,16 +318,6 @@ background: {
 .post-author h2 {
   padding: 0px 0 0 0; }
 
-.featured-image img {
-  align: middle;
-  margin: 0px 0 0 0px;
-  display: block;
-  max-width: 600px; }
-
-.featured-image {
-  margin-bottom: 0 0 25px 0;
-  padding: 0px 0 0px 0; }
-
 @media (max-width: 1100px) {
   .page-content {
     width: 60vw;
@@ -350,7 +354,7 @@ background: {
   Related Posts
 */
 .related {
-  margin: 100px 0 100px 0px;
+  margin: 100px 0 20px 0px;
   padding: 0px; }
 
 .related-posts {
@@ -535,21 +539,23 @@ background: {
   .dropdown:hover .dropbtn {
     background-color: #f1f1f1; } }
 .footer {
-  min-height: 100px;
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   margin: 0px;
+  padding: 0px; }
+
+.signature {
+  font-family: 'Mr De Haviland', cursive;
+  font-size: 2em;
   padding: 0px;
-  width: 100%;
-  position: fixed;
-  background-color: white;
-  box-shadow: 0 5px 6px -6px #bbb; }
+  margin: 0px; }
 
 @media (max-width: 1100px) {
   .footer {
     min-height: 86px;
-    width: 95vw;
-    position: fixed;
-    background-color: white;
-    box-shadow: 0 5px 6px -6px #bbb; } }
+    width: 95vw; } }
 .footer a {
   text-decoration: none;
   color: blue; }

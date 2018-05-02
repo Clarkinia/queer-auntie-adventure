@@ -1,27 +1,44 @@
 
-
-
-
-
 .page-title {
-  padding: 0px 10px 10px;
+  margin: 0px;
+  padding: 0px;
 }
+
 .misc-content {
-  max-width: $container-width;
+  width: 600px;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
-  margin-bottom: 200px;
+  margin-bottom: 10px;
+}
+.misc-content img {
+  width: 300px;
+  padding: 0px 20px 0 20px;
+}
+.misc-content a {
+  color: blue;
+  text-decoration: underline;
+  text-decoration-color: #3eb984;
 }
 .row {
-  display: flex;
+  //display: flex;
+  margin: 0px;
+  padding: 0px;
 }
 /* Create two equal columns that sits next to each other */
-.column {
-    flex: 50%;
-    padding: 10px;
-    height: 300px; /* Should be removed. Only for demonstration */
+.photo-column {
+    //flex: 10%;
+    margin: 0px;
+    padding: 0px;
+    //height: 300px; /* Should be removed. Only for demonstration */
 }
+.text-column {
+    //flex: 90%;
+    margin: 0px 0 0 0;
+    padding: 0px 20px 0 20px;
+}
+
 /*
 background-image {
   background-color: #cccccc;

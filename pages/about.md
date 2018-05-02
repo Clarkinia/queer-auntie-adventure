@@ -6,7 +6,7 @@ Regina Clarkinia is an artist, comedian and writer based in Los Angeles. She has
 
 Regina’s approach to children’s entertainment combines fantasy with realism and family-friendly, irreverent, kid-led storytelling. She has taught kids to make their own video games, zines and audio/video productions, including a musical history of the Black Panthers.
 
-She worked professionally as a photographer and videographer on educational web content, and has made indie videos, including a microbudget children’s show that exhibited at Martina-Johnston Gallery in Berkeley, CA.
+She worked professionally as a photographer and videographer on educational web content, and has made indie videos, including a microbudget [children’s show](https://vimeo.com/24359577) that exhibited at Martina-Johnston Gallery in Berkeley, CA.
 
 Regina reads tarot cards and astrology charts. She writes about mysticism and teaches practical meditation techniques.
 

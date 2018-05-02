@@ -1,20 +1,30 @@
 .footer {
-  min-height: 100px;
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   margin: 0px;
   padding: 0px;
-  width: 100%;
-  position: fixed;
-  background-color: white;
-  box-shadow: 0 5px 6px -6px #bbb;
-}
 
+  //min-height: 100px;
+  //height: 60em;
+  //margin: 0px;
+  //padding: 0px;
+  //width: 100%;
+  //position: relative;
+  //background-color: white;
+  //box-shadow: 0 5px 6px -6px #bbb;
+}
+.signature {
+  font-family: 'Mr De Haviland', cursive;
+  font-size: 2em;
+  padding: 0px;
+  margin: 0px;
+}
 @media (max-width: $container-width) {
   .footer {
     min-height: 86px;
     width: 95vw;
-    position: fixed;
-    background-color: white;
-    box-shadow: 0 5px 6px -6px #bbb;
   }
 }
 .footer a {
