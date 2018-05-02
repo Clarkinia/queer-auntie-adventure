@@ -9,34 +9,17 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 10px;
+  margin-top: 0px;
   margin-bottom: 10px;
 }
 .misc-content img {
   width: 300px;
-  padding: 0px 20px 0 20px;
+  padding: 0px 0 0 0;
 }
 .misc-content a {
   color: blue;
   text-decoration: underline;
   text-decoration-color: #3eb984;
-}
-.row {
-  //display: flex;
-  margin: 0px;
-  padding: 0px;
-}
-/* Create two equal columns that sits next to each other */
-.photo-column {
-    //flex: 10%;
-    margin: 0px;
-    padding: 0px;
-    //height: 300px; /* Should be removed. Only for demonstration */
-}
-.text-column {
-    //flex: 90%;
-    margin: 0px 0 0 0;
-    padding: 0px 20px 0 20px;
 }
 
 /*
