@@ -22,3 +22,7 @@ author:              "Regina Clarkinia"
 #   path:	     rss-feed.xml
 url: https://github.com/Clarkinia/queer-auntie-adventure.git
 baseurl: ''
+
+#Adding a snipcart store
+collections:
+- readings
