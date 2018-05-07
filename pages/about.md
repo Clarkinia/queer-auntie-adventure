@@ -1,6 +1,7 @@
 ---
 layout: misc
 title:
+image: rmc.jpg
 ---
 Regina Clarkinia is an artist, comedian and writer based in Los Angeles. She has performed in popular weekly comedy shows around LA and has exhibited funny videos and performed live at art galleries, including Krowswork and Sweeney Kaye in Oakland, CA.
 
