@@ -159,6 +159,7 @@ th, td {
     display: block;
     width: 95vw; } }
 .store {
+  background-color: #ffe6cc;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -177,6 +178,10 @@ th, td {
 
 .store-items ul {
   list-style-type: none; }
+
+.store-images {
+  color: blue;
+  fill: blue; }
 
 .store-items li {
   float: left;

@@ -3,7 +3,7 @@ name: Natal Chart
 price: 150.00
 slug: natal-chart
 sku: ASTnat
-image: store_natal_puzzle-piece.svg
+image: store_natal_noun_1189862_cc.svg
 max: 1
 byline: I care about my life patterns and family roots.
 ---

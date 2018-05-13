@@ -12,7 +12,7 @@ title:
       {% for reading in site.readings %}
         <li>
           <a href="{{ reading.url }}">
-          <img src="{{ site.github.url }}/assets/img/{{ reading.image }}" height="100" width="100">
+          <span class="store-images"><img src="{{ site.github.url }}/assets/img/{{ reading.image }}" height="80" width="80"></span>
           <h8>{{ reading.byline }}</h8>
           <p>{{ reading.price }}</p>
           </a>
