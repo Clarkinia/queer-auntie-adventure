@@ -1,26 +1,24 @@
-
-.page-title {
-  margin: 0px;
-  padding: 0px;
-}
-
 .misc-content {
-  width: 600px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 20px;
-  margin-bottom: 10px;
+  width: 600px;
+  padding: 0px;
 }
-.misc-content img {
+.photo img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 300px;
-  padding: 0px 0 0 0;
+  padding: 0px;
+  border-radius: 50%;
 }
 .misc-content a {
   color: blue;
   text-decoration: underline;
   text-decoration-color: #3eb984;
 }
+
 @media (max-width: $container-width) {
   .misc-content {
     width: 60vw;
@@ -53,26 +51,3 @@
     max-width: 95vw;
   }
 }
-@media (max-width: $container-width) {
-.misc-content img{
-    width: 60vw;
-  }
-}
-@media (max-width: $tablet-width) {
-.misc-content img{
-    width: 95vw;
-  }
-}
-/*
-background-image {
-  background-color: #cccccc;
-  background-image: url('{{ site.baseurl }}assets/img/towncats.jpg');
-}
-
-background: {
-    image: url('..img/towncats.jpg');
-    position: top center;
-    size: cover;
-    repeat: no-repeat;
-  }
-*/

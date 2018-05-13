@@ -53,6 +53,19 @@ h3 {
   text-transform: uppercase;
   letter-spacing: .1em; }
 
+h5 {
+  font-weight: 700;
+  font-size: 62px;
+  line-height: 62px;
+  font-family: "Oswald", sans-serif; }
+
+h6 {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 32px;
+  font-family: "Oswald", sans-serif;
+  text-align: center; }
+
 p {
   display: block;
   margin-top: 1em;
@@ -145,6 +158,32 @@ th, td {
     margin: auto;
     display: block;
     width: 95vw; } }
+.store {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  padding: 10px; }
+
+.store-header {
+  text-align: center; }
+
+.store-items {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  padding: 10px; }
+
+.store-items ul {
+  list-style-type: none; }
+
+.store-items li {
+  float: left;
+  width: 260px;
+  padding: 20px;
+  margin: 20px auto 10px auto; }
+
 .featured-posts {
   height: 300px;
   padding: 20px;
@@ -247,21 +286,20 @@ th, td {
 .pagination a:hover {
   color: green; }
 
-.page-title {
-  margin: 0px;
-  padding: 0px; }
-
 .misc-content {
-  width: 600px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 20px;
-  margin-bottom: 10px; }
+  width: 600px;
+  padding: 0px; }
 
-.misc-content img {
+.photo img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 300px;
-  padding: 0px 0 0 0; }
+  padding: 0px;
+  border-radius: 50%; }
 
 .misc-content a {
   color: blue;
@@ -296,25 +334,6 @@ th, td {
     margin: 5px auto 5px;
     display: block;
     max-width: 95vw; } }
-@media (max-width: 1100px) {
-  .misc-content img {
-    width: 60vw; } }
-@media (max-width: 600px) {
-  .misc-content img {
-    width: 95vw; } }
-/*
-background-image {
-  background-color: #cccccc;
-  background-image: url('{{ site.baseurl }}assets/img/towncats.jpg');
-}
-
-background: {
-    image: url('..img/towncats.jpg');
-    position: top center;
-    size: cover;
-    repeat: no-repeat;
-  }
-*/
 .page-content {
   width: 600px;
   display: block;
@@ -491,9 +510,9 @@ background: {
 .author-subhead {
   font: "Oswald", sans-serif;
   font-size: 1em;
-  font-weight: 400;
+  font-weight: 200;
   color: black;
-  letter-spacing: 1px;
+  letter-spacing: .6px;
   line-height: 20px;
   text-align: center;
   margin: 0;

@@ -32,3 +32,30 @@
     width: 95vw;
   }
 }
+.store {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  padding: 10px;
+}
+.store-header {
+  text-align: center;
+}
+.store-items {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  padding: 10px;
+}
+.store-items ul {
+  list-style-type: none;
+}
+.store-items li {
+  float: left;
+  width: 260px;
+  padding: 20px;
+  margin: 20px auto 10px auto;
+  //margin-left: 20px;
+}

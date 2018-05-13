@@ -45,6 +45,19 @@ h3{
   text-transform: uppercase;
   letter-spacing: .1em;
 }
+h5 {
+  font-weight:700;
+  font-size: 62px;
+  line-height: 62px;
+  font-family: $base-font-family;
+}
+h6 {
+  font-weight:700;
+  font-size: 30px;
+  line-height: 32px;
+  font-family: $base-font-family;
+  text-align: center;
+}
 // for h4 see below in the a section figcaption
 // for h5 see the css for _home .featured_posts
 p {

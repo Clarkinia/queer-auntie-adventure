@@ -3,9 +3,11 @@ name: Tarot
 price: 80.00
 slug: tarot
 sku: TAR1hr
-image: reading_tarot.jpg
+image: store_tarot_map-signs.svg
 max: 1
+byline: I want perspective on my current situation.
+testimonial:
 ---
-One-hour tarot reading, either in-person or over the phone.
-Check in with your current life path.
-Become conscious of messages from your subconscious.
+One-hour tarot reading, either in-person or over the phone.Check in with your current life path. Become conscious of messages from your subconscious. Optional: send me your astrology birth time. Phone or In-Person.
+
+Define: How I devised this.
