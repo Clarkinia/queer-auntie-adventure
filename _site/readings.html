@@ -164,18 +164,45 @@ A chart contains your family roots and shows you this life’s possibilities.</p
   </div>
   <div class="store-subhead">
     <br />
-      <h9>[ How to reserve a reading with Regina ]</h9>
-        <ul>
-          <li><h8>Select your date and time</h8></li>
-          <br /><p>Submit your appointment details then pay to confirm your appointment.</p>
-          <li><h8>More options</h8></li>
-          <br /><p>Do you want a different time than what is available or to check on last-minute openings?</p>
-        </ul>
+    <form name="contact" method="POST" data-netlify="true" action="/thank_you.md">
+      <p class="hidden">   <!--- This is to distract bots using .hidden in the _default CSS file-->
+        <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+      </p>
+      <p>
+        <label>Select a Reading<br />
+          <input type="radio" name="reading" value="career" /> Career Chart<br />
+          <input type="radio" name="reading" value="natal" /> Natal Chart<br />
+          <input type="radio" name="reading" value="tarot" /> Tarot Reading<br />
+        </label>
+      </p>
+      <p>
+        <label>Your date of birth<br />
+          <input type="birth-date" name="bday" /><br />
+        </label>
+        <label>Your time of birth<br />
+          <input type="birth-time" name="usr_time" /><br />
+        </label>
+        <label>Where you were born
+          <input type="text" name="birth-location" value="Country, City, State" /><br />
+        </label>
+      </p>
+      <p>
+        <label>Your Name: <input type="text" name="name" /></label>   
+      </p>
+      <p>
+        <label>Your Email: <input type="email" name="email" /></label>
+      </p>
+      <p>
+        <label>Your Phone: <input type="tel" name="email" /></label>
+      </p>
+      <p>
+        <label>Message: <textarea name="message"></textarea></label>
+      </p>
+      <p>
+        <button type="submit">Send</button>
+      </p>
+    </form>
   </div>
-  <div class="store-policy">
-  <h8>24-hour No Show, Cancellation &amp; Reschedule Policy</h8>
-    <p>If you miss your appointment, cancel or reschedule with less than 24-hours notice, you will be charged the full fee. When you schedule an appointment, Regina reserves that time and space for you. If you make last-minute changes, it limits the chances for booking other clients. </p>
-    </div>
 </article>
 <br />
 <div class="attribution">
