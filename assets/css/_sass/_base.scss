@@ -58,6 +58,18 @@ h8 {
   font-family: $base-font-family;
   text-align: center;
 }
+h9 {
+  font-weight:200;
+  font-size: 30px;
+  line-height: 32px;
+  font-family: $base-font-family;
+  text-align: center;
+  letter-spacing: 1px;
+  opacity: 0.6;
+  //font-style: italic;
+  //text-transform: uppercase;
+  //color: #595959;
+}
 // for h4 see below in the a section figcaption
 // for h5 see the css for _home .featured_posts
 p {
@@ -77,6 +89,18 @@ p {
 a {
   color: black;
   text-decoration:none;
+}
+h4 {
+font-style: italic;
+font-weight: 400;
+font-size: .7em;
+color: #9a9a9a;
+text-decoration: none;
+padding: none;
+margin-top: 0;
+margin-bottom: 0;
+margin-left: 0;
+margin-right: 0;
 }
 h4 figcaption a {
   font-style: italic;

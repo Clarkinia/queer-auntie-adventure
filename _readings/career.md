@@ -3,7 +3,7 @@ name: Career Chart
 price: 150.00
 slug: career-chart
 sku: ASTcar
-image: store_career_noun_1479176_cc.svg
+image: store_career_noun_1502690_cc.svg
 max: 1
 byline: I am ready for a career game plan.
 ---

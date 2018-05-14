@@ -27,10 +27,3 @@ collections:
   readings:
     output: true
     permalink: /readings/:path/
-
-defaults:
-  - scope:
-      path: ""
-      type: "readings"
-    values:
-      layout: store
