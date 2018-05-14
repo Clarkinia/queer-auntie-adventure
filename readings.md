@@ -29,9 +29,9 @@ title:
     <br>
       <h9>[ How to reserve a reading with Regina ]</h9>
         <ul>
-          <li><h8>Choose your date and time.</h8></li>
+          <li><h8>Select your date and time</h8></li>
           <br><p>Submit your appointment details then pay to confirm your appointment.</p>
-          <li><h8>More options.</h8></li>
+          <li><h8>More options</h8></li>
           <br><p>Do you want a different time than what is available or to check on last-minute openings?</p>
         </ul>
   </div>
