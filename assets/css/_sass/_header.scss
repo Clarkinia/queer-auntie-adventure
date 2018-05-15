@@ -24,7 +24,6 @@
   margin: 0;
   padding: 24px 0 0 0;
   text-align:center;
-  //font-style: italic;
 }
 .site-title a {
   text-decoration: none;
@@ -53,7 +52,6 @@
 .author-subhead a:hover {
   color: green;
 }
-
 .menu-list {
   line-height: $header-thickness;
   float: right;
@@ -61,11 +59,8 @@
 .menu-link {
   padding: 10px;
 }
-
 /*
   Responsiveness with a dropdown menu
-*/
-
 @media (min-width: $container-width) {
   .dropbtn {
     display: none;
@@ -118,3 +113,4 @@
       background-color: #f1f1f1;
   }
 }
+*/

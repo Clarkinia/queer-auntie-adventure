@@ -1,51 +1,31 @@
 <head>
-
   <title>
     {% if page.title == "Home" %}
-      {{ site.data.settings.title }} | {{ site.data.settings.tagline }}
+      {{ site.data.settings.title }}
     {% else %}
       {{ page.title }} | {{ site.data.settings.title }}
     {% endif %}
   </title>
-
+  <!-- fonts and  SVG images, I think  -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
-
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/syntax.css">
-  <!-- RSS-v2.0
-  <link href="{{ site.github.url }}/feed.xml" type="application/rss+xml" rel="alternate" title="{{ site.data.settings.title }} | {{ site.data.settings.tagline }}"/>
-  //-->
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
-
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.0.11/css/fork-awesome.min.css" integrity="sha256-MGU/JUq/40CFrfxjXb5pZjpoZmxiP2KuICN5ElLFNd8=" crossorigin="anonymous">
-
+  <link rel= "stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.0.11/css/fork-awesome.min.css" integrity="sha256-MGU/JUq/40CFrfxjXb5pZjpoZmxiP2KuICN5ElLFNd8=" crossorigin="anonymous">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:200,400,400i,700">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:200,400,600" rel="stylesheet">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mr+De+Haviland" rel="stylesheet">
-
-
-
-
+    <!-- probably needed for pagination, not sure though -->
   <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-
   {% include google-analytics.html %}
   <!-- Use Atom -->
   {% feed_meta %}
-
   <!-- Use Jekyll SEO plugin -->
   {% seo %}
-
-  <!-- Pretty sure I need this for Snipcart store -->
-  {% for script in layout.head %}
-   {% include {{ script }} %}
- {% endfor %}
-
-  <!-- Snipcart store
+  <!-- Installed jquery when I was testing Snipcart store
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
-  <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="MGI0ODA1MjgtNzQ3My00YzAxLWE5MjktZmY0ZmRkMWEyZDU4NjM2NjExNTM5OTQ0NDQzOTYz"></script>
-  <link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" type="text/css" rel="stylesheet" />
  -->
-
+ <!-- RSS-v2.0
+ <link href="{{ site.github.url }}/feed.xml" type="application/rss+xml" rel="alternate" title="{{ site.data.settings.title }} | {{ site.data.settings.tagline }}"/>
+  -->
 </head>

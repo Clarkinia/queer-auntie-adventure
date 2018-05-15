@@ -1,9 +1,7 @@
 title:  "Queer Auntie Internet Adventure"
-tagline: "If you've thought about it, I have wondered about it."
+tagline:
 
 url: "https://www.queerauntie.com/"
-
-# Authors documented under _data
 
 # Change to true for Disqus comments
 disqus:
@@ -14,15 +12,8 @@ disqus:
 # menu:
 # - {name: 'queer auntie internet adventure', folder: 'pages', file: 'about.html'}
 
-
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social-connect:
 - {icon: 'vimeo', link: 'https://vimeo.com/12326391'}
 - {icon: 'youtube', link: 'https://www.youtube.com/watch?v=C-ypQm2FimA'}
 - {icon: 'mastodon', link: 'https://mastodon.social/@Clarkinia/'}
-# - {icon: 'rss-square', link: 'feed.xml'}
-
-# social-share:
-# - {icon: 'twitter', link: 'https://twitter.com/intent/tweet?', via= '{{ site.data.authors.primary.twitter }}' }
-# - {icon: 'facebook', link: 'https://www.youtube.com/watch?v=C-ypQm2FimA'}
-# - {icon: 'envelope', link: 'https://mastodon.social/@Clarkinia/'}

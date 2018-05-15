@@ -5,14 +5,12 @@ layout: default
   <meta name="twitter:card"  content="summary_large_image">
   <meta name="twitter:image" content="https://www.queerauntie.com/assets/img/{{ page.image.feature }}">
 </head>
-
 <div class="page-content">
   <div class="post-info">
    <h3>
-     <span class="post-cat">
+    <span class="post-cat">
       {{ page.categories }}
-     </span>
-
+    </span>
     <span class="post-date">
     {% assign d = page.date | date: "%-d"  %}
     {{ page.date | date: "%B" }}
@@ -22,32 +20,23 @@ layout: default
       {% when '3' or '23' %}{{ d }}rd
       {% else %}{{ d }}th{% endcase %},
     {{ page.date | date: "%Y" }}
-     </span>
-
-    </h3>
-  </div>
-
-  <div class="post-title">
-  <h1>
+    </span>
+   </h3>
+ </div>
+ <!-- closing out postinfo -->
+ <div class="post-title">
+   <h1>
     {{ page.title }}
-  </h1>
-  </div>
-
-  <div class="upper-post-share">
-    <div class="sharing-icons">
+   </h1>
+ </div>
+ <div class="upper-post-share">
+   <div class="sharing-icons">
       SHARE
-      <!--
-      {% for item in site.data.settings.social-share %}
-        <a href="{{ item.link }}" url="{{ site.github.url }}{{ page.url }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-      {% endfor %}
-      //some stuff
-      -->
       <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ "https://www.queerauntie.com" }}{{ page.url }}&amp;via={{ site.data.authors.primary.twitter }}"target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
       <a href="https://www.facebook.com/sharer/sharer.php?u={{ "https://www.queerauntie.com" }}{{ page.url }}&amp;title={{ page.title }} target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
       <a href="mailto:?&amp;subject={{ page.title }}&amp;body=Check%20out%20this%20post%20I%20just%20read%0D%0A{{ "https://www.queerauntie.com" }}{{ page.url }}&amp; target="_top"> <i class="fa fa-envelope" aria-hidden="true"></i> </a>
     </div>
   </div>
-
   <span class="post-author">
     <h2>
       by
@@ -58,26 +47,22 @@ layout: default
      {% endif %}
     </h2>
   </span>
-
   {% if page.image.feature %}
     <div class="featured-image">
      <h4>
       <figure>
        <img src="{{ site.github.url }}/assets/img/{{ page.image.feature }}">
         <figcaption>
-          <a target="_blank" href= {{ page.image.creditlink }}> {{ page.image.credit }}</a>
+          <a target="_blank" href= {{ page.image.creditlink }}>{{ page.image.credit }}</a>
         </figcaption>
       </figure>
       </h4>
     </div>
   {% endif %}
-
   <article>
     {{ content }}
   </article>
-
   <div class="lower-post-share">
-    <!--<div class="post-date">Feel free to share!</div>-->
     <div class="sharing-icons">
       SHARE
       <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ "https://www.queerauntie.com" }}{{ page.url }}&amp;via={{ site.data.authors.primary.twitter }}"target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
@@ -85,28 +70,8 @@ layout: default
       <a href="mailto:?&amp;subject={{ page.title }}&amp;body=Check%20out%20this%20post%20I%20just%20read%0D%0A{{ "https://www.queerauntie.com" }}{{ page.url }}&amp; target="_top"> <i class="fa fa-envelope" aria-hidden="true"></i> </a>
     </div>
   </div>
-
-    <!--
-  <article>
-    <a href="{{ site.github.url }}{{ post.url }}">
-      <div class="featured-posts"
-           {% if post.image.feature %}
-           style="background-image:url({{ site.github.url }}/assets/img/{{ post.image.feature }})"
-           {% endif %}>
-        <div class="post-description-container">
-        <h6><span class="post-cat">{{ post.categories }}</span></h6>
-        <h5><span class="post-title">{{ post.title }}</span></h5>
-        <h3><span class="post-description">{{ post.description }}</span></h3>
-
-        </div>
-      </div>
-    </a>
-  </article>
-  -->
-
-
   <div class="related">
-  <!--  <h2>You may also enjoy...</h2> -->
+    <!-- <h2>RELATED</h2> -->
     {% assign listed_posts_urls = page.url | split: ' ' %}
     <ul class="related-posts">
       {% for tag in page.tags %}
@@ -135,9 +100,7 @@ layout: default
       {% endfor %}
     </ul>
   </div>
-
   {% if site.data.settings.disqus.comments %}
     {% include disqus.html %}
   {% endif %}
-
 </div>

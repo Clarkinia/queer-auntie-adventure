@@ -1,18 +1,15 @@
 /*
   Reset some basic elements
 */
-
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
 }
-
 /*
   Basic styling
 */
-
 body {
   font-family: $base-font-family;
   background: #f9e0e4;
@@ -45,6 +42,19 @@ h3{
   text-transform: uppercase;
   letter-spacing: .1em;
 }
+h4 {
+font-style: italic;
+font-weight: 400;
+font-size: .9em;
+color: #9a9a9a;
+text-decoration: none;
+padding: none;
+margin-top: 0;
+margin-bottom: 0;
+margin-left: 0;
+margin-right: 0;
+}
+// for h5 see the css for _home .featured_posts
 h7 {
   font-weight:700;
   font-size: 62px;
@@ -66,12 +76,7 @@ h9 {
   text-align: center;
   letter-spacing: 1px;
   opacity: 0.6;
-  //font-style: italic;
-  //text-transform: uppercase;
-  //color: #595959;
 }
-// for h4 see below in the a section figcaption
-// for h5 see the css for _home .featured_posts
 p {
   display: block;
   margin-top: 1em;
@@ -81,26 +86,12 @@ p {
   line-height: 1.65;
   font-family: $body-font-family;
 }
-
 /*
   Links
 */
-
 a {
   color: black;
   text-decoration:none;
-}
-h4 {
-font-style: italic;
-font-weight: 400;
-font-size: .7em;
-color: #9a9a9a;
-text-decoration: none;
-padding: none;
-margin-top: 0;
-margin-bottom: 0;
-margin-left: 0;
-margin-right: 0;
 }
 h4 figcaption a {
   font-style: italic;
@@ -114,11 +105,9 @@ h4 figcaption a {
   margin-left: 0;
   margin-right: 0;
 }
-
 /*
   Blockquote
 */
-
 blockquote {
   border-left: 0.25rem solid #ccc;
   margin: 1.5em 10px;
@@ -137,7 +126,6 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
-
 /**
  * Tables
  */
@@ -146,7 +134,6 @@ blockquote p {
      margin-bottom: 30px;
      width: 100%;
  }
-
  table, th, td {
      border: 1px solid black;
  }

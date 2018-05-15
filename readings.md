@@ -65,7 +65,7 @@ title:
         <label>Your date of birth<br>
           <input type="birth-date" name="bday"><br>
         </label>
-        <label>Your time of birth<br>
+        <label>Exact or Estimated or Don't Know time of birth<br>
           <input type="birth-time" name="usr_time"><br>
         </label>
         <label>Where you were born
