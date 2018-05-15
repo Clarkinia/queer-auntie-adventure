@@ -6,11 +6,6 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-.featured-posts h5 h6 h3 {
-  padding: 0;
-  margin: 0;
-  line-height: 0px;
-}
 .post-description-container {
   float:right;
   display: inline-block;
@@ -20,29 +15,17 @@
   margin-top: 120px;
   background: white;
   vertical-align: baseline;
+  line-height: 16px;
 }
-.post-cat {
-  font: $base-font-family;
-  color: #ff5062;
-  font-size: 1em;
-  font-weight: 400;
-  text-transform: uppercase;
-  padding: 0px;
+.post-cat h6 {
+  padding: 4px 0 0 0;
+  margin: 0px 0 0 0;
+}
+.post-title h5 {
+  padding: 29px 0 4px 0;
   margin: 0px;
-  line-height:0;
 }
-.post-title {
-  font-size: 20px;
-  font-weight: 400;
-  padding: 0px;
-  margin: 0px;
-  line-height: 20px;
-}
-.post-description {
-  font-size: 10px;
-  font-weight: 400;
-  text-transform: none;
-  letter-spacing: 0px;
+.post-description h10 {
   padding: 0px;
   margin: 0px;
   line-height: 10px;
@@ -54,11 +37,14 @@
 }
 .featured-posts:hover div {
   background: black;
-  color: white;
 }
 .featured-posts:hover h5 {
+  color: white;
   text-decoration: underline;
   text-decoration-color: white;
+}
+.featured-posts:hover h10 {
+  color: white;
 }
 /*
   Pagination
@@ -66,32 +52,16 @@
 .pagination {
   text-align: center;
 }
-.pagination a {
-  font: $base-font-family;
-  font-size: 1em;
-  font-weight: 400;
-  color: black;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  text-decoration: underline;
-  text-decoration-color: #3eb984;
-}
 .pagination-button {
-  color: #999;
   border: 1px solid #e0e0e0;
   padding: 15px 45px;
   margin-top: 10px;
   margin-bottom: 10px;
   display: inline-block;
-  font-size: 16px;
-  font-weight: none;
-}
-.pagination-active {
-  color: black;
 }
 .pagination-active:hover {
   background-color: #e0e0e0;
 }
-.pagination a:hover {
+.pagination-active:hover h11 {
   color: green;
 }

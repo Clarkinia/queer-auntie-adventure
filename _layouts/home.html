@@ -10,9 +10,9 @@ title: Home
          style="background-image:url({{ site.github.url }}/assets/img/{{ post.image.feature }})"
          {% endif %}>
       <div class="post-description-container">
-      <h6><span class="post-cat">{{ post.categories }}</span></h6>
-      <h5><span class="post-title">{{ post.title }}</span></h5>
-      <h3><span class="post-description">{{ post.description }}</span></h3>
+        <span class="post-cat"><h6>{{ post.categories }}</h6></span>
+        <span class="post-title"><h5>{{ post.title }}</h5></span>
+        <span class="post-description"><h10>{{ post.description }}</h10></span>
       </div>
     </div>
   </a>
@@ -21,13 +21,13 @@ title: Home
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}" class="next">OLDER</a>
+    <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}" class="next"><h11>OLDER</h11></a>
   {% else %}
-    <span class="pagination-button">OLDER</span>
+    <span class="pagination-button"><h12>OLDER</h12></span>
   {% endif %}
   {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">NEWER</a>
+    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}"><h11>NEWER</h11></a>
     {% else %}
-      <span class="pagination-button">NEWER</span>
+      <span class="pagination-button"><h12>NEWER</h12></span>
   {% endif %}
 </div>

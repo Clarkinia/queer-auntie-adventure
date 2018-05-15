@@ -7,8 +7,6 @@
   padding: 0px;
 }
 .signature {
-  font-family: 'Mr De Haviland', cursive;
-  font-size: 2em;
   padding: 0px;
   margin: 0px;
 }
@@ -18,10 +16,10 @@
     width: 95vw;
   }
 }
-.footer a {
- text-decoration: none;
- color: blue;
+.menu-list {
+  line-height: $header-thickness;
+  float: right;
 }
-.footer a:hover {
-  color: green;
+.menu-link {
+  padding: 10px;
 }

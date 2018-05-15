@@ -18,13 +18,7 @@ body {
   font-family: "Oswald", sans-serif;
   background: #f9e0e4; }
 
-body img {
-  align: middle;
-  margin: 5px auto auto auto;
-  display: block;
-  max-width: 600px; }
-
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h10 {
   font-family: "Libre Baskerville", serif; }
 
 h1 {
@@ -51,12 +45,21 @@ h4 {
   font-weight: 400;
   font-size: .9em;
   color: #9a9a9a;
-  text-decoration: none;
-  padding: none;
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-left: 0;
-  margin-right: 0; }
+  text-decoration: none; }
+
+h5 {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 20px;
+  color: black; }
+
+h6 {
+  font: "Oswald", sans-serif;
+  color: #ff5062;
+  font-size: 11px;
+  font-weight: 400;
+  text-transform: uppercase;
+  line-height: 0; }
 
 h7 {
   font-weight: 700;
@@ -80,6 +83,47 @@ h9 {
   letter-spacing: 1px;
   opacity: 0.6; }
 
+h10 {
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 9px;
+  text-transform: none;
+  letter-spacing: 0px;
+  color: black; }
+
+h11 {
+  font: "Oswald", sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  color: black;
+  letter-spacing: .8px;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: none;
+  text-decoration: underline;
+  text-decoration-color: #3eb984; }
+
+h12 {
+  font: "Oswald", sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  color: grey;
+  letter-spacing: .8px;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: none; }
+
+h13 {
+  font-family: 'Mr De Haviland', cursive;
+  font-size: 3em;
+  font-weight: 400;
+  line-height: 60px; }
+
+h14 {
+  font-family: 'Mr De Haviland', cursive;
+  font-size: 2em; }
+
 p {
   display: block;
   margin-top: 1em;
@@ -93,20 +137,24 @@ p {
   Links
 */
 a {
-  color: black;
-  text-decoration: none; }
+  color: blue;
+  text-decoration: underline;
+  text-decoration-color: #3eb984; }
 
 h4 figcaption a {
-  font-style: italic;
-  font-weight: 400;
-  font-size: .7em;
-  color: #9a9a9a;
-  text-decoration: none;
-  padding: none;
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-left: 0;
-  margin-right: 0; }
+  color: #9a9a9a; }
+
+h11 a {
+  color: black; }
+
+h11 a:hover {
+  color: green; }
+
+h13 a {
+  text-decoration: none; }
+
+h13 a:hover {
+  color: green; }
 
 /*
   Blockquote
@@ -207,11 +255,6 @@ th, td {
   background-repeat: no-repeat;
   background-size: cover; }
 
-.featured-posts h5 h6 h3 {
-  padding: 0;
-  margin: 0;
-  line-height: 0px; }
-
 .post-description-container {
   float: right;
   display: inline-block;
@@ -220,30 +263,18 @@ th, td {
   padding: 20px;
   margin-top: 120px;
   background: white;
-  vertical-align: baseline; }
+  vertical-align: baseline;
+  line-height: 16px; }
 
-.post-cat {
-  font: "Oswald", sans-serif;
-  color: #ff5062;
-  font-size: 1em;
-  font-weight: 400;
-  text-transform: uppercase;
-  padding: 0px;
-  margin: 0px;
-  line-height: 0; }
+.post-cat h6 {
+  padding: 4px 0 0 0;
+  margin: 0px 0 0 0; }
 
-.post-title {
-  font-size: 20px;
-  font-weight: 400;
-  padding: 0px;
-  margin: 0px;
-  line-height: 20px; }
+.post-title h5 {
+  padding: 29px 0 4px 0;
+  margin: 0px; }
 
-.post-description {
-  font-size: 10px;
-  font-weight: 400;
-  text-transform: none;
-  letter-spacing: 0px;
+.post-description h10 {
   padding: 0px;
   margin: 0px;
   line-height: 10px; }
@@ -254,12 +285,15 @@ th, td {
   border-bottom: 3px solid black; }
 
 .featured-posts:hover div {
-  background: black;
-  color: white; }
+  background: black; }
 
 .featured-posts:hover h5 {
+  color: white;
   text-decoration: underline;
   text-decoration-color: white; }
+
+.featured-posts:hover h10 {
+  color: white; }
 
 /*
   Pagination
@@ -267,33 +301,17 @@ th, td {
 .pagination {
   text-align: center; }
 
-.pagination a {
-  font: "Oswald", sans-serif;
-  font-size: 1em;
-  font-weight: 400;
-  color: black;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  text-decoration: underline;
-  text-decoration-color: #3eb984; }
-
 .pagination-button {
-  color: #999;
   border: 1px solid #e0e0e0;
   padding: 15px 45px;
   margin-top: 10px;
   margin-bottom: 10px;
-  display: inline-block;
-  font-size: 16px;
-  font-weight: none; }
-
-.pagination-active {
-  color: black; }
+  display: inline-block; }
 
 .pagination-active:hover {
   background-color: #e0e0e0; }
 
-.pagination a:hover {
+.pagination-active:hover h11 {
   color: green; }
 
 .misc-content {
@@ -310,11 +328,6 @@ th, td {
   width: 300px;
   padding: 0px;
   border-radius: 50%; }
-
-.misc-content a {
-  color: blue;
-  text-decoration: underline;
-  text-decoration-color: #3eb984; }
 
 @media (max-width: 1100px) {
   .misc-content {
@@ -344,6 +357,12 @@ th, td {
     margin: 5px auto 5px;
     display: block;
     max-width: 95vw; } }
+body img {
+  align: middle;
+  margin: 5px auto auto auto;
+  display: block;
+  max-width: 600px; }
+
 .page-content {
   width: 600px;
   display: block;
@@ -351,10 +370,6 @@ th, td {
   margin-right: auto;
   margin-top: 10px;
   margin-bottom: 10px; }
-
-.page-content a {
-  text-decoration: underline;
-  text-decoration-color: #3eb984; }
 
 .post-info {
   display: block;
@@ -427,8 +442,7 @@ th, td {
 
 .related-thumbnail h5 h6 h3 {
   padding: 0;
-  margin: 0;
-  line-height: 0px; }
+  margin: 0; }
 
 .related-title-container {
   float: right;
@@ -438,33 +452,20 @@ th, td {
   padding: 20px;
   margin: 40px 30px 0px 0px;
   background: white;
-  vertical-align: baseline; }
+  vertical-align: baseline;
+  line-height: 10px; }
 
 .related-cat {
-  font: "Oswald", sans-serif;
-  color: #ff5062;
-  font-size: 1em;
-  font-weight: 400;
-  text-transform: uppercase;
   padding: 0px;
-  margin: 0px;
-  line-height: 0; }
+  margin: 0px; }
 
 .related-title {
-  font-size: 20px;
-  font-weight: 400;
   padding: 0px;
-  margin: 0px;
-  line-height: 20px; }
+  margin: 0px; }
 
 .related-description {
-  font-size: 10px;
-  font-weight: 400;
-  text-transform: none;
-  letter-spacing: 0px;
   padding: 0px;
-  margin: 0px;
-  line-height: 10px; }
+  margin: 0px; }
 
 .related-thumbnail:hover {
   outline: black solid 1px;
@@ -476,8 +477,12 @@ th, td {
   color: white; }
 
 .related-thumbnail:hover h5 {
+  color: white;
   text-decoration: underline;
   text-decoration-color: white; }
+
+.related-thumbnail:hover h10 {
+  color: white; }
 
 @media (max-width: 1100px) {
   .related-thumbnail {
@@ -502,103 +507,15 @@ th, td {
     background-color: white;
     box-shadow: 0 5px 6px -6px #bbb; } }
 .site-title {
-  font-family: 'Mr De Haviland', cursive;
-  font-size: 3em;
-  font-weight: 400;
-  line-height: 60px;
   margin: 0;
   padding: 24px 0 0 0;
   text-align: center; }
 
-.site-title a {
-  text-decoration: none;
-  color: blue; }
-
-.site-title a:hover {
-  color: green; }
-
 .author-subhead {
-  font: "Oswald", sans-serif;
-  font-size: 1em;
-  font-weight: 400;
-  color: black;
-  letter-spacing: .6px;
-  line-height: 20px;
   text-align: center;
   margin: 0;
-  padding: 12px 0 22px 0;
-  text-transform: uppercase;
-  text-decoration: underline;
-  text-decoration-color: #3eb984; }
+  padding: 12px 0 22px 0; }
 
-.author-subhead a {
-  color: black; }
-
-.author-subhead a:hover {
-  color: green; }
-
-.menu-list {
-  line-height: 130px;
-  float: right; }
-
-.menu-link {
-  padding: 10px; }
-
-/*
-  Responsiveness with a dropdown menu
-@media (min-width: $container-width) {
-  .dropbtn {
-    display: none;
-  }
-  .dropdown-content {
-    display: none;
-  }
-}
-@media (max-width: $container-width) {
-  .menu-list {
-    display: none;
-  }
-  .site-title {
-    padding-right: 0.25rem;
-  }
-  .dropbtn {
-      background-color: white;
-      color: black;
-      padding: 16px;
-      margin-top: 4px;
-      font-size: 16px;
-      border: none;
-      cursor: pointer;
-  }
-  .dropdown {
-      position: relative;
-      display: inline-block;
-  }
-  .dropdown-content {
-      display: none;
-      position: absolute;
-      background-color: #f9f9f9;
-      min-width: 160px;
-      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-      z-index: 1;
-  }
-  .dropdown-content a {
-      color: black;
-      padding: 12px 16px;
-      text-decoration: none;
-      display: block;
-  }
-  .dropdown-content a:hover {
-    background-color: #f1f1f1
-  }
-  .dropdown:hover .dropdown-content {
-      display: block;
-  }
-  .dropdown:hover .dropbtn {
-      background-color: #f1f1f1;
-  }
-}
-*/
 .footer {
   height: 10em;
   display: flex;
@@ -608,8 +525,6 @@ th, td {
   padding: 0px; }
 
 .signature {
-  font-family: 'Mr De Haviland', cursive;
-  font-size: 2em;
   padding: 0px;
   margin: 0px; }
 
@@ -617,12 +532,12 @@ th, td {
   .footer {
     min-height: 86px;
     width: 95vw; } }
-.footer a {
-  text-decoration: none;
-  color: blue; }
+.menu-list {
+  line-height: 130px;
+  float: right; }
 
-.footer a:hover {
-  color: green; }
+.menu-link {
+  padding: 10px; }
 
 pre,
 code {
