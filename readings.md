@@ -24,8 +24,7 @@ title:
       {% endfor %}
     </ul>
   </div>
-
-    <br>
+  <!-- STORE -->
   <div class="store-orderform">
     <form name="contact" method="POST" data-netlify="true" action="/thank_you.md">
       <p class="hidden">   <!--- This is to distract bots using .hidden in the _default CSS file-->
@@ -33,13 +32,13 @@ title:
       </p>
       <p>
       <div class="reading-selector">
-        <label>Choose a Reading<br>
+        <p>Choose a Reading<br>
           <input id="career" type="radio" name="reading" value="career"> Career Chart<label class="drinkcard-cc career" for="career"></label>
 
           <input id="natal" type="radio" name="reading" value="natal"> Natal Chart<label class="drinkcard-cc natal" for="natal"></label>
 
           <input id="tarot" type="radio" name="reading" value="tarot"> Tarot Reading<label class="drinkcard-cc tarot" for="tarot"></label>
-        </label>
+        </p>
       </div>
       </p>
       <p><label>Available Appointments<br>
@@ -92,6 +91,8 @@ title:
         <button type="submit">Send</button>
       </p>
     </form>
+    <small><a href="https://github.com/rcotrina94/icons">
+    &copy; Icons by @rcotrina94 on Github</a></small>
   </div> <!--- clsoes out store-orderform -->
 </article>
 <br>

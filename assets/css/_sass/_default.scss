@@ -100,15 +100,16 @@ body .store {
   }
 }
 
+/*
 .reading-selector input{
     margin:0;padding:0;
     -webkit-appearance:none;
        -moz-appearance:none;
             appearance:none;
 }
-.career{background-image:url("{{ site.github.url }}/assets/img/store_buttons_career.jpg");}
-.natal{background-image:url("{{ site.github.url }}/assets/img/store_buttons_natal.jpg");}
-.tarot{background-image:url("{{ site.github.url }}/assets/img/store_buttons_tarot.jpg");}
+.career{background-image:url("https://www.queerauntie.com/assets/img/assets/img/store_buttons_career.jpg");}
+.natal{background-image:url("https://www.queerauntie.com/assets/img/assets/img/store_buttons_natal.jpg");}
+.tarot{background-image:url("https://www.queerauntie.com/assets/img/assets/img/store_buttons_tarot.jpg");}
 
 .reading-selector input:active +.drinkcard-cc{opacity: .9;}
 .reading-selector input:checked +.drinkcard-cc{
@@ -135,7 +136,9 @@ body .store {
             filter: brightness(1.2) grayscale(.5) opacity(.9);
 }
 
-/* Extras */
+
+Extras
 a:visited{color:#888}
 a{color:#444;text-decoration:none;}
 p{margin-bottom:.3em;}
+*/
