@@ -7,8 +7,7 @@ title:
   <div class="store-header">
     <h7>Choose a reading</h7>
       <div class="store-subhead">
-        <br>
-          <h9>[ Which of the following best describes you ]</h9>
+          <h9>Which of the following best describes you?</h9>
       </div>
   </div>
   <div class="store-items">
@@ -16,7 +15,7 @@ title:
       {% for reading in site.readings %}
         <li>
           <a href="{{ reading.url }}">
-          <span class="store-images"><img src="{{ site.github.url }}/assets/img/{{ reading.image }}" height="80" width="80"></span>
+          <span class="store-images"><img src="{{ site.github.url }}/assets/img/{{ reading.image }}" height="80px" width="80px"></span>
           <h8>{{ reading.byline }}</h8>
           <br>{{ reading.content }}
           <br>{{ reading.price }}
@@ -92,6 +91,6 @@ title:
 </article>
 <br>
 <div class="attribution">
-  <h4>Icons are designed by <a target="_blank" href="https://thenounproject.com/noomtah/"> Nithinan Tatah </a> and <a target="_blank" href="https://thenounproject.com/elki/"> Made.</a></h4>
+  <h4>Icons designed by <a target="_blank" href="https://thenounproject.com/noomtah/"> Nithinan Tatah </a> and <a target="_blank" href="https://thenounproject.com/elki/"> Made.</a></h4>
 </div>
 </body>
