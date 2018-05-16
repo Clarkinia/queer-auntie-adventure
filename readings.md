@@ -31,30 +31,14 @@ title:
       <p class="hidden">   <!--- This is to distract bots using .hidden in the _default CSS file-->
         <label>Don’t fill this out if you're human: <input name="bot-field"></label>
       </p>
-
-
-
-
-    <div class="cc-selector">
-
-        <input id="visa" type="radio" name="credit-card" value="visa" />
-        <label class="drinkcard-cc visa" for="visa"></label>
-
-        <input id="mastercard" type="radio" name="credit-card" value="mastercard" />
-        <label class="drinkcard-cc mastercard"for="mastercard"></label>
-
-    </div>
-
-
-<small><a href="https://github.com/rcotrina94/icons">
-    &copy; Icons by @rcotrina94 on Github</a></small>
-
       <p>
       <div class="reading-selector">
         <label>Choose a Reading<br>
-          <input id="career" type="radio" name="reading" value="career"> Career Chart<br>
-          <input id="natal" type="radio" name="reading" value="natal"> Natal Chart<br>
-          <input id="tarot" type="radio" name="reading" value="tarot"> Tarot Reading<br>
+          <input id="career" type="radio" name="reading" value="career"> Career Chart<label class="drinkcard-cc career" for="career"></label>
+
+          <input id="natal" type="radio" name="reading" value="natal"> Natal Chart<label class="drinkcard-cc natal" for="natal"></label>
+
+          <input id="tarot" type="radio" name="reading" value="tarot"> Tarot Reading<label class="drinkcard-cc tarot" for="tarot"></label>
         </label>
       </div>
       </p>

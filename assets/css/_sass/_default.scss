@@ -106,11 +106,12 @@ body .store {
        -moz-appearance:none;
             appearance:none;
 }
-.visa{background-image:url(http://i.imgur.com/lXzJ1eB.png);}
-.mastercard{background-image:url(http://i.imgur.com/SJbRQF7.png);}
+.career{background-image:url("{{ site.github.url }}/assets/img/store_buttons_career.jpg");}
+.natal{background-image:url("{{ site.github.url }}/assets/img/store_buttons_natal.jpg");}
+.tarot{background-image:url("{{ site.github.url }}/assets/img/store_buttons_tarot.jpg");}
 
-.cc-selector input:active +.drinkcard-cc{opacity: .9;}
-.cc-selector input:checked +.drinkcard-cc{
+.reading-selector input:active +.drinkcard-cc{opacity: .9;}
+.reading-selector input:checked +.drinkcard-cc{
     -webkit-filter: none;
        -moz-filter: none;
             filter: none;

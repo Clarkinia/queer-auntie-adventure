@@ -296,16 +296,19 @@ body .store {
   -moz-appearance: none;
   appearance: none; }
 
-.visa {
-  background-image: url(http://i.imgur.com/lXzJ1eB.png); }
+.career {
+  background-image: url("{{ site.github.url }}/assets/img/store_buttons_career.jpg"); }
 
-.mastercard {
-  background-image: url(http://i.imgur.com/SJbRQF7.png); }
+.natal {
+  background-image: url("{{ site.github.url }}/assets/img/store_buttons_natal.jpg"); }
 
-.cc-selector input:active + .drinkcard-cc {
+.tarot {
+  background-image: url("{{ site.github.url }}/assets/img/store_buttons_tarot.jpg"); }
+
+.reading-selector input:active + .drinkcard-cc {
   opacity: .9; }
 
-.cc-selector input:checked + .drinkcard-cc {
+.reading-selector input:checked + .drinkcard-cc {
   -webkit-filter: none;
   -moz-filter: none;
   filter: none; }
