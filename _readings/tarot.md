@@ -6,13 +6,14 @@ sku: TAR1hr
 image: store_tarot_noun_1479176_cc.svg
 max: 1
 byline: I want perspective on my current situation.
-layout: default
+layout: store
 description: Tarot Readings give you insight into what's going on in your life right now. Get practical advice and messages from your subconscious and higher guidance.
 how: How I devised this.
 what: 1-Hour Reading
 options:
   - Astrology chart reference.
 testimonial: The tarot reading you did for me turned out to be spot-on in ways I could never have imagined at that moment. Thank you for your insights and encouragement.
+testimonial-auth: E.R.
 button: store_buttons_tarot.jpg
 cta: Schedule a tarot reading
 ---

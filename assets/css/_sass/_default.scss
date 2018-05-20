@@ -104,9 +104,11 @@ body .store {
   margin:12px 0 12px 0;
 }
 .store-button h15{
-  //font-weight: bold;
   color: #1279c5;
+}
+.store-button h15:hover {
   text-decoration: underline;
+  color: green;
 }
 .store-button img{
   width: 200px;

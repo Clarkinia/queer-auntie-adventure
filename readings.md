@@ -38,7 +38,7 @@ title:
           <h15>{{ reading.cta }}</h15>
           <img src="{{ site.github.url }}/assets/img/{{ reading.button }}" ></div>
 
-          <div class="store-testimonial"><h16> <span class="dollar-amt">"{{ reading.testimonial }}"</span></h16></div>
+          <div class="store-testimonial"><h16>"{{ reading.testimonial }}" —{{ reading.testimonial-auth}} </h16></div>
           </a>
           <!--<hr>-->
         </li>

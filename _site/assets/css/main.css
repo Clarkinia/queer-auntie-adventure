@@ -128,8 +128,7 @@ h14 {
 h15 {
   font-family: Arial;
   font-size: 15px;
-  font-weight: normal;
-  line-height: 9px;
+  font-weight: 200;
   text-transform: none;
   letter-spacing: 0px;
   color: black; }
@@ -141,6 +140,15 @@ h16 {
   font-family: "Oswald", sans-serif;
   text-align: center;
   color: grey; }
+
+h17 {
+  font-family: Arial;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 200;
+  letter-spacing: 0px;
+  color: black;
+  line-height: -9px; }
 
 p {
   display: block;
@@ -312,8 +320,11 @@ body .store {
   margin: 12px 0 12px 0; }
 
 .store-button h15 {
-  color: #1279c5;
-  text-decoration: underline; }
+  color: #1279c5; }
+
+.store-button h15:hover {
+  text-decoration: underline;
+  color: green; }
 
 .store-button img {
   width: 200px;
@@ -667,6 +678,112 @@ pre {
   white-space: pre;
   overflow-x: auto;
   word-wrap: normal; }
+
+/*
+  Header
+*/
+.store-form-header {
+  padding: 40px;
+  margin: 0 0 0 40px;
+  display: block;
+  width: 1100px; }
+
+.store-form-title {
+  text-align: left;
+  float: left;
+  width: 400px; }
+
+.store-form-product {
+  color: white; }
+
+.store-form-subhead h11 {
+  text-decoration: none;
+  font-size: 1.4em; }
+
+/*
+  Site container
+*/
+body {
+  background-color: #8fc1e6; }
+
+.store-container {
+  width: 1100px;
+  margin-left: 0;
+  margin-right: 0; }
+
+.store-wrapper {
+  padding-top: 10px;
+  margin: auto;
+  display: block;
+  width: 1080px; }
+
+@media (max-width: 1100px) {
+  .store-container {
+    width: 95vw;
+    margin-left: auto;
+    margin-right: auto; }
+
+  .store-wrapper {
+    padding-top: 140px;
+    margin: auto;
+    display: block;
+    width: 95vw; } }
+.store-form-description {
+  padding: 0 40px 0 25px;
+  margin: 0 0 0 40px;
+  display: block;
+  width: 460px; }
+
+.store-form-includes {
+  margin: 10px 0 10px 0; }
+
+.store-form-includes h15 {
+  font-family: Arial;
+  font-weight: bold; }
+
+.store-form-includes ul {
+  margin: 0 0 14px 0;
+  line-height: 20px;
+  list-style-position: inside; }
+
+/*
+  Form
+*/
+.store-orderform {
+  width: 560px;
+  background-color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1px 40px 40px 40px;
+  text-align: left; }
+
+.store-orderform p {
+  font-family: Arial; }
+
+.store-form-section {
+  margin: 50px 0 0 0; }
+
+.store-form-question {
+  margin: 20px 0 0 0; }
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1; }
+
+.tooltip:hover .tooltiptext {
+  visibility: visible; }
+
+.timeframes {
+  word-spacing: 10px; }
 
 .fa-envelope {
   padding: 6px;

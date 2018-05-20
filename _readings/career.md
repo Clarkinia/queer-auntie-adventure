@@ -11,6 +11,7 @@ description: The Career Chart looks what roles you perform in the workplace, how
 how: How I devised this.
 what: PDF and 1-Hour Consultation
 testimonial: Regina helped me realize where my power was for my career, how to best handle issues that arise in that domain, and what to simply not worry about anymore.
+testimonial-auth: A.C.
 options:
   - 10-minute phone follow-up session a week after the session.
 button: store_buttons_career.jpg

@@ -1,0 +1,111 @@
+/*
+  Header
+*/
+.store-form-header {
+  padding: 40px;
+  margin: 0 0 0 40px;
+  display: block;
+  width: $container-width;
+}
+.store-form-title {
+  text-align: left;
+  float: left;
+  width: 400px;
+}
+.store-form-product {
+  color: white;
+}
+.store-form-subhead h11{
+  text-decoration: none;
+  font-size: 1.4em;
+}
+/*
+  Site container
+*/
+body {
+  background-color: #8fc1e6;
+  //background-image:url({{ site.github.url }}/assets/img/Clock-Alarm.png);
+}
+.store-container {
+  width: $container-width;
+  margin-left: 0;
+  margin-right: 0;
+}
+.store-wrapper {
+  padding-top: 10px;
+  margin: auto;
+  display: block;
+  width: $container-width - 20px;
+}
+@media (max-width: $container-width) {
+  .store-container {
+    width: 95vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .store-wrapper {
+    padding-top: $header-thickness+10px;
+    margin: auto;
+    display: block;
+    width: 95vw;
+  }
+}
+.store-form-description {
+  padding: 0 40px 0 25px;
+  margin: 0 0 0 40px;
+  display: block;
+  width: 460px;
+}
+.store-form-includes {
+  margin: 10px 0 10px 0;
+}
+.store-form-includes h15{
+  font-family: Arial;
+  font-weight: bold;
+}
+.store-form-includes ul {
+  margin: 0 0 14px 0;
+  line-height: 20px;
+  list-style-position: inside;
+}
+/*
+  Form
+*/
+.store-orderform {
+  width: 560px;
+  background-color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1px 40px 40px 40px;
+  text-align: left;
+}
+.store-orderform p{
+  font-family: Arial;
+}
+.store-form-section {
+ margin: 50px 0 0 0;
+}
+.store-form-question {
+  margin: 20px 0 0 0;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+.timeframes {
+  word-spacing: 10px;
+}
