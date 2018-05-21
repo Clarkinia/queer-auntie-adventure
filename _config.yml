@@ -4,7 +4,8 @@ paginate: 5
 markdown: kramdown
 highlighter: rouge
 permalink: none
-url: https://github.com/Clarkinia/queer-auntie-adventure.git
+# url: https://github.com/Clarkinia/queer-auntie-adventure.git
+url: https://queerauntie.com
 baseurl: ''
 plugins: [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 sass:

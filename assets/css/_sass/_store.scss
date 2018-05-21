@@ -22,12 +22,16 @@
 /*
   Site container
 */
-body {
-  //background-image: url("paper.gif");
-  background-image: url("{{ site.github.url }}/assets/img/store-form-natal-background.jpg");
+.store-form-body {
   background-color: #8fc1e6;
+
 }
 .store-container {
+  background-image: url('../../assets/img/store-form-natal-background.jpg');
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: right top;
+
   width: $container-width;
   margin-left: 0;
   margin-right: 0;
@@ -80,6 +84,7 @@ body {
   margin-right: auto;
   padding: 1px 40px 40px 40px;
   text-align: left;
+  box-shadow: 2px 2px 2px 2px rgba(0.1,0.1,0.1,0.1);
 }
 .store-orderform p{
   font-family: Arial;
@@ -90,7 +95,29 @@ body {
 .store-form-question {
   margin: 20px 0 0 0;
 }
-
+/*
+  Dropdown
+*/
+.date-selector select{
+  //background-color: #8fc1e6;
+  width: 200px;
+  border: 1px dotted #999;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 16px;
+}
+.date-selector option{
+  background-color: #8fc1e6;
+  width: 200px;
+  border: 1px dotted #999;
+  padding: 10px;
+  color:black;
+  font-weight: bold;
+  font-size: 16px;
+}
+/*
+  Mouseover Info Tidbits
+*/
 .tooltip .tooltiptext {
     visibility: hidden;
     width: 120px;
@@ -99,7 +126,6 @@ body {
     text-align: center;
     border-radius: 6px;
     padding: 5px 0;
-
     /* Position the tooltip */
     position: absolute;
     z-index: 1;
@@ -107,6 +133,82 @@ body {
 .tooltip:hover .tooltiptext {
     visibility: visible;
 }
+/*
+  Text Input Styles
+*/
+input[type=text] {
+  width: 400px;
+  border: 1px dotted #999;
+  font-weight: bold;
+  padding: 10px;
+  font-size: 16px;
+}
+input[type=date] {
+  font-family: inherit;
+  border: 1px dotted #999;
+  font-weight: bold;
+  padding: 10px;
+  font-size: 16px;
+}
+input[type=time] {
+  font-family: inherit;
+  border: 1px dotted #999;
+  font-weight: bold;
+  padding: 10px;
+  font-size: 16px;
+}
+/*
+  Text Input Placeholder
+*/
+input[type=text]::-webkit-input-placeholder { /* Safari, Chrome(, Opera?) */
+ color:gray;
+ font-style:italic;
+}
+input[type=text]:-moz-placeholder { /* Firefox 18- */
+ color:gray;
+ font-style:italic;
+}
+input[type=text]::-moz-placeholder { /* Firefox 19+ */
+ color:gray;
+ font-style:italic;
+}
+input[type=text]:-ms-input-placeholder { /* IE (10+?) */
+ color:gray;
+ font-style:italic;
+}
+input[type=date]::-webkit-input-placeholder { /* Safari, Chrome(, Opera?) */
+ color:gray;
+ font-style:italic;
+}
+input[type=date]:-moz-placeholder { /* Firefox 18- */
+ color:gray;
+ font-style:italic;
+}
+input[type=date]::-moz-placeholder { /* Firefox 19+ */
+ color:gray;
+ font-style:italic;
+}
+input[type=date]:-ms-input-placeholder { /* IE (10+?) */
+ color:gray;
+ font-style:italic;
+}
+input[type=time]::-webkit-input-placeholder { /* Safari, Chrome(, Opera?) */
+ color:gray;
+ font-style:italic;
+}
+input[type=time]:-moz-placeholder { /* Firefox 18- */
+ color:gray;
+ font-style:italic;
+}
+input[type=time]::-moz-placeholder { /* Firefox 19+ */
+ color:gray;
+ font-style:italic;
+}
+input[type=time]:-ms-input-placeholder { /* IE (10+?) */
+ color:gray;
+ font-style:italic;
+}
+
 .timeframes {
   word-spacing: 10px;
 }
@@ -119,7 +221,6 @@ body {
   font: $base-font-family;
   background-color: #8fc1e6;
   font-size: 40px;
-  //color: white;
   border-radius: 4px;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
@@ -127,7 +228,6 @@ body {
 }
 .store-form-button:hover {
     background-color: #4CAF50; /* Green */
-    //color: white;
 }
 .button-margins {
   margin: 25px 0 0 0;

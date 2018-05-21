@@ -70,7 +70,7 @@
   </div> <!---  closes out store-form-title -->
 </header>
 
-<body>
+<body class="store-form-body">
  <div class="store-container">
   <div class="store-wrapper">
 
@@ -161,7 +161,8 @@
     <div class="store-form-section">
       <h8>Schedule your appointment</h8><br>
         <div class="store-form-question">
-          <label><p>Select an available date
+          <div class="date-selector">
+          <label><p>Select an available date<br>
           <select name="schedule-date-time">
           <option value="06/02/11:00am">Sat 6/2 @11:00am</option>
           <option value="06/02/12:30pm">Sat 6/2 @12:30pm</option>
@@ -169,7 +170,7 @@
 
           <option value="06/04/11:00am">Mon 6/4 @11:00am</option>
           <option value="06/04/12:30pm">Mon 6/4 @12:30pm</option>
-          <option value="06/04/2:00pm">Mon 6/4 @2:00pm</option>
+          <option name="monday" value="06/04/2:00pm">Mon 6/4 @2:00pm</option>
 
           <option value="06/04/6:30pm">Mon 6/4 @6:30pm</option>
           <option value="06/04/8:00pm">Mon 6/4 @8:00pm</option>
@@ -211,6 +212,7 @@
           <option value="06/04/8:00pm">Mon 6/25 @8:00pm</option>
           <option value="06/04/9:30pm">Mon 6/25 @9:30pm</option>
         </select>
+      </div>
         </p>
         </label>
       </div> <!-- closes store-form-section SCHEDULE YOUR APPT-->
@@ -218,11 +220,11 @@
       <div class="store-form-question">
         <label><p>
           <span class="tooltip">
-            <input type="radio" name="reading" value="career"> Phone
+            <input type="radio" name="where" value="phone"> Phone
               <span class="tooltiptext">Phone readings work their mojo just as well as in-person.</span>
           </span>
           <span class="tooltip">
-            <input type="radio" name="reading" value="natal"> In-Person<br>
+            <input type="radio" name="where" value="in-person"> In-Person<br>
               <span class="tooltiptext">In-person readings take place in Hollywood, CA.</span>
             </span>
          </p>
@@ -232,47 +234,50 @@
       <div class="store-form-section">
           <h8>Enter your contact information</h8><br>
           <p>
-            <label>Name <input type="text" name="name"></label>
+            <label>Name <br><input type="text" name="name" placeholder="Name"></label>
           </p>
           <p>
-            <label>Email <input type="email" name="email"></label>
+            <label>Email <br><input type="text" name="email" placeholder="Email"></label>
           </p>
           <p>
-            <label>Phone <input type="tel" name="email"></label>
+            <label>Phone <br><input type="text" name="email" placeholder="Phone"></label>
           </p>
       </div> <!-- closes store-form-section CONTACT INFORMATION-->
 
       <div class="store-form-section">
         <h8>Enter your birth information</h8><br>
         <p>
-          <label>Where you were born
-            <input type="text" name="birth-location" value="Country, City, State"><br>
+          <label>Where you were born<br>
+            <input type="text" name="birth-location" placeholder="Country, City, State"><br>
           </label>
         </p>
         <p>
-        <label>Date of birth
-          <input type="birth-date" name="bday"><br>
+        <label>Date of birth<br>
+          <input type="date" name="bday" placeholder="mm/dd/yyyy"><br>
         </label>
       </p>
       <p>
-      <label>Time of birth
-        <input type="usr_time" name="usr_time"><br>
+      <label>Time of birth<br>
+        <input type="time" name="usr_time" placehoder="--:--:am/pm"><br>
       </label>
-
+      <div class="store-form-question">
+        <p>
       <label>
         <span class="tooltip">
-          <input type="radio" name="exact-time" value="exact-time">Exact Time
+          <input type="radio" name="birth-time" value="exact-time">Exact Time
             <span class="tooltiptext">Find the exact time on your birth certificate.</span>
         </span>
         <span class="tooltip">
-          <input type="radio" name="guesswork-time" value="guesswork-time">Approximation
+          <input type="radio" name="birth-time" value="guesswork-time">Approximation
             <span class="tooltiptext">Ask your mom, auntie or grandma and they might remember the general time-frame.</span>
         </span>
         <span class="tooltip">
-          <input type="radio" name="reading" value="natal">Unknown
+          <input type="radio" name="birth-time" value="natal">Unknown
             <span class="tooltiptext">If you have no idea what time you were born try to track down your birth certificate.</span>
         </span>
       </label>
+    </p>
+    </div>
 
       </p>
     </div> <!-- closes store-form-section BIRTH INFORMATION-->
