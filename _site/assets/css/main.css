@@ -94,26 +94,22 @@ h10 {
 
 h11 {
   font: "Oswald", sans-serif;
-  font-size: 1em;
   font-weight: 400;
   color: black;
   letter-spacing: .8px;
   text-transform: uppercase;
   font-size: 16px;
-  font-weight: none;
   text-decoration: underline;
   text-decoration-color: #3eb984; }
 
 h12 {
   font: "Oswald", sans-serif;
-  font-size: 1em;
   font-weight: 400;
   color: grey;
   letter-spacing: .8px;
   text-transform: uppercase;
   text-decoration: none;
-  font-size: 16px;
-  font-weight: none; }
+  font-size: 16px; }
 
 h13 {
   font-family: 'Mr De Haviland', cursive;
@@ -784,6 +780,27 @@ body {
 
 .timeframes {
   word-spacing: 10px; }
+
+.store-form-button {
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 24px;
+  width: 260px;
+  font: "Oswald", sans-serif;
+  background-color: #8fc1e6;
+  font-size: 40px;
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  /* Safari */
+  transition-duration: 0.4s; }
+
+.store-form-button:hover {
+  background-color: #4CAF50;
+  /* Green */ }
+
+.button-margins {
+  margin: 25px 0 0 0; }
 
 .fa-envelope {
   padding: 6px;

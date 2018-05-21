@@ -11,7 +11,6 @@ layout: store
 description: The Natal Chart shows your personal patterns, family lineage and how your actions impact the way you create your destiny.
 how: How I devised this.
 what: PDF and 1-Hour Consultation
-what:
 testimonial: My birth chart has been key for me to think bigger and organize my action items. Regina is very intuitive and loves to vibe with people to help them develop.
 testimonial-auth: V.D.J.
 options:

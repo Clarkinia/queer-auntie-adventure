@@ -109,3 +109,25 @@ body {
 .timeframes {
   word-spacing: 10px;
 }
+.store-form-button {
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 24px;
+  width: 260px;
+  font: $base-font-family;
+  background-color: #8fc1e6;
+  font-size: 40px;
+  //color: white;
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  //box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.store-form-button:hover {
+    background-color: #4CAF50; /* Green */
+    //color: white;
+}
+.button-margins {
+  margin: 25px 0 0 0;
+}

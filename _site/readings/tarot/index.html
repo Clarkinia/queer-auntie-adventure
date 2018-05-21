@@ -67,7 +67,7 @@
         
       </h11>
     </div>
-  </div>
+  </div> <!---  closes out store-form-title -->
 </header>
 
 <body>
@@ -153,8 +153,8 @@
     </div>
 
     <div class="store-orderform">
-      <form name="contact" method="POST" data-netlify="true" action="/thank_you.md">
-        <p class="hidden">   <!--- This is to distract bots using .hidden in the _default CSS file-->
+    <form name="contact" method="POST" data-netlify="true" action="/thank_you.md">
+        <p class="hidden"> <!--- This is to distract bots using .hidden in the _default CSS file-->
           <label>Don’t fill this out if you're human: <input name="bot-field"></label>
         </p>
 
@@ -213,7 +213,8 @@
         </select>
         </p>
         </label>
-      </div>
+      </div> <!-- closes store-form-section SCHEDULE YOUR APPT-->
+
       <div class="store-form-question">
         <label><p>
           <span class="tooltip">
@@ -226,26 +227,22 @@
             </span>
          </p>
         </label>
-       </div>
       </div>
 
       <div class="store-form-section">
-        <div class="store-form-question">
-        <h8>Enter your contact information</h8><br>
-        <p>
-          <label>Name <input type="text" name="name"></label>
-        </p>
-        <p>
-          <label>Email <input type="email" name="email"></label>
-        </p>
-        <p>
-          <label>Phone <input type="tel" name="email"></label>
-        </p>
-      </div>
-      </div>
+          <h8>Enter your contact information</h8><br>
+          <p>
+            <label>Name <input type="text" name="name"></label>
+          </p>
+          <p>
+            <label>Email <input type="email" name="email"></label>
+          </p>
+          <p>
+            <label>Phone <input type="tel" name="email"></label>
+          </p>
+      </div> <!-- closes store-form-section CONTACT INFORMATION-->
 
       <div class="store-form-section">
-        <div class="store-form-question">
         <h8>Enter your birth information</h8><br>
         <p>
           <label>Where you were born
@@ -262,39 +259,30 @@
         <input type="usr_time" name="usr_time"><br>
       </label>
 
-
-
-
       <label>
         <span class="tooltip">
-          <input type="radio" name="exact-time" value="exact-time">Exact
-            <span class="tooltiptext">Exact time can be found on a birth certificate.</span>
+          <input type="radio" name="exact-time" value="exact-time">Exact Time
+            <span class="tooltiptext">Find the exact time on your birth certificate.</span>
         </span>
         <span class="tooltip">
-          <input type="radio" name="guesswork-time" value="guesswork-time">Guesswork
-            <span class="tooltiptext">If you don't have your birth certificate, ask your mom, auntie or grandma and they might remember the approximate time-frame.</span>
+          <input type="radio" name="guesswork-time" value="guesswork-time">Approximation
+            <span class="tooltiptext">Ask your mom, auntie or grandma and they might remember the general time-frame.</span>
         </span>
         <span class="tooltip">
           <input type="radio" name="reading" value="natal">Unknown
             <span class="tooltiptext">If you have no idea what time you were born try to track down your birth certificate.</span>
         </span>
-
       </label>
-</p>
 
-
-      </div>
-        </div> <!-- closes store-form-section -->
-
-          <label>Message: <textarea name="message"></textarea></label>
-        </p>
-        <p>
-          <button type="submit">Send</button>
-        </p>
+      </p>
+    </div> <!-- closes store-form-section BIRTH INFORMATION-->
+        <div class="button-margins">
+          <button type="submit" class="store-form-button"><h8>NEXT <i class="fa fa-chevron-circle-right" style="font-size:30px"></i></h8></button>
+        </div>
       </form>
-
-    </div> <!--- clsoes out store-orderform -->
-  </div>
+      </div> <!--- clsoes out store-orderform -->
+    </div> <!---  closes out store-wrapper -->
+  </div> <!---  closes out store-container -->
   <footer class="footer">
   <div class="signature"><h14>Queer Auntie</h14></div>
   
@@ -306,6 +294,5 @@
   
 </footer>
 
- </div>
 </body>
 </html>
