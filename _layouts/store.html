@@ -19,12 +19,20 @@
 
 <body class="store-form-body">
   <div class="store-container">
+
+
+<div class="page-background"
+{% if page.bgimage %} style="background-image: url(../../assets/img/{{ page.bgimage }})"
+{% endif %}>
+
+
   <div class="store-wrapper">
 
     <div class="store-form-description">
       <h8>{{ page.money-offer }}</h8>
       <div class ="store-form-includes">
         <h15>Your {{ page.name }} includes: {{ content }}</h15>
+        <h15>{{ page.receive }}</h15>
       </div>
     </div>
 
@@ -163,6 +171,7 @@
       </form>
       </div> <!--- clsoes out store-orderform -->
     </div> <!---  closes out store-wrapper -->
+  </div> <!-- background image -->
   </div> <!---  closes out store-container -->
   {% include footer.html %}
 </body>

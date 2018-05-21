@@ -269,23 +269,20 @@ th, td {
 /*
   Store ITEMS
 */
-body .store {
-  background: white; }
+body {
+  background-color: white; }
 
 .store-items {
-  text-align: center;
   margin: 0px auto 20px auto;
   padding: 10px; }
 
 .store-items ul {
-  text-align: center;
   list-style-type: none;
   content: "";
   clear: both;
   display: table; }
 
 .store-items li {
-  text-align: center;
   float: left;
   width: 33.33%;
   padding: 20px;
@@ -300,10 +297,19 @@ body .store {
 
 .store-top {
   padding: 0 0 0px 0;
-  margin: 0 0 0px 0; }
+  margin: 0 0 0px 0;
+  background: #fff2e5; }
+
+.store-top:hover {
+  box-shadow: 6px 6px 6px -8px grey;
+  border: 1px;
+  padding: 2px; }
 
 .store-description {
   margin: 12px 0 12px 0; }
+
+.store-price {
+  margin: 70px 0 0 0; }
 
 .store-price .dollar-amt {
   font-weight: bold;
@@ -312,8 +318,42 @@ body .store {
 .store-whatuget h15 {
   font-weight: bold; }
 
+.store-whatuget ul {
+  color: black;
+  list-style-type: disc;
+  list-style-position: inside;
+  display: block;
+  padding: 0px;
+  margin-top: 10px; }
+
+.store-whatuget li {
+  float: left;
+  width: 100%;
+  padding: 0px;
+  margin: 0px; }
+
+.store-whatuget ul :nth-child(4) {
+  display: none; }
+
+.store-whatuget ul :nth-child(5) {
+  display: none; }
+
 .store-button {
-  margin: 12px 0 12px 0; }
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  float: left; }
+
+.store-button img {
+  width: 260px;
+  border: none;
+  padding: 0px;
+  margin: 40px 0 20px 0;
+  float: left; }
+
+.store-button img:hover {
+  box-shadow: 6px 6px 6px -6px grey;
+  border: 1px; }
 
 .store-button h15 {
   color: #1279c5; }
@@ -322,18 +362,17 @@ body .store {
   text-decoration: underline;
   color: green; }
 
-.store-button img {
-  width: 200px;
-  border: none;
-  padding: 0px; }
-
-.store-button img:hover {
-  box-shadow: 6px 6px 6px -6px grey;
-  width: 202px;
-  border: 1px; }
-
 .store-testimonial {
-  margin: 22px 0 22px 0; }
+  margin: 120px 0 22px 0;
+  width: 260px;
+  line-height: 16px;
+  font-weight: bold;
+  font-style: italic;
+  background-color: black;
+  padding: 10px; }
+
+.store-testimonial h15 {
+  color: white; }
 
 @media (max-width: 650px) {
   .store-items ul {
@@ -703,13 +742,14 @@ pre {
   background-color: #8fc1e6; }
 
 .store-container {
-  background-image: url("../../assets/img/store-form-natal-background1.jpg");
-  background-size: 60%;
-  background-repeat: no-repeat;
-  background-position: right top;
   width: 1100px;
   margin-left: 0;
   margin-right: 0; }
+
+.page-background {
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: right top; }
 
 .store-wrapper {
   padding-top: 10px;
@@ -732,14 +772,15 @@ pre {
   padding: 0 40px 0 25px;
   margin: 0 0 0 40px;
   display: block;
-  width: 460px; }
+  width: 420px; }
 
 .store-form-includes {
   margin: 10px 0 10px 0; }
 
 .store-form-includes h15 {
   font-family: Arial;
-  font-weight: bold; }
+  font-weight: bold;
+  background-color: #8fc1e6; }
 
 .store-form-includes ul {
   margin: 0 0 14px 0;

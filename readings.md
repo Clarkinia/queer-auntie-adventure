@@ -6,39 +6,38 @@ title:
 <article class="store">
   <div class="store-header">
     <h7>Choose a reading</h7>
-      <div class="store-subhead">
-          <h9>Which of the following best describes you?</h9>
-      </div>
-  </div>
+  </div> <!-- closes out store-header -->
   <div class="store-items">
     <ul>
       {% for reading in site.readings %}
         <li>
           <a href="{{ reading.url }}">
-
-          <div class="store-images"><img src="{{ site.github.url }}/assets/img/{{ reading.image }}" height="80px" width="80px"></div>
-
           <div class="store-top">
+          <div class="store-button">
+            <img src="{{ site.github.url }}/assets/img/{{ reading.button }}" >
+          </div>
             <div class="store-byline">
               <h8>{{ reading.byline }}</h8>
             </div>
-            <div class="store-description">
-              <h15>{{ reading.description }}</h15>
+
+            <div class ="store-whatuget">
+              <h15>{{ reading.content }}</h15>
             </div>
-            <div class="store-whatuget">
-              <h15> <span class="dollar-amt">{{ reading.what }}</span>
-              </h15>
-            </div>
+            <!--
             <div class="store-price">
               <h15>Price: <span class="dollar-amt">${{ reading.price }}</span></h15>
             </div>
+            -->
+            <div class="store-button">
+              <h15>{{ reading.cta }}</h15>
+            </div>
+            <div class="store-testimonial">
+              <h15>"{{ reading.testimonial }}" —{{ reading.testimonial-auth}}</h15>
+            </div>
+
+
           </div> <!-- closes store-top -->
 
-          <div class="store-button">
-          <h15>{{ reading.cta }}</h15>
-          <img src="{{ site.github.url }}/assets/img/{{ reading.button }}" ></div>
-
-          <div class="store-testimonial"><h16>"{{ reading.testimonial }}" —{{ reading.testimonial-auth}} </h16></div>
           </a>
           <!--<hr>-->
         </li>

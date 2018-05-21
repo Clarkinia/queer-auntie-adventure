@@ -26,14 +26,18 @@
   background-color: #8fc1e6;
 }
 .store-container {
-  background-image: url('../../assets/img/{{ page.store-bg-image }}');
-  background-size: 60%;
-  background-repeat: no-repeat;
-  background-position: right top;
   width: $container-width;
   margin-left: 0;
   margin-right: 0;
 }
+
+.page-background {
+  //background-image: url('../../assets/img/store-form-natal-background1.jpg');
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
 .store-wrapper {
   padding-top: 10px;
   margin: auto;
@@ -57,7 +61,7 @@
   padding: 0 40px 0 25px;
   margin: 0 0 0 40px;
   display: block;
-  width: 460px;
+  width: 420px;
 }
 .store-form-includes {
   margin: 10px 0 10px 0;
@@ -65,6 +69,7 @@
 .store-form-includes h15{
   font-family: Arial;
   font-weight: bold;
+  background-color: #8fc1e6;
 }
 .store-form-includes ul {
   margin: 0 0 14px 0;
