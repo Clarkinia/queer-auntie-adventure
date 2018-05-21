@@ -700,6 +700,7 @@ pre {
   Site container
 */
 body {
+  background-image: url("{{ site.github.url }}/assets/img/store-form-natal-background.jpg");
   background-color: #8fc1e6; }
 
 .store-container {

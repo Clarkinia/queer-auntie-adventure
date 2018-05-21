@@ -23,8 +23,9 @@
   Site container
 */
 body {
+  //background-image: url("paper.gif");
+  background-image: url("{{ site.github.url }}/assets/img/store-form-natal-background.jpg");
   background-color: #8fc1e6;
-  //background-image:url({{ site.github.url }}/assets/img/Clock-Alarm.png);
 }
 .store-container {
   width: $container-width;
