@@ -18,7 +18,7 @@ options:
 button: store_buttons_natal.jpg
 cta: Order a natal astrology chart
 money-offer: Get your chart for just $150
-store-bg-image: store-form-natal-background.jpg
+store-bg-image: store-form-natal-background1.jpg
 ---
 <!-- STORE -->
 - themes unique to your chart
