@@ -5,7 +5,6 @@
   padding: 40px;
   margin: 0 0 0 40px;
   display: block;
-  width: $container-width;
 }
 .store-form-title {
   text-align: left;
@@ -18,6 +17,7 @@
 .store-form-subhead h11{
   text-decoration: none;
   font-size: 1.4em;
+  background-color: #8fc1e6;
 }
 /*
   Site container
@@ -26,42 +26,30 @@
   background-color: #8fc1e6;
 }
 .store-container {
-  width: $container-width;
   margin-left: 0;
   margin-right: 0;
 }
-
 .page-background {
-  //background-image: url('../../assets/img/store-form-natal-background1.jpg');
   background-size: 60%;
   background-repeat: no-repeat;
   background-position: right top;
 }
-
 .store-wrapper {
   padding-top: 10px;
   margin: auto;
   display: block;
-  width: $container-width - 20px;
 }
-@media (max-width: $container-width) {
-  .store-container {
-    width: 95vw;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .store-wrapper {
-    padding-top: $header-thickness+10px;
-    margin: auto;
-    display: block;
-    width: 95vw;
-  }
-}
+/*
+  The Deets Bullet Points
+*/
 .store-form-description {
   padding: 0 40px 0 25px;
   margin: 0 0 0 40px;
   display: block;
   width: 420px;
+}
+.store-form-description h8{
+  background-color: #8fc1e6;
 }
 .store-form-includes {
   margin: 10px 0 10px 0;
@@ -88,7 +76,7 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding: 1px 40px 40px 40px;
+  padding: 1px 0px 40px 40px;
   text-align: left;
   box-shadow: 2px 2px 2px 2px rgba(0.1,0.1,0.1,0.1);
 }
@@ -105,7 +93,6 @@
   Dropdown
 */
 .date-selector select{
-  //background-color: #8fc1e6;
   width: 200px;
   border: 1px dotted #999;
   padding: 10px;
@@ -113,7 +100,7 @@
   font-size: 16px;
 }
 .date-selector option{
-  background-color: #8fc1e6;
+  background-color: #eaf3fa;
   width: 200px;
   border: 1px dotted #999;
   padding: 10px;
@@ -214,10 +201,9 @@ input[type=time]:-ms-input-placeholder { /* IE (10+?) */
  color:gray;
  font-style:italic;
 }
-
-.timeframes {
-  word-spacing: 10px;
-}
+/*
+  Submit BUTTON
+*/
 .store-form-button {
   text-align: center;
   text-decoration: none;
@@ -230,11 +216,70 @@ input[type=time]:-ms-input-placeholder { /* IE (10+?) */
   border-radius: 4px;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
-  //box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 .store-form-button:hover {
     background-color: #4CAF50; /* Green */
 }
 .button-margins {
   margin: 25px 0 0 0;
+}
+/*
+  Resizers
+  $container-width: 1100px;
+  $resized-window: 860px;
+  $tablet-width: 600px;
+  $phone-width: 480px;
+*/
+@media (max-width: $container-width) {
+  .store-container {
+    width: 95vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .page-background {
+    width: 95vw;
+  }
+  .store-wrapper {
+    padding-top: $header-thickness+10px;
+    margin: auto;
+    display: block;
+    width: 95vw;
+  }
+}
+@media (max-width: $tablet-width+150px) {
+  .page-background {
+    background-size: 0%;
+  }
+}
+@media (max-width: $phone-width+100px) {
+  .store-orderform {
+    max-width: 380px;
+  }
+  .store-orderform form{
+    max-width: 320px;
+  }
+  .store-wrapper {
+    width: 80vw;
+  }
+  .store-container {
+    width: 80vw;
+  }
+  .store-form-body {
+    width: 80vw;
+  }
+  input[type=text] {
+    width: 280px;
+  }
+  .store-form-header {
+    width: 80vw;
+    padding: 20px 0 40px 0;
+  }
+  .store-form-description {
+    width: 80vw;
+    padding: 0px;
+    margin: 0 0 0 10px;
+  }
+  .store-form-description h8{
+    line-height: normal;
+  }
 }

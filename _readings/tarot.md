@@ -15,8 +15,6 @@ cta: Schedule a tarot reading
 money-offer: Get a reading for $150
 bgimage: store-form-tarot-background2.jpg
 receive: You will receive a personal tarot meditation altar card after your reading.
-
-
 ---
 <!-- STORE -->
 - 1-hour consultation

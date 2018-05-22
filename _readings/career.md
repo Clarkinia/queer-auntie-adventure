@@ -15,6 +15,7 @@ cta: Order a career astrology chart
 money-offer: Get your chart for $150
 bgimage: store-form-career-background3.jpg
 receive: You will receive your chart by email one day prior to your consultation.
+get-birth-info: Y
 ---
 <!-- STORE -->
 - 1-hour consultation

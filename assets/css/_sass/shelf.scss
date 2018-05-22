@@ -134,8 +134,6 @@ body {
   $tablet-width: 600px;
   $phone-width: 480px;
 */
-
-
 @media (max-width: $tablet-width) {
   .store-items li {
     float: none;
@@ -150,39 +148,3 @@ body {
     max-width: 260px;
   }
 }
-
-
-
-/*
-.shelf-header {
-  padding: 6vw 0 0 0;
-  margin: 0px 0 2vw 0;
-}
-.store-items li {
-  float: none;
-  width: 100%;
-  padding: 2vw;
-  display: block;
-  align: left;
-  margin: 5px auto 5px;
-  max-width: 280px;
-}
-.store-button img{
-  max-width: 100%;
-}
-.store-whatuget ul {
-  list-style-type: disc;
-  list-style-position: inside;
-}
-.store-whatuget li {
-  margin: 0px;
-  padding: 0px;
-  list-style-type: disc;
-  list-style-position: inside;
-}
-.store-testimonial {
-  width: 100%;
-  margin-top: 20vw;
-  max-width: 100%;
-}
-*/

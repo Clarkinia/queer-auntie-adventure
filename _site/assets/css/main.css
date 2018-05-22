@@ -572,8 +572,7 @@ pre {
 .store-form-header {
   padding: 40px;
   margin: 0 0 0 40px;
-  display: block;
-  width: 1100px; }
+  display: block; }
 
 .store-form-title {
   text-align: left;
@@ -585,7 +584,8 @@ pre {
 
 .store-form-subhead h11 {
   text-decoration: none;
-  font-size: 1.4em; }
+  font-size: 1.4em;
+  background-color: #8fc1e6; }
 
 /*
   Site container
@@ -594,7 +594,6 @@ pre {
   background-color: #8fc1e6; }
 
 .store-container {
-  width: 1100px;
   margin-left: 0;
   margin-right: 0; }
 
@@ -606,25 +605,19 @@ pre {
 .store-wrapper {
   padding-top: 10px;
   margin: auto;
-  display: block;
-  width: 1080px; }
+  display: block; }
 
-@media (max-width: 1100px) {
-  .store-container {
-    width: 95vw;
-    margin-left: auto;
-    margin-right: auto; }
-
-  .store-wrapper {
-    padding-top: 140px;
-    margin: auto;
-    display: block;
-    width: 95vw; } }
+/*
+  The Deets Bullet Points
+*/
 .store-form-description {
   padding: 0 40px 0 25px;
   margin: 0 0 0 40px;
   display: block;
   width: 420px; }
+
+.store-form-description h8 {
+  background-color: #8fc1e6; }
 
 .store-form-includes {
   margin: 10px 0 10px 0; }
@@ -651,7 +644,7 @@ pre {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding: 1px 40px 40px 40px;
+  padding: 1px 0px 40px 40px;
   text-align: left;
   box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1); }
 
@@ -675,7 +668,7 @@ pre {
   font-size: 16px; }
 
 .date-selector option {
-  background-color: #8fc1e6;
+  background-color: #eaf3fa;
   width: 200px;
   border: 1px dotted #999;
   padding: 10px;
@@ -788,9 +781,9 @@ input[type=time]:-ms-input-placeholder {
   color: gray;
   font-style: italic; }
 
-.timeframes {
-  word-spacing: 10px; }
-
+/*
+  Submit BUTTON
+*/
 .store-form-button {
   text-align: center;
   text-decoration: none;
@@ -812,6 +805,60 @@ input[type=time]:-ms-input-placeholder {
 .button-margins {
   margin: 25px 0 0 0; }
 
+/*
+  Resizers
+  $container-width: 1100px;
+  $resized-window: 860px;
+  $tablet-width: 600px;
+  $phone-width: 480px;
+*/
+@media (max-width: 1100px) {
+  .store-container {
+    width: 95vw;
+    margin-left: auto;
+    margin-right: auto; }
+
+  .page-background {
+    width: 95vw; }
+
+  .store-wrapper {
+    padding-top: 140px;
+    margin: auto;
+    display: block;
+    width: 95vw; } }
+@media (max-width: 750px) {
+  .page-background {
+    background-size: 0%; } }
+@media (max-width: 580px) {
+  .store-orderform {
+    max-width: 380px; }
+
+  .store-orderform form {
+    max-width: 320px; }
+
+  .store-wrapper {
+    width: 80vw; }
+
+  .store-container {
+    width: 80vw; }
+
+  .store-form-body {
+    width: 80vw; }
+
+  input[type=text] {
+    width: 280px; }
+
+  .store-form-header {
+    width: 80vw;
+    padding: 20px 0 40px 0; }
+
+  .store-form-description {
+    width: 80vw;
+    padding: 0px;
+    margin: 0 0 0 10px; }
+
+  .store-form-description h8 {
+    line-height: normal; } }
 /*
   Page Overall
 */
@@ -960,39 +1007,6 @@ body {
   .store-testimonial {
     width: 80vw;
     max-width: 260px; } }
-/*
-.shelf-header {
-  padding: 6vw 0 0 0;
-  margin: 0px 0 2vw 0;
-}
-.store-items li {
-  float: none;
-  width: 100%;
-  padding: 2vw;
-  display: block;
-  align: left;
-  margin: 5px auto 5px;
-  max-width: 280px;
-}
-.store-button img{
-  max-width: 100%;
-}
-.store-whatuget ul {
-  list-style-type: disc;
-  list-style-position: inside;
-}
-.store-whatuget li {
-  margin: 0px;
-  padding: 0px;
-  list-style-type: disc;
-  list-style-position: inside;
-}
-.store-testimonial {
-  width: 100%;
-  margin-top: 20vw;
-  max-width: 100%;
-}
-*/
 .fa-envelope {
   padding: 6px;
   -webkit-transition: 0.4s;
