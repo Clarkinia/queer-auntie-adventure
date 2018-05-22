@@ -570,7 +570,7 @@ pre {
   Header
 */
 .store-form-header {
-  padding: 40px;
+  padding: 40px 40px 0px 40px;
   margin: 0 0 0 40px;
   display: block; }
 
@@ -864,7 +864,35 @@ input[type=time]:-ms-input-placeholder {
     max-width: 340px; }
 
   input[type=text] {
-    width: 260px; } }
+    width: 260px; }
+
+  .store-wrapper {
+    width: 70vw;
+    max-width: 360px;
+    padding-top: 0px; }
+
+  .store-container {
+    max-width: 360px; }
+
+  .store-form-title {
+    float: none;
+    display: block;
+    width: 80vw;
+    padding: 0px 0 0 22px;
+    margin: 0px; }
+
+  .store-form-subhead {
+    display: block;
+    padding: 0px;
+    margin: 0px; }
+
+  .store-form-description {
+    display: block;
+    padding: 0px;
+    margin: 0px; }
+
+  .store-form-header {
+    padding-bottom: 0px; } }
 /*
   Page Overall
 */
