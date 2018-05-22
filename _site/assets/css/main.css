@@ -859,6 +859,12 @@ input[type=time]:-ms-input-placeholder {
 
   .store-form-description h8 {
     line-height: normal; } }
+@media (max-width: 480px) {
+  .store-orderform {
+    max-width: 340px; }
+
+  input[type=text] {
+    width: 260px; } }
 /*
   Page Overall
 */

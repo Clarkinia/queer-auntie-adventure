@@ -283,3 +283,11 @@ input[type=time]:-ms-input-placeholder { /* IE (10+?) */
     line-height: normal;
   }
 }
+@media (max-width: $phone-width) {
+  .store-orderform {
+    max-width: 340px;
+  }
+  input[type=text] {
+    width: 260px;
+  }
+}
