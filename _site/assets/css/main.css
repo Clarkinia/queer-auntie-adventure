@@ -570,14 +570,14 @@ pre {
   Header
 */
 .store-form-header {
-  padding: 40px 40px 0px 40px;
-  margin: 0 0 0 40px;
+  padding: 0px 0px 0px 0px;
+  margin: 40px 0 0 80px;
+  width: 400px;
   display: block; }
 
 .store-form-title {
   text-align: left;
-  float: left;
-  width: 400px; }
+  float: left; }
 
 .store-form-product {
   color: white; }
@@ -611,10 +611,10 @@ pre {
   The Deets Bullet Points
 */
 .store-form-description {
-  padding: 0 40px 0 25px;
-  margin: 0 0 0 40px;
+  padding: 0 0px 0 0px;
+  margin: 0 0 0 80px;
   display: block;
-  width: 420px; }
+  width: 400px; }
 
 .store-form-description h8 {
   background-color: #8fc1e6; }
@@ -812,87 +812,46 @@ input[type=time]:-ms-input-placeholder {
   $tablet-width: 600px;
   $phone-width: 480px;
 */
-@media (max-width: 1100px) {
-  .store-container {
-    width: 95vw;
-    margin-left: auto;
-    margin-right: auto; }
-
-  .page-background {
-    width: 95vw; }
-
-  .store-wrapper {
-    padding-top: 140px;
-    margin: auto;
-    display: block;
-    width: 95vw; } }
 @media (max-width: 750px) {
-  .page-background {
-    background-size: 0%; } }
-@media (max-width: 580px) {
   .store-orderform {
-    max-width: 380px; }
+    width: 440px;
+    max-width: 440px; }
 
   .store-orderform form {
-    max-width: 320px; }
-
-  .store-wrapper {
-    width: 80vw; }
-
-  .store-container {
-    width: 80vw; }
-
-  .store-form-body {
-    width: 80vw; }
+    width: 420px;
+    max-width: 420px; }
 
   input[type=text] {
-    width: 280px; }
+    width: 360px; }
 
   .store-form-header {
-    width: 80vw;
-    padding: 20px 0 40px 0; }
+    width: 350px;
+    max-width: 350px;
+    margin-left: 40px; }
 
   .store-form-description {
-    width: 80vw;
-    padding: 0px;
-    margin: 0 0 0 10px; }
+    width: 340px;
+    max-width: 340px;
+    margin-left: 40px; }
 
-  .store-form-description h8 {
-    line-height: normal; } }
-@media (max-width: 480px) {
+  .page-background {
+    background-size: 70%;
+    background-position: 180% 0%;
+    background-clip: content-box; } }
+@media (max-width: 530px) {
+  .page-background {
+    background-size: 0%; }
+
   .store-orderform {
+    width: 340px;
     max-width: 340px; }
 
+  .store-orderform form {
+    width: 320px;
+    max-width: 320px; }
+
   input[type=text] {
-    width: 260px; }
-
-  .store-wrapper {
-    width: 70vw;
-    max-width: 360px;
-    padding-top: 0px; }
-
-  .store-container {
-    max-width: 360px; }
-
-  .store-form-title {
-    float: none;
-    display: block;
-    width: 80vw;
-    padding: 0px 0 0 22px;
-    margin: 0px; }
-
-  .store-form-subhead {
-    display: block;
-    padding: 0px;
-    margin: 0px; }
-
-  .store-form-description {
-    display: block;
-    padding: 0px;
-    margin: 0px; }
-
-  .store-form-header {
-    padding-bottom: 0px; } }
+    width: 260px; } }
 /*
   Page Overall
 */
