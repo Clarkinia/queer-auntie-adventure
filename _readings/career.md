@@ -12,7 +12,7 @@ testimonial: Regina helped me realize where my power was for my career, how to b
 testimonial-auth: A.C.
 button: store_buttons_career.jpg
 cta: Order a career astrology chart
-money-offer: Get your chart for just $150
+money-offer: Get your chart for $150
 bgimage: store-form-career-background3.jpg
 receive: You will receive your chart by email one day prior to your consultation.
 ---
