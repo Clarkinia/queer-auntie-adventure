@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+{% include head.html %}
+<header class="store-form-header"><!---  HEADER -->
+</header>
+<body class="store-form-body">
+  <div class="store-container">
+    <!--- BACKGROUND IMAGE -->
+
+      <div class="store-wrapper">
+        <!--- ORDER FORM STARTS -->
+        <div class="store-orderform">
+            <!--- BOT-KILLER .hidden in the CSS -->
+            <p class="hidden">
+              <label>Don’t fill this out if you're human: <input name="bot-field"></label>
+            </p>
+            <!--- 1 RECEIPT -->
+            <div class="store-form-section">
+              <h8>Payment</h8><br>
+              <div class="store-form-question">
+                <p>
+                  <span class="purchase-steps">Your order has been received and your appointment will be confirmed once payment is processed.
+                  </span>
+                </p>
+              </div>
+            </div>
+            <div class="store-form-section">
+              <h8>Review order</h8><br>
+              <!--- 1a SELECT APPT DATE -->
+              <div class="store-form-question">
+                  <p>
+                    <span class="purchase-item">{{ page.name }}</span>
+
+                    <span class="purchase-price">${{ page.price }}</span>
+                  </p>
+              </div><!-- closes store-form-question REV ORDER -->
+            </div> <!-- closes store-form-section REV ORDER -->
+
+
+          </div> <!--- clsoes out store-orderform -->
+          <div class="purchase-purchase">
+            <div class="purchase-policy">
+              <p><span class="purchase-cancellation-header">Cancellation notice:</span>
+                You may cancel for a full refund when you give at least 24-hours notice. If you miss your appointment, cancel or reschedule with less than 24-hours notice, you will be charged the full amount of your purchase. </p>
+            </div>
+            <div class="purchase-paynow2confirm">
+              <p>pay now to confirm your reservation</p>
+              <div class="button-margins">
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="purchase-paypal-button">
+                  <input type="hidden" name="cmd" value="_s-xclick">
+                  <input type="hidden" name="hosted_button_id" value="L356SC6DW3U38">
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                </form>
+              </div> <!-- closes out BUTTON MARGINS -->
+            </div> <!-- closes out PAYNOWCONFIRM -->
+          </div><!-- closes out PURCHPURCH -->
+
+
+
+
+
+        </div> <!---  closes out store-wrapper -->
+      </div> <!-- background image -->
+    </div> <!---  closes out store-container -->
+    {% include footer.html %}
+  </body>
+</html>

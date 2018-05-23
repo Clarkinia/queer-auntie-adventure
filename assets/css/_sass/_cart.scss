@@ -54,19 +54,7 @@
 .store-form-description h8{
   background-color: #8fc1e6;
 }
-.store-form-includes {
-  margin: 10px 0 10px 0;
-}
-.store-form-includes h15{
-  font-family: Arial;
-  font-weight: bold;
-  background-color: #8fc1e6;
-}
-.store-form-includes ul {
-  margin: 0 0 14px 0;
-  line-height: 20px;
-  list-style-position: inside;
-}
+
 /*
   Form
 */
@@ -89,8 +77,78 @@
 .store-form-section {
   margin: 50px 0 0 0;
 }
+.store-form-section p{
+  margin: 0px 25px 0 0;
+}
 .store-form-question {
   margin: 20px 0 0 0;
+}
+/*
+  Purchase Cart
+*/
+.purchase-item {
+
+}
+.purchase-includes {
+  float: left;
+  //margin: 10px 0 10px 0;
+}
+.purchase-includes h15{
+  font-family: Arial;
+}
+.purchase-includes ul {
+  margin: 0 0 80px 0;
+  line-height: 20px;
+  list-style-position: inside;
+}
+.purchase-price {
+  font-family: Arial;
+  float: right;
+  padding: 0px 20px 0px 0px;
+  //margin-right: 20px;
+}
+.purchase-steps {
+  //background: green;
+  //color: green;
+  //font-weight: bold;
+}
+/*
+  POLICY
+*/
+.purchase-purchase {
+
+  margin-left: auto;
+  margin-right: auto;
+  padding: 4px 4px 40px 4px;
+  width: 480px;
+}
+.purchase-purchase p {
+  font-family: Arial;
+}
+.purchase-policy p{
+  line-height: 22px;
+}
+.purchase-cancellation-header {
+  font-weight: bold;
+}
+.purchase-paynow2confirm {
+}
+.purchase-paynow2confirm p{
+  font-size: 18px;
+  color: white;
+  font-variant: small-caps;
+  font-weight: bold;
+  letter-spacing: 1.6px;
+  //text-align: center;
+}
+.button-margins {
+
+}
+.purchase-paypal-button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 /*
   Dropdown
@@ -222,9 +280,6 @@ input[type=time]:-ms-input-placeholder { /* IE (10+?) */
 }
 .store-form-button:hover {
     background-color: #4CAF50; /* Green */
-}
-.button-margins {
-  margin: 25px 0 0 0;
 }
 /*
   Resizers

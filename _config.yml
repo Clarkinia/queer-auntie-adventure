@@ -22,3 +22,6 @@ collections:
   readings:
     output: true
     permalink: /readings/:path/
+  purchases:
+    output: true
+    permalink: /purchases/:path/
