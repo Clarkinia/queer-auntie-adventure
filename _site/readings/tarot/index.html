@@ -104,15 +104,16 @@
               <div class="store-form-question">
                 <div class="date-selector">
                 <label>
-                  <p>Select an available date<br>
-                    <select name="schedule-date-time">
+                  <!-- <p>Select an available date<br> -->
+                    <select name="schedule-date-time" required>
+                      <option value="">Select an available date</option>
                       <option value="06/02/11:00am">Sat 6/2 @11:00am</option>
                       <option value="06/02/12:30pm">Sat 6/2 @12:30pm</option>
                       <option value="06/02/2:00pm">Sat 6/2 @2:00pm</option>
 
                       <option value="06/04/11:00am">Mon 6/4 @11:00am</option>
                       <option value="06/04/12:30pm">Mon 6/4 @12:30pm</option>
-                      <option name="monday" value="06/04/2:00pm">Mon 6/4 @2:00pm</option>
+                      <option value="06/04/2:00pm">Mon 6/4 @2:00pm</option>
 
                       <option value="06/04/6:30pm">Mon 6/4 @6:30pm</option>
                       <option value="06/04/8:00pm">Mon 6/4 @8:00pm</option>
@@ -163,7 +164,7 @@
               <label>
                 <p>
                   <span class="tooltip">
-                    <input type="radio" name="where" value="phone"> Phone
+                    <input type="radio" name="where" value="phone" required> Phone
                       <span class="tooltiptext">Phone readings work their mojo just as well as in-person.</span>
                   </span>
                   <span class="tooltip">
@@ -177,13 +178,13 @@
               <div class="store-form-section">
                   <h8>Enter your contact information</h8><br>
                   <p>
-                    <label>Name <br><input type="text" name="name" placeholder="Name"></label>
+                    <label>Name <br><input type="text" name="name" placeholder="Name" required></label>
                   </p>
                   <p>
-                    <label>Email <br><input type="text" name="email" placeholder="Email"></label>
+                    <label>Email <br><input type="text" name="email" placeholder="Email" required></label>
                   </p>
                   <p>
-                    <label>Phone <br><input type="text" name="email" placeholder="Phone"></label>
+                    <label>Phone <br><input type="text" name="phone" placeholder="Phone" required></label>
                   </p>
               </div> <!-- closes store-form-section CONTACT INFORMATION-->
               <!-- 3 BIRTH INFO -->

@@ -3,14 +3,22 @@
 {% include head.html %}
 <header class="shelf-header">
   <div class="shelf-header-content">
-    <h7>{{ page.header }}</h7>
+    <h7>{{ page.header }}</h7><br>
+    <div class="shelf-subhead">
+      <h11>{{ page.subhead }}</h11><br>
+      <h11>by {{ page.author }}</h11>
+    </div>
   </div>
 </header>
 <body>
+  <!--- BACKGROUND IMAGE -->
+  <div class="shelf-background" {% if page.bgimage %} style="background-image: url(../../assets/img/{{ page.bgimage }})"{% endif %}>
+    <div class="store-wrapper">
   <div class="shelf-wrapper">
     {{ content }}
   </div>
   {% include footer.html %}
  </div>
+</div>
 </body>
 </html>

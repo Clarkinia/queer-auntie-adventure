@@ -1,7 +1,10 @@
 ---
 layout: shelf
 title:
-header: Choose a reading
+header: YARN
+subhead: hand-crafted astrology readings
+author: Regina Clarkinia
+bgimage: store_home_bg_white-knit-cable-knit-effect-flooring-neutral.jpg
 ---
 <body>
 <article class="store">
