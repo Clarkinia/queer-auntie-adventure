@@ -874,9 +874,9 @@ body {
 
 .shelf-header-content {
   color: white;
-  width: 260px;
+  width: 240px;
   padding: 10px 0 10px 0;
-  margin: 0 auto 0 auto;
+  margin: 10px auto 0 auto;
   text-align: center;
   background-color: black; }
 
@@ -886,15 +886,16 @@ body {
 
 .shelf-subhead {
   padding: 0px 0 0px 0;
-  color: purple;
+  color: #b300b3;
   font-size: 1em;
   font-weight: 400; }
 
 .shelf-author {
+  color: #b300b3;
   padding: 0px 0 0px 0;
   color: white;
   font-size: 1em;
-  font-weight: 200; }
+  font-weight: 400; }
 
 .shelf-header-cta {
   padding: 0px;
@@ -916,7 +917,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-top: 0px;
-  margin-bottom: 10px; }
+  margin-bottom: 0px; }
 
 .store-items ul {
   margin: 0px auto 0px auto;
