@@ -834,6 +834,9 @@ input[type=time]:-ms-input-placeholder {
   input[type=text] {
     width: 360px; }
 
+  .date-selector select {
+    width: 360px; }
+
   .store-form-header {
     width: 350px;
     max-width: 350px;
@@ -861,6 +864,9 @@ input[type=time]:-ms-input-placeholder {
     max-width: 320px; }
 
   input[type=text] {
+    width: 260px; }
+
+  .date-selector select {
     width: 260px; } }
 /*
   Page Overall
