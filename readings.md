@@ -1,10 +1,11 @@
 ---
 layout: shelf
 title:
-header: YARN
-subhead: hand-crafted astrology readings
-author: Regina Clarkinia
-bgimage: store_home_bg_white-knit-cable-knit-effect-flooring-neutral.jpg
+header: zodiac bag
+subhead: Tarot & Astrology
+author: with Regina Clarkinia
+cta: Choose a reading
+bgimage:
 ---
 <body>
 <article class="store">

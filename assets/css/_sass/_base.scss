@@ -110,6 +110,15 @@ h11 {
   text-decoration: underline;
   text-decoration-color: #3eb984;
 }
+// Same as h11 but no underline
+h111 {
+  font: $base-font-family;
+  font-weight: 400;
+  color: black;
+  letter-spacing: .8px;
+  text-transform: uppercase;
+  font-size: 16px;
+}
 // Pagination Nav if there's no more pages
 h12 {
   font: $base-font-family;

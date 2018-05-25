@@ -102,6 +102,14 @@ h11 {
   text-decoration: underline;
   text-decoration-color: #3eb984; }
 
+h111 {
+  font: "Oswald", sans-serif;
+  font-weight: 400;
+  color: black;
+  letter-spacing: .8px;
+  text-transform: uppercase;
+  font-size: 16px; }
+
 h12 {
   font: "Oswald", sans-serif;
   font-weight: 400;
@@ -861,18 +869,41 @@ body {
   background-color: white; }
 
 .shelf-header {
-  background-color: none;
-  text-align: center;
   padding: 0;
-  margin: 0;
-  height: 0; }
+  margin: 0px; }
+
+.shelf-header-content {
+  color: #ff8533;
+  width: 460px;
+  padding: 10px 0 10px 0;
+  margin: 0 auto 0 auto;
+  text-align: center;
+  background-color: yellow; }
+
+.shelf-headhead {
+  padding: 0;
+  margin: 0; }
+
+.shelf-subhead {
+  padding: 0px 0 0px 0;
+  color: #1279c5;
+  font-size: 1em;
+  font-weight: 400; }
+
+.shelf-author {
+  padding: 0px 0 0px 0;
+  color: #ff8533;
+  font-size: 1em;
+  font-weight: 200; }
+
+.shelf-header-cta {
+  padding: 0px;
+  margin: 40px 0 0 0;
+  text-align: center; }
 
 .shelf-background {
   background-position: left top;
   background-size: contain; }
-
-.shelf-header-content {
-  padding: 60px 0 0px 0; }
 
 /*
   Box Size
@@ -884,7 +915,7 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 140px;
+  margin-top: 0px;
   margin-bottom: 10px; }
 
 .store-items ul {
