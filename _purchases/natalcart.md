@@ -12,6 +12,7 @@ testimonial-auth: D.J.
 bgimage: store-form-natal-background1.jpg
 receive: You will receive your chart by email one day prior to your consultation.
 get-birth-info: Y
+natal: this is for the paypal button
 ---
 <!-- STORE -->
 - 1-hour consultation

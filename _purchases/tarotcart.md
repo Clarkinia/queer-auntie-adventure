@@ -11,6 +11,7 @@ testimonial: The tarot reading you did for me turned out to be spot-on in ways I
 testimonial-auth: E.R.
 bgimage: store-form-tarot-background2.jpg
 receive: You will receive a personal tarot meditation altar card after your reading.
+tarot: this is for the paypal button
 ---
 <!-- STORE -->
 - 1-Tarot Reading

@@ -12,6 +12,7 @@ testimonial-auth: A.C.
 bgimage: store-form-career-background3.jpg
 receive: You will receive your chart by email one day prior to your consultation.
 get-birth-info: Y
+career: this is for the paypal button
 ---
 <!-- STORE -->
 - 1-hour consultation
