@@ -25,6 +25,3 @@ collections:
   purchases:
     output: true
     permalink: /purchases/:path/
-  customers:
-    output: true
-    permalink: /purchases/:path/
