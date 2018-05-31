@@ -4,7 +4,7 @@ title:
 header: zodiac bag
 subhead: Tarot & Astrology
 author: with Regina Clarkinia
-cta: Choose a reading
+cta:
 bgimage:
 ---
 <body>

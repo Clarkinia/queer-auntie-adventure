@@ -8,7 +8,9 @@
     <h111><span class="shelf-author">{{ page.author }}</span></h111>
 </div>
     <div class="shelf-header-cta">
+       {% if page.bgimage %}
       <h7>{{ page.cta }}</h7>
+      {% endif %}
     </div>
 </header>
 <body>
