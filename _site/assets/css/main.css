@@ -882,7 +882,7 @@ body {
   color: white;
   width: 240px;
   padding: 10px 0 10px 0;
-  margin: 10px auto 0 auto;
+  margin: 0px auto 0 auto;
   text-align: center;
   background-color: black; }
 
@@ -910,7 +910,7 @@ body {
 
 .shelf-background {
   background-position: left top;
-  background-size: contain; }
+  background-size: cover; }
 
 /*
   Box Size
@@ -1048,7 +1048,10 @@ body {
 
   .store-testimonial {
     width: 80vw;
-    max-width: 260px; } }
+    max-width: 260px; }
+
+  .shelf-background {
+    background-size: contain; } }
 /*
   Header
 */
