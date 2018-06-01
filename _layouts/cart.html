@@ -8,10 +8,6 @@
     <div class="cart-wrapper">
       <!--- ORDER FORM STARTS -->
       <div class="cart-orderform">
-        <!--- BOT-KILLER .hidden in the CSS -->
-        <p class="hidden">
-          <label>Don’t fill this out if you're human: <input name="bot-field"></label>
-        </p>
         <!--- 1 RECEIPT -->
         <div class="cart-form-section">
           <h8>Payment</h8><br>
@@ -26,12 +22,13 @@
           <h8>Review order</h8><br>
           <!--- 2 PURCHASE ITEM AND PRICE -->
           <div class="cart-form-question">
-              <p>
+              <p class="review-order">
                 <span class="purchase-item">{{ page.name }}</span>
                 <span class="purchase-price">${{ page.price }}</span>
               </p>
-          </div><!-- closes cart-form-question REV ORDER -->
-        </div> <!-- closes cart-form-section REV ORDER -->
+              <p class="purchase-receive">{{ content }}</p>
+          </div><!-- closes cart-form-question REView ORDER -->
+        </div> <!-- closes cart-form-section REView ORDER -->
       </div> <!--- clsoes out cart-orderform -->
       <!--- 3 PAY -->
       <div class="purchase-purchase">
@@ -64,7 +61,7 @@
           {% endif %}<!-- closes out BUTTON MARGINS CAREER CHART -->
           {% if page.tarot %}
           <div class="button-margins">
-            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="purchase-paypal-button">
               <input type="hidden" name="cmd" value="_s-xclick">
               <input type="hidden" name="hosted_button_id" value="L356SC6DW3U38">
               <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">

@@ -21,6 +21,4 @@ cart-url: natalcart
 <!-- STORE -->
 - 1-hour consultation
 - personalized natal chart pdf
-- planets in houses, signs and aspects
-- important themes in your life
-- family and close relationships
+- life patterns, family and relationship

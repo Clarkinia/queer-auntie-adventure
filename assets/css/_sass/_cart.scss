@@ -43,39 +43,57 @@
   width: 560px;
   background-color: white;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 1px 0px 40px 40px;
+  //padding: 1px 0px 0px 0px;
+  margin: 10px auto 10px auto;
   text-align: left;
   box-shadow: 2px 2px 2px 2px rgba(0.1,0.1,0.1,0.1);
 }
 .cart-orderform p{
   font-family: Arial;
 }
+.cart-orderform ul{
+  font-family: Arial;
+  list-style-position: inside;
+  font-size: .8em;
+}
 .cart-form-section {
   margin: 50px 0 0 0;
 }
 .cart-form-section p{
+  font-family: Arial;
   margin: 0px 25px 0 0;
 }
 .cart-form-question {
-  margin: 20px 0 0 0;
+  margin: 20px 0 0px 0;
+  padding: 0 0 0px 0;
 }
 /*
   Purchase Cart
 */
+.purchase-item {
+  font-weight: bold;
+}
 .purchase-price {
+  font-weight: bold;
+  color: #cc0000;
   font-family: Arial;
   float: right;
   padding: 0px 20px 0px 0px;
 }
-.purchase-steps {
+.review-order {
+  padding: 0 0 0px 0;
+  //margin: 0 0 40px 0;
+  //padding: 0 0 40px 0;
+}
+.purchase-receive {
+  float: left;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0 0px 0;
 }
 /*
   POLICY
 */
 .purchase-purchase {
-
   margin-left: auto;
   margin-right: auto;
   padding: 4px 4px 40px 4px;
@@ -93,8 +111,6 @@
 /*
   Submit BUTTON
 */
-.purchase-paynow2confirm {
-}
 .purchase-paynow2confirm p{
   font-size: 18px;
   color: white;

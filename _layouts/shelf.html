@@ -1,16 +1,14 @@
 <!doctype html>
 <html>
-<!--- BACKGROUND IMAGE -->
-<div class="shelf-background" {% if page.bgimage %} style="background-image: url(../../assets/img/{{ page.bgimage }})"{% endif %}>
-{% include head.html %}
-<header class="shelf-header">
-
-
-  <div class="shelf-header-content">
-    <h8><span class="shelf-headhead">{{ page.header }}</span></h8><br>
-    <h111><span class="shelf-subhead">{{ page.subhead }}</span></h111><br>
-    <h111><span class="shelf-author">{{ page.author }}</span></h111>
-</div>
+  <!--- BACKGROUND IMAGE -->
+  <div class="shelf-background" {% if page.bgimage %} style="background-image: url(../../assets/img/{{ page.bgimage }})"{% endif %}>
+    {% include head.html %}
+    <header class="shelf-header">
+      <div class="shelf-header-content">
+        <h8><span class="shelf-headhead">{{ page.header }}</span></h8><br>
+        <h111><span class="shelf-subhead">{{ page.subhead }}</span></h111><br>
+        <h111><span class="shelf-author">{{ page.author }}</span></h111>
+      </div>
 <!--
     <div class="shelf-header-cta">
        {% if page.bgimage %}
@@ -18,15 +16,14 @@
       {% endif %}
     </div>
   -->
-</header>
-<body>
-
-    <div class="store-wrapper">
-  <div class="shelf-wrapper">
-    {{ content }}
-  </div>
-  {% include footer.html %}
- </div>
-</div>
-</body>
+    </header>
+    <body>
+      <div class="store-wrapper">
+        <div class="shelf-wrapper">
+          {{ content }}
+        </div>
+        {% include footer.html %}
+      </div>
+    </body>
+  </div> <!-- background image -->
 </html>

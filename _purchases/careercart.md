@@ -16,4 +16,5 @@ career: this is for the paypal button
 ---
 <!-- STORE -->
 - 1-hour consultation
-- personalized career chart pdf
+- Career chart PDF
+- You will receive your chart by email one day prior to your consultation.

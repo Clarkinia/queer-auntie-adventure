@@ -21,6 +21,4 @@ cart-url: careercart
 <!-- STORE -->
 - 1-hour consultation
 - personalized career chart pdf
-- midheaven and its dispositors
 - unique astrology career indicators
-- roles you perform in the workplace

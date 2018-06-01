@@ -20,6 +20,4 @@ cart-url: tarotcart
 <!-- STORE -->
 - 1-hour consultation
 - action-oriented guidance
-- insight on your life right now
 - answers to specific questions
-- personalized meditation techniques

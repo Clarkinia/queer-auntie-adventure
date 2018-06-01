@@ -114,13 +114,15 @@
   Mouseover Info Tidbits
 */
 .tooltip .tooltiptext {
+    font-size: .7em;
     visibility: hidden;
     width: 120px;
-    background-color: black;
+    background-color: grey;
     color: #fff;
-    text-align: center;
+    text-align: left;
     border-radius: 6px;
-    padding: 5px 0;
+    padding: 6px;
+    margin: 0px;
     /* Position the tooltip */
     position: absolute;
     z-index: 1;

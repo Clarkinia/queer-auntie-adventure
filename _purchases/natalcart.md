@@ -16,5 +16,5 @@ natal: this is for the paypal button
 ---
 <!-- STORE -->
 - 1-hour consultation
-- personalized natal chart pdf
+- Natal chart PDF
 - You will receive your chart by email one day prior to your consultation.

@@ -50,8 +50,16 @@ body {
   text-align: center;
 }
 .shelf-background {
+  padding:0px;
+  margin: 0px 0 0 0;
+  position: initial;
   background-position: left top;
   background-size: cover;
+}
+.store-wrapper {
+  //position: relative;
+  padding: 0px;
+  margin: 0px;
 }
 /*
   Box Size
@@ -97,7 +105,8 @@ body {
 .store-top:hover {
   box-shadow: 6px 6px 6px -8px grey;
   border: 1px;
-  padding: 2px 2px 0px 0px;
+  background: #ffe6cc;
+  //padding: 2px 0px 0px 0px;
 }
 /*
   Buttons

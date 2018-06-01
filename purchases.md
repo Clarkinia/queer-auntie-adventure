@@ -1,7 +1,7 @@
 ---
 layout: shelf
 title:
-header: Choose a purchase
+header:
 ---
 <body>
 <article class="store">
@@ -11,7 +11,7 @@ header: Choose a purchase
       <li>
         <a href="{{ purchase.url }}">
         <div class="store-top">
-      
+
           <div class="store-testimonial">
             <h15>"{{ purchase.testimonial }}" —{{ purchase.testimonial-auth}}</h15>
           </div>

@@ -14,5 +14,6 @@ receive: You will receive a personal tarot meditation altar card after your read
 tarot: this is for the paypal button
 ---
 <!-- STORE -->
-- 1-Tarot Reading
+- 1-hour consultation
+- Meditation altar card
 - You will receive a personal tarot meditation altar card after your reading.

@@ -690,13 +690,15 @@ pre {
   Mouseover Info Tidbits
 */
 .tooltip .tooltiptext {
+  font-size: .7em;
   visibility: hidden;
   width: 120px;
-  background-color: black;
+  background-color: grey;
   color: #fff;
-  text-align: center;
+  text-align: left;
   border-radius: 6px;
-  padding: 5px 0;
+  padding: 6px;
+  margin: 0px;
   /* Position the tooltip */
   position: absolute;
   z-index: 1; }
@@ -909,8 +911,15 @@ body {
   text-align: center; }
 
 .shelf-background {
+  padding: 0px;
+  margin: 0px 0 0 0;
+  position: initial;
   background-position: left top;
   background-size: cover; }
+
+.store-wrapper {
+  padding: 0px;
+  margin: 0px; }
 
 /*
   Box Size
@@ -956,7 +965,7 @@ body {
 .store-top:hover {
   box-shadow: 6px 6px 6px -8px grey;
   border: 1px;
-  padding: 2px 2px 0px 0px; }
+  background: #ffe6cc; }
 
 /*
   Buttons
@@ -1097,31 +1106,49 @@ body {
   width: 560px;
   background-color: white;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 1px 0px 40px 40px;
+  margin: 10px auto 10px auto;
   text-align: left;
   box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1); }
 
 .cart-orderform p {
   font-family: Arial; }
 
+.cart-orderform ul {
+  font-family: Arial;
+  list-style-position: inside;
+  font-size: .8em; }
+
 .cart-form-section {
   margin: 50px 0 0 0; }
 
 .cart-form-section p {
+  font-family: Arial;
   margin: 0px 25px 0 0; }
 
 .cart-form-question {
-  margin: 20px 0 0 0; }
+  margin: 20px 0 0px 0;
+  padding: 0 0 0px 0; }
 
 /*
   Purchase Cart
 */
+.purchase-item {
+  font-weight: bold; }
+
 .purchase-price {
+  font-weight: bold;
+  color: #cc0000;
   font-family: Arial;
   float: right;
   padding: 0px 20px 0px 0px; }
+
+.review-order {
+  padding: 0 0 0px 0; }
+
+.purchase-receive {
+  float: left;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0 0px 0; }
 
 /*
   POLICY
