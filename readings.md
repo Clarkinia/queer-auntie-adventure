@@ -5,7 +5,7 @@ header: zodiac bag
 subhead: Tarot & Astrology
 author: with Regina Clarkinia
 cta:
-bgimage: store_home_bg_Nns5mNuCR5RvXpVzlbt1kgvyXgFak7tFcBOYDVshslY.jpg
+bgimage: store_home_bg_uUTMkSJ.jpg
 ---
 <body>
 <article class="store">
