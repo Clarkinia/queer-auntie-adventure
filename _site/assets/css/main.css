@@ -915,7 +915,7 @@ body {
   margin: 0px 0 0 0;
   position: initial;
   background-position: left top;
-  background-size: contain; }
+  background-size: cover; }
 
 .store-wrapper {
   padding: 0px;
