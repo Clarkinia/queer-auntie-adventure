@@ -1057,7 +1057,10 @@ body {
 
   .store-testimonial {
     width: 80vw;
-    max-width: 260px; } }
+    max-width: 260px; }
+
+  .shelf-background {
+    background-size: auto; } }
 /*
   Header
 */
