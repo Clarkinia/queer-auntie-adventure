@@ -1,12 +1,12 @@
 ---
 layout: shelf
 title:
-header: zodiac bag
-subhead: Tarot & Astrology
+header: Clarkinia Astrology
+subhead: straightforward intuitive guidance
 author: with Regina Clarkinia
-cta:
-bgimage: store_home_bg_1200px_bags_bags_all_type_of_bags.jpg
+cta: Choose a reading based on what you need now.
 ---
+<!-- bgimage: store_home_bg_1200px_bags_bags_all_type_of_bags.jpg -->
 <body>
 <article class="store">
   <div class="store-items">

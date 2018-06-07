@@ -7,30 +7,20 @@ body {
 .shelf-header {
   padding: 0;
   margin: 0px;
-
 }
 .shelf-header-content {
-  color: white;
+  color: black;
   width:240px;
   padding: 10px 0 10px 0;
-  margin: 0px auto 0 auto;
-  text-align: center;
-  background-color:  black;
-  //border-radius: 50px;
+  margin: 0px 0 0 60px;
+  text-align: left;
+  background-color:  white;
 }
 .shelf-headhead {
   padding: 0;
   margin: 0;
+}
 
-}
-.shelf-subhead {
-  padding: 0px 0 0px 0;
-  color: #b300b3;;
-  //color: #ff8533;
-  //color: #1279c5;
-  font-size: 1em;
-  font-weight: 400;
-}
 .shelf-author {
   color: #b300b3;
   padding: 0px 0 0px 0;
@@ -38,16 +28,6 @@ body {
   //color: #ff8533;
   font-size: 1em;
   font-weight: 400;
-}
-
-.shelf-subhead h11{
-  //text-decoration: none;
-}
-
-.shelf-header-cta {
-  padding:0px;
-  margin: 40px 0 0 0;
-  text-align: center;
 }
 .shelf-background {
   padding:0px;
@@ -60,6 +40,38 @@ body {
   //position: relative;
   padding: 0px;
   margin: 0px;
+}
+/*
+  Shelf subhead
+*/
+.shelf-subhead-wrapper {
+  padding: 0px;
+  margin: 0px 0 0 0px;
+  background-color: black;
+
+}
+.shelf-subhead h111{
+  line-height: 80px;
+  color: white;
+  //text-decoration: none;
+}
+.shelf-subhead {
+  width: 640px;
+
+  margin: 0px 0 0 60px;
+  padding: 20px 0 0px 0;
+  //color: #b300b3;;
+  //color: #ff8533;
+  //color: #1279c5;
+  font-size: 1em;
+  font-weight: 400;
+
+}
+.shelf-subhead-cta {
+  width: 640px;
+  margin: 0px 0 0 60px;
+  padding: 20px 0 0px 0;
+  color: white;
 }
 /*
   Box Size
