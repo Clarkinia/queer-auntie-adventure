@@ -63,9 +63,11 @@ h6 {
 
 h7 {
   font-weight: 700;
-  font-size: 62px;
-  line-height: 62px;
-  font-family: "Oswald", sans-serif; }
+  font-size: 32px;
+  line-height: 32px;
+  font-family: "Libre Baskerville", serif;
+  padding: 0px 0 0 0;
+  margin: 20px 0 0 0; }
 
 h8 {
   font-weight: 700;
@@ -125,31 +127,6 @@ h13 {
 h14 {
   font-family: 'Mr De Haviland', cursive;
   font-size: 2em; }
-
-h15 {
-  font-family: Arial;
-  font-size: 15px;
-  font-weight: 200;
-  text-transform: none;
-  letter-spacing: 0px;
-  color: black; }
-
-h16 {
-  font-weight: 400;
-  font-size: 20px;
-  line-height: 15px;
-  font-family: "Oswald", sans-serif;
-  text-align: center;
-  color: grey; }
-
-h17 {
-  font-family: Arial;
-  font-size: 10px;
-  font-style: italic;
-  font-weight: 200;
-  letter-spacing: 0px;
-  color: black;
-  line-height: -9px; }
 
 p {
   display: block;
@@ -389,6 +366,10 @@ body img {
 
 .post-author h2 {
   padding: 0px 0 0 0; }
+
+h7 p {
+  padding: 0px 0 0 0;
+  margin: 40px 0 0 0; }
 
 @media (max-width: 1100px) {
   .page-content {
