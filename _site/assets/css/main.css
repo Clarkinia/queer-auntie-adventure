@@ -514,6 +514,9 @@ body img {
   margin: 0;
   padding: 12px 0 22px 0; }
 
+@media (max-width: 480px) {
+  .author-subhead h8 a {
+    font-size: .68em; } }
 .footer {
   height: 10em;
   display: flex;
