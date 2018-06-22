@@ -12,9 +12,9 @@ sass:
   sass_dir: assets/css
   style: :nested
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Regina Clarkinia"
-description:	       "Stories, Visuals and Ideas"
-author:              "Regina Clarkinia"
+title:	Queer Auntie
+description: The blog of writer Regina Clarkinia
+author: Regina Clarkinia
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 # path:	rss-feed.xml

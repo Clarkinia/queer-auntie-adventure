@@ -38,13 +38,14 @@ layout: default
     </div>
   </div>
   <span class="post-author">
-    <h2>
+    <h2><a href="{{ site.github.url }}/pages/about.html">
       by
      {% if page.author %}
       {{ page.author }}
      {% else %}
       {{ site.data.authors.primary.name }}
      {% endif %}
+   </a>
     </h2>
   </span>
   {% if page.image.feature %}
@@ -86,9 +87,9 @@ layout: default
                        style="background-image:url({{ site.github.url }}/assets/img/{{ mypost.image.feature }})"
                        {% endif %}>
                     <div class="related-title-container">
-                    <h6><span class="related-cat">{{ mypost.categories }}</span></h6>
-                    <h5><span class="related-title">{{ mypost.title }}</span></h5>
-                    <h10><span class="related-description">{{ mypost.description }}</span></h10>
+                    <span class="related-cat"><h6>{{ mypost.categories }}</h6></span>
+                    <span class="related-title"><h5>{{ mypost.title }}</h5></span>
+                    <span class="related-description"><h10>{{ mypost.description }}</h10></span>
                     </div>
                   </div>
                 </a>
