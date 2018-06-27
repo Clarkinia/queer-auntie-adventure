@@ -4,6 +4,9 @@ title: Home
 ---
 {% for post in paginator.posts %}
 <article>
+  <div class="seo-image">
+    <img src="/assets/img/queer_auntie_site_image01.jpg">
+  </div>
   <a href="{{ site.github.url }}{{ post.url }}">
     <div class="featured-posts"
          {% if post.image.feature %}

@@ -2,8 +2,12 @@
   <title>
     {% if page.title == "Home" %}
       {{ site.data.settings.title }}
+      <meta property="og:url"              content="https://www.queerauntie.com" />
+      <meta property="og:title"              content="Queer Auntie" />
+      <meta property="og:description"        content="The blog of writer Regina Clarkinia and friends. An anarchic adventure through wormholes, bookstores, libraries, museums, the internet, programming, gaming, education and fashion." />
     {% else %}
       {{ page.title }} | {{ site.data.settings.title }}
+      {{ page.description }} | {{ site.data.settings.description }}
     {% endif %}
   </title>
   <!-- fonts and  SVG images, I think  -->
@@ -23,9 +27,7 @@
   {% feed_meta %}
   <!-- Use Jekyll SEO plugin -->
   {% seo %}
-  <meta property="og:url"              content="https://www.queerauntie.com" />
-  <meta property="og:title"              content="Queer Auntie" />
-  <meta property="og:description"        content="The blog of writer Regina Clarkinia and friends. An anarchic adventure through wormholes, bookstores, libraries, museums, the internet, programming, gaming, education and fashion." />
+
 
   <!-- Installed jquery when I was testing Snipcart store
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
