@@ -6,7 +6,7 @@ author: Regina Clarkinia
 categories: [Fiction]
 tags: [Fiction, Noir, TV , Cartoons]
 image:
-  feature: llama-4.jpg
+  feature: llama.jpg
   teaser:
   credit: Creative Commons/ Flickr Tambako
   creditlink: https://www.flickr.com/photos/tambako/4750603032/
