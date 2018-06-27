@@ -1,7 +1,7 @@
 <head>
   <title>
     {% if page.title == "Home" %}
-      {{ site.data.settings.title }}
+      {{ site.title }}
     {% else %}
       {{ page.title }} | {{ site.data.settings.title }}
     {% endif %}
