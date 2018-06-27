@@ -5,6 +5,7 @@ description: The time it takes to change.
 author: Regina Clarkinia
 categories: [astrology]
 tags: [Uranus, Transits]
+promo-img: clarkinia_promo_ad_03.jpg
 image:
   feature: kraut.jpg
   teaser:
