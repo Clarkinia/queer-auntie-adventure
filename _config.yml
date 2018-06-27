@@ -17,6 +17,8 @@ description: The blog of writer Regina Clarkinia and friends
 author: Regina Clarkinia
 type: article
 image: https://www.queerauntie.com/assets/img/queer_auntie_site_image01.jpg
+facebook:
+  publisher: https://www.facebook.com/Queer-Auntie-271039616807530/
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 # path:	rss-feed.xml
