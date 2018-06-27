@@ -12,7 +12,9 @@ image:
   creditlink: https://www.flickr.com/photos/tambako/4750603032/
 ---
 
-
+<div class="seo-image">
+<img src="https://www.queerauntie.com/assets/img/llama.jpg">
+</div>
 When Lucia saw the one where Bugs cut carrots into his own cauldron, the one he was being cooked in, she went to the kitchen and got a bag of carrots from the bottom drawer of the fridge and a knife from the wooden silverware drawer. On the sofa, she cut the carrots into disks and pretended to be boiled alive while singing like Bugs.
 
 Lucia was five, her favorite number. Her next birthday loomed large. Every day she worried that she wasn't going to be able to hack it as a six-year-old. She would wake up at the break of dawn to be alone and watch Looney Tunes.
