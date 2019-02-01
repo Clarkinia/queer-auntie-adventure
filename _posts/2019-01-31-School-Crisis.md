@@ -9,7 +9,7 @@ promo-img:
 image:
   feature: crunching_numbers.jpg
   teaser:
-  credit:
+  credit: It's like a game of RISK, and you know how that goes.
   creditlink:
 ---
 <h5>The basic blueprint</h5>
@@ -19,6 +19,7 @@ Against all odds, students in California’s poorest neighborhoods shine brightl
 This should be a story about these students, their teachers and families. <a href="http://ousd.granicus.com/player/clip/1401?fbclid=IwAR0jkimaNOdAAqyba3GYzQrJYGgMIqnIqssfzu0IFFu_PHRmk42x231Lntg">They are speaking out</a> and doing everything they can to keep their schools open. But the students have no leverage: they don't have a lot of money and they are not white. <a href="https://edsource.org/2019/oakland-school-board-votes-to-close-first-of-up-to-two-dozen-schools-amid-opposition/607844?fbclid=IwAR1Qh3UT6rI245V4JHOvyjOGHhHuTe88Hxrsn4mH5nUBXc8_2xMD8hcX_tM">So the school board ignores them.</a> And regular citizens don’t hear the students either. They don’t feel the urgency, even though it’s their own hard-earned taxpayer money getting funneled into <a href="https://beyondtradeoffs.economist.com/implementing-billion-dollar-mandate">private investment portfolios.</a>
 
 <a href= "https://www.rootsinternationalacademy.com/we-know-where-we-come-from"><img src="https://www.queerauntie.com/assets/img/roots_pictures.jpg"></a>
+<h4>Students from ROOTS International Academy</h4>
 
 I could say, “Imagine it’s your kid that suddenly has to find a new school.” or “These kids are just like you were when you were in high school. They just want experiences, opportunities, relationships and a safe place to be teenagers.“ and then I’d say, “Remember when you were in high school?” and then you’d say, “I’d rather not.” Which is understandable.
 
@@ -26,7 +27,7 @@ I could say, “Imagine it’s your kid that suddenly has to find a new school.�
 
 So this doesn’t really have anything to do with these students, as much as it cuts to admit this. Thanks to racism, classism and political shell games, this isn’t about the students, the awkward geniuses, who usually but not always bloom where they’re planted. It should be about them because they are the real protagonists, the heroes of the story.
 
-This story is a showdown between the charter school lobbyists and the teacher’s unions. Like the classic board game RISK, where the objective is to take over as much land as possible by any means necessary, the charter school lobby has been systematically taking over public schools in California for over two decades.
+This story is a showdown between the charter school lobbyists and the teacher’s unions. The charter school lobby has been systematically taking over public schools in California for over two decades. It's like they are playing RISK, the board game where the objective is to take over the world.
 
 Here’s how it works. In order to convert public schools into investment packages, the charter school industry targets a vulnerable region, called <a href="https://greatlakescenter.org/docs/Policy\_Briefs/Saltman\_PortfolioDistricts.pdf">a “portfolio district”,</a> where they gain political influence over the school board. Starting with the poorest neighborhoods, they destabilize existing public schools, force school shut-downs, install charter schools and deliver financial returns to investors. That’s the basic blueprint.
 
@@ -58,7 +59,7 @@ Charter schools have devoted supporters. And every charter school is unique. I u
 
 Like regular public schools, charter schools are tuition-free public schools that receive public funds based on enrollment and attendance. The only difference is in the charter, or contract, that spells out the way they operate based on a unique vision and alternative approach to educational success.
 
-The problem is that the financial industry found a way to prey on this unique arrangement. The private charter industry pays off school board members in their hunt for student enrollment money. When this happens, the school board board no longer acts as an impartial servant for student academic success. The board becomes a puppet for a strategic takeover by increasing school closures without consideration for its traumatizing impact on underserved and poc children.
+The problem is that the financial industry found a way to prey on this unique arrangement. The private charter industry pays off school board members in their hunt for student enrollment money. When this happens, the school board board no longer acts as an impartial servant for student academic success. The board becomes a puppet for a strategic takeover by increasing school closures without consideration for its traumatizing impact on underserved and poc children. The objective of the "district portfolio" blueprint is to privatize education by converting all public schools into investment portfolio products.
 
 <a href="https://www.financial-planning.com/list/aibnb-charter-schools-unusual-real-estate-strategies"><img src="https://www.queerauntie.com/assets/img/cash.jpg"></a>
 
