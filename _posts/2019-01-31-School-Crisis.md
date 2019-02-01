@@ -14,7 +14,7 @@ image:
 ---
 <h5>The basic blueprint</h5>
 
-Against all odds, students in California’s poorest neighborhoods shine bright in public schools, but when lobby-controlled school boards close their schools, they are forced to fight for an education.
+Against all odds, students in California’s poorest neighborhoods shine brightly in public schools, but when lobby-controlled school boards close their schools, they are forced to fight for an education.
 
 This should be a story about these students, their teachers and families. <a href="http://ousd.granicus.com/player/clip/1401?fbclid=IwAR0jkimaNOdAAqyba3GYzQrJYGgMIqnIqssfzu0IFFu_PHRmk42x231Lntg">They are speaking out</a> and doing everything they can to keep their schools open. But the students have no leverage: they don't have a lot of money and they are not white. <a href="https://edsource.org/2019/oakland-school-board-votes-to-close-first-of-up-to-two-dozen-schools-amid-opposition/607844?fbclid=IwAR1Qh3UT6rI245V4JHOvyjOGHhHuTe88Hxrsn4mH5nUBXc8_2xMD8hcX_tM">So the school board ignores them.</a> And regular citizens don’t hear the students either. They don’t feel the urgency, even though it’s their own hard-earned taxpayer money getting funneled into <a href="https://beyondtradeoffs.economist.com/implementing-billion-dollar-mandate">private investment portfolios.</a>
 
@@ -28,7 +28,7 @@ So this doesn’t really have anything to do with these students, as much as it 
 
 This story is a showdown between the charter school lobbyists and the teacher’s unions.
 
-Here’s how it works. In order to convert public schools into investment packages, the charter school industry targets a vulnerable region, called <a href="https://greatlakescenter.org/docs/Policy\_Briefs/Saltman\_PortfolioDistricts.pdf">a “portfolio district”,</a> where they gain political influence over the school board. Starting with the poorest neighborhoods they destabilize existing public schools, force school shut-downs, install charter schools and deliver financial returns to investors. That’s the basic blueprint.
+Here’s how it works. In order to convert public schools into investment packages, the charter school industry targets a vulnerable region, called <a href="https://greatlakescenter.org/docs/Policy\_Briefs/Saltman\_PortfolioDistricts.pdf">a “portfolio district”,</a> where they gain political influence over the school board. Starting with the poorest neighborhoods, they destabilize existing public schools, force school shut-downs, install charter schools and deliver financial returns to investors. That’s the basic blueprint.
 
 <h5>The “portfolio district” blueprint being played out in Oakland</h5>
 
@@ -42,7 +42,8 @@ The deciding factor in school closures seems to be the neighborhood’s lack of 
 
 <a href="https://blog.oaklandxings.com/category/charter-schools-and-privatization/"><img src="https://www.queerauntie.com/assets/img/roots_speaker.jpg"></a>
 
-The OUSD runs $30 million over budget. The reasons for this shortfall include loss of revenue to charter schools, mismanagement by the OUSD administration and borrowing hundreds of millions from the state that they struggle to pay back. <a href="http://www.oaklandpost.org/2018/09/14/ousd-may-receive-millions-state-aid-money-comes-strings/>The Alameda County Office of Education and the Fiscal Crisis and Management Assistance Team (FCMAT) have swooped in many times,</a> advising the OUSD to shut down more schools, lay off more teachers and take out state loans.
+<h5>Direct accounting vs the runaround
+The OUSD runs $30 million over budget. The reasons for this shortfall include loss of revenue to charter schools, mismanagement by the OUSD administration and borrowing hundreds of millions from the state that they struggle to pay back. <a href="http://www.oaklandpost.org/2018/09/14/ousd-may-receive-millions-state-aid-money-comes-strings/">The Alameda County Office of Education and the Fiscal Crisis and Management Assistance Team (FCMAT) have swooped in many times,</a> advising the OUSD to shut down more schools, lay off more teachers and take out state loans.
 
 However, research has shown that way to save is not to cut schools (in low-income and poc neighborhoods, according to the charter industry blueprint). It is well-documented that shutting down schools and replacing them with charters almost always costs more. For example, <a href="https://nepc.colorado.edu/publication/closures">a recent UC Berkeley study</a> shows that is “a  high-risk/low-gain strategy that fails to hold promise with respect to either student achievement or non-cognitive well-being.”
 
