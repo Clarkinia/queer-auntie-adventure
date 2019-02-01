@@ -5,7 +5,7 @@ description: A ruthless game of RISK (you know how that game gets)
 author: Regina Clarkinia
 categories: [education]
 tags: [California, Education, Kids, poc]
-promo-img: clarkinia\_promo\_ad\_03.jpg
+promo-img: clarkinia_promo_ad_03.jpg
 image:
   feature: crunching_numbers.jpg
   teaser:
