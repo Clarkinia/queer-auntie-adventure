@@ -51,20 +51,20 @@ The problem is that the financial industry found a way to prey on this unique ar
 
 <img src="https://www.queerauntie.com/assets/img/cash.jpg">
 
-The charter school lobby argues that public schools have gotten complacent and don’t provide a good education. This thinking is in line with the right wing mindset that also supports privatization of public services in general: competition “naturally” breeds excellence and provides consumers with more options.
+The charter school lobby argues that public schools have gotten complacent and don’t provide a good education. Their thinking is in line with the right wing mindset that also supports privatization of public services in general: open market competition “naturally” breeds excellence and provides consumers with more options.
 
-Teacher’s unions claim that the effects of charter school strategies, such as destabilizing existing public schools and selectively recruiting high performing students, are a drain on enrollment dollars and this financial blow drastically cuts into resources for public school students. The teacher’s union wants a permanent moratorium on the creation of new charter schools.
+Teacher’s unions claim that the effects of charter school strategies, such as destabilizing existing public schools and selectively recruiting high performing students, are a drain on enrollment dollars and this financial blow drastically cuts into resources for public school students. The teacher's unions want a permanent moratorium on the creation of new charter schools.
 
-#A temporary moratorium and review of the blueprint in Los Angeles, and possibly statewide
+<h5>A temporary moratorium and review of the blueprint in Los Angeles, and possibly statewide</h5>
 
-This week, the LAUSD board declared a temporary hiatus on the formation of new charter schools in order to take a step back and analyze charter school impact. A comprehensive study by the California Department of Education is expected to be published late 2019 and will examine the efficacy and legality of the more than two decades of charter school growth in California, the state with the most charter schools in the country.
+This week, the LAUSD board declared a temporary hiatus on the formation of new charter schools in order to take a step back and analyze charter school impact. A comprehensive study by the California Department of Education is expected to be published late 2019 and will examine the more than two decades of charter school growth in California, the state with the most charter schools in the country.
 
 <img src="https://www.queerauntie.com/assets/img/lausdboard.jpg">
 
-The LAUSD board doesn’t actually have the power to suspend new charter schools; this is something the California Legislature would likely have to approve. The LAUSD board’s action is more of a “please help us” message to Sacramento, where a statewide cap on charter schools has been talked about. The OUSD board piggy-backed on to the LAUSD’s plea, letting Sacramento know that they want to be included in the statewide cap, if it happens.
+The LAUSD board doesn’t actually have the power to suspend new charter schools; this is something the California Legislature would likely have to approve. The LAUSD board’s action is more of a “please help us” signal to Sacramento, where a statewide cap on charter schools has been talked about. The OUSD board piggy-backed on to the LAUSD’s plea, letting Sacramento know that they want to be included in a statewide cap, if it happens.
 
 Newly elected State Superintendent of Public Instruction, Tony Thurmond, has promised a pause on charter school expansion. Governor Gavin Newsom is more vague, supporting investigations into conflicts of interest and more transparency in the charter school industry, however he hasn’t spoken out about a moratorium.
 
-<img src="https://www.queerauntie.com/assets/img thurmond.jpg">
+<img src="https://www.queerauntie.com/assets/img/thurmond.jpg">
 
 Like the OUSD board, most of the LAUSD board members have received large payments from the charter lobby, so this “temporary moratorium” on new charters may be a way to appear temporarily unbiased. The charter school lobby has proven to be excellent at their long game, finding ways to diffuse the obvious correlation between the lobby’s campaign donations and pro-charter bias on school boards across California.
