@@ -42,7 +42,7 @@ The deciding factor in school closures seems to be the neighborhood’s lack of 
 
 <a href="https://blog.oaklandxings.com/category/charter-schools-and-privatization/"><img src="https://www.queerauntie.com/assets/img/roots_speaker.jpg"></a>
 
-<h5>Direct accounting vs the runaround
+<h5>Direct accounting vs the runaround</h5>
 The OUSD runs $30 million over budget. The reasons for this shortfall include loss of revenue to charter schools, mismanagement by the OUSD administration and borrowing hundreds of millions from the state that they struggle to pay back. <a href="http://www.oaklandpost.org/2018/09/14/ousd-may-receive-millions-state-aid-money-comes-strings/">The Alameda County Office of Education and the Fiscal Crisis and Management Assistance Team (FCMAT) have swooped in many times,</a> advising the OUSD to shut down more schools, lay off more teachers and take out state loans.
 
 However, research has shown that way to save is not to cut schools (in low-income and poc neighborhoods, according to the charter industry blueprint). It is well-documented that shutting down schools and replacing them with charters almost always costs more. For example, <a href="https://nepc.colorado.edu/publication/closures">a recent UC Berkeley study</a> shows that is “a  high-risk/low-gain strategy that fails to hold promise with respect to either student achievement or non-cognitive well-being.”
