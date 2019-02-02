@@ -7,7 +7,7 @@ categories: [astrology]
 tags: [Astrology, Horoscope]
 promo-img:
 image:
-  feature: crunching_numbers.jpg
+  feature: posters.jpg
   teaser:
   credit:
   creditlink:
