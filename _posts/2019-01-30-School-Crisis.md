@@ -9,7 +9,7 @@ promo-img:
 image:
   feature: crunching_numbers.jpg
   teaser:
-  credit: It's like a game of RISK, and you know how that goes.
+  credit:
   creditlink:
 ---
 <h5>The basic blueprint</h5>
@@ -22,13 +22,13 @@ This should be a story about these students, their teachers and families. <a hre
 <figcaption><h4>Students from ROOTS International Academy</h4></figcaption>
 </figure>
 
-I could say, “Imagine it’s your kid that suddenly has to find a new school.” or “These kids are just like you were when you were in high school. They just want experiences, opportunities, relationships and a safe place to be teenagers.“ and then I’d say, “Remember when you were in high school?” and then you’d say, “I’d rather not.” Which is understandable.
+I could say, “Imagine it’s your kid that suddenly has to find a new school.” or “These kids are just like you were when you were in high school. They just want experiences, opportunities, relationships and a safe place to be teenagers.“ and then I’d say, “Remember when you were in high school?” and then you’d say, “I’d rather not.” Which is understandable. For those of us who had the privilege of school, it is was a dreaded delight to really just hate it to death.
 
 <a href="http://www.oaklandpost.org/2018/12/27/school-district-wants-close-roots-international-academy-school-year/"><img src="https://www.queerauntie.com/assets/img/roots_field.jpg"></a>
 
 So this doesn’t really have anything to do with these students, as much as it cuts to admit this. Thanks to racism, classism and political shell games, this isn’t about the students, the awkward geniuses, who usually but not always bloom where they’re planted. It should be about them because they are the real protagonists, the heroes of the story.
 
-This story is a showdown between the charter school lobbyists and the teacher’s unions. The charter school lobby has been systematically taking over public schools in California for over two decades. It's like they are playing RISK, the board game where the sole objective is to take over the entire face of the world.
+This story is a showdown between the charter school lobbyists and the teacher’s unions. The charter school lobby has been systematically taking over public schools in California for over two decades.
 
 Here’s how it works. In order to convert public schools into investment packages, the charter school industry targets a vulnerable region, called <a href="https://greatlakescenter.org/docs/Policy\_Briefs/Saltman\_PortfolioDistricts.pdf">a “portfolio district”,</a> where they gain political influence over the school board. Starting with the poorest neighborhoods, they destabilize existing public schools, force school shut-downs, install charter schools and deliver financial returns to investors. That’s the basic blueprint.
 
