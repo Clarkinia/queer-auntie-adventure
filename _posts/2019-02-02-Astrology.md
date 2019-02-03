@@ -7,7 +7,7 @@ categories: [astrology]
 tags: [Astrology, Horoscope]
 promo-img:
 image:
-  feature: posters.jpg
+  feature: alien_astrology.jpg
   teaser:
   credit:
   creditlink:

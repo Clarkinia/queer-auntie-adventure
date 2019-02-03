@@ -7,7 +7,7 @@ categories: [education]
 tags: [Education, Kids, Help]
 promo-img:
 image:
-  feature: roots_grampa.jpg
+  feature: posters.jpg
   teaser:
   credit:
   creditlink:
