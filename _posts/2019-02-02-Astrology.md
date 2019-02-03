@@ -7,7 +7,7 @@ categories: [astrology]
 tags: [Astrology, Horoscope]
 promo-img:
 image:
-  feature: alien_astrology.jpg
+  feature: posters.jpg
   teaser:
   credit:
   creditlink:
@@ -22,15 +22,9 @@ Personal identity is super activated right now. You see it in the hideous red MA
 
 You may feel like helping others, which can grow into an inspired sense of thinking you know what is right for everyone. As long as you keep it grounded, or, you know, maybe ask them what they want. The high ideals and wild-hair inspirations that hit like a flash of lightning are good when you are connected to reality.
 
-<figure>
-<a href="https://www.queerauntie.com/education/student-help"><img src="https://www.queerauntie.com/assets/img/roots_grampa.jpg"></a>
-<figcaption>This January, students, families and teachers at ROOTS Academy in Oakland, CA, spoke with to save their school. <a href="https://www.queerauntie.com/education/student-help">Here are 4 easy ways to help Oakland schools.</a>
-</figure>
-
 The theme of this year is going to have a lot to do with taking care of ourselves, taking care of others and letting others take care of us. We can be heard better than ever and we can listen better than ever. This year is excellent for creative projects, like art, music and poetry that help other people, express an altruistic message or just are deep in the feels. It's a good time to follow your dreams and do the impossible. The recipe for success = patient regular work time + heart is in the right place.
 
 It can sound like I'm saying this year will be all peace and love and hippy dippy easy breezy, but you know that making art when you're tuned in to others can be super emotionally taxing. It's like walking a tightrope while cuddling a fuzzy wuzzy baby bear. In this kind of astro weather, it can be easy to hide away, take a pre-fab job, binge on media and just isolate. None of these things is wrong. I encourage the following of the heart, whatever that means to you.
-
 
 <h5>For astro nerds</h5>
 The standouts this month are Aquarius and its ruling planet, Uranus. Both the Sun and Mercury are in Aquarius through mid-February. Uranus is doing its victory lap in Aries before <a href="https://www.queerauntie.com/astrology/uranus-enters-taurus">going back into Taurus</a> in March. Uranus has been firing up this new sense of identity over the last eight-ish years in Aries, aggressively powering through into a radical new design. We have lots of exciting aspects to Uranus coming up in the next couple weeks. The Venus trine is making it about relationships, tone, design, rhythm and finding a way to bring some connectivity and sweetness to the freakazoid new individual flare.
