@@ -12,7 +12,7 @@ image:
   credit:
   creditlink:
 ---
-<h5>Sci-Fi Planetary Escapades: Astrology Feb 1-19</h5>
+<h5>Sci-Fi Planetary Escapades:</h5>
 
 These next couple weeks will be increasingly high energy. You might surprise yourself at how much you will be able to accomplish. At the same time, it can be easy to get frenzied. It can help to have your out-of-this-world grand plans connected to a results-oriented project, practical daily routine or in collaboration with others.
 
@@ -31,3 +31,21 @@ I know it sounds all peace and love and hippy dippy easy breezy, but this kind o
 The standout this month are Aquarius and its ruling planet, Uranus. Both the Sun and Mercury are in Aquarius through mid-February. Uranus is doing its victory lap in Aries before <a href="https://www.queerauntie.com/astrology/uranus-enters-taurus">going back into Taurus</a> in March. Uranus has been firing up this new sense of identity over the last eight-ish years in Aries, aggressively powering through into a radical new design. We have lots of fun aspects to Uranus coming up in the next couple weeks. The Venus trine is making it about relationships, tone, design, rhythm and finding a way to bring some connectivity and sweetness to the freakazoid new individual flare.
 
 Along with Uranus, Mars is also finishing its (much shorter) run in Aries. Mars kicked off the month with a square to Pluto and will be conjunct Mars on Feb 13, which promises to be off the hook weirdo energy, cumming like a pinball machine on another planet flashing TILT and like smoke is everywhere. At any rate, it should be a good day for online porn.
+
+<br>
+<h5>The tattoo</h5>
+supplies: paper and pen
+
+1. what is one way in which you are both mis-understood and ahead of your time? (awaken, teen angst)
+
+
+2. you hold the key to how things could be more fair for everyone. write it down in a 3-word manifesto.
+
+
+3. draw your personal ID symbol based on your 3-word manifesto.
+
+
+4. with ball-point pen, draw your symbol on your arm.
+
+
+5. this weekend, scavenge for one other person’s manifesto, but don’t ask them outright. see if you can glean it. listen to their way, what is special about them, what makes them tick, their foods, customs and the way they show thanks. listen closely and with deeper sensitivity than ever. listen so close that you could play a drum solo of their heart and breath. be a guest at their table. notice how they do things in a way you would have never considered. draw and write your findings.
