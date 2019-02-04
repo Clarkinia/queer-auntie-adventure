@@ -5,7 +5,8 @@ description: Ask for help. Offer help.
 author: Regina Clarkinia
 categories: [astrology]
 tags: [Help, Astrology, Family, Horoscope]
-promo-img:
+promo-img: oakschool_promo_ad_teebread.jpg
+promo-link: https://www.queerauntie.com/education/student-help
 image:
   feature: posters.jpg
   teaser:

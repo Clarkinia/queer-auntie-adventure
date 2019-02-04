@@ -5,7 +5,8 @@ description: The hunt for red octstrology
 author: Regina Clarkinia
 categories: [astrology]
 tags: [Astrology, Activities, Tattoo, Uranus, Transits]
-promo-img:
+promo-img: clarkinia_promo_ad_03.jpg
+promo-link: https://www.clarkiniaastrology.com
 image:
   feature: john_walter.jpg
   teaser:
@@ -31,7 +32,7 @@ here's a little activity for this week. you will need a paper and pen.
 
 
 <br>
-<h5>Extra planetary mumbo-jumbo for astro nerds</h5>
+<h5>Planetary mumbo-jumbo for astro nerds</h5>
 The standouts this month are Aquarius and its ruling planet, Uranus. Both the Sun and Mercury are in Aquarius through mid-February. Uranus is doing its victory lap in Aries before <a href="https://www.queerauntie.com/astrology/uranus-enters-taurus">going back into Taurus</a> in March. Uranus has been firing up this new sense of identity over the last eight-ish years in Aries, aggressively powering through into a radical new design. We have lots of exciting aspects to Uranus coming up in the next couple weeks. The Venus trine is making it about relationships, tone, design, rhythm and finding a way to bring some connectivity and sweetness to the freakazoid new individual flare.
 
 Along with Uranus, Mars is also finishing its (much shorter) run in Aries. Mars kicked off the month with a square to Pluto and will be conjunct Mars on Feb 13, which promises to be off the hook weirdo energy, cumming like a pinball machine on another planet flashing TILT and like smoke is everywhere. At any rate, it should be a good day for online porn.

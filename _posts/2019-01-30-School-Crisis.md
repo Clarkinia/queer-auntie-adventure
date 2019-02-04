@@ -5,12 +5,13 @@ description: A ruthless game of RISK (you know how that game gets)
 author: Regina Clarkinia
 categories: [education]
 tags: [California, Education, Kids, poc]
-promo-img:
+promo-img: oakschool_promo_ad_gramps.jpg
+promo-link: https://www.queerauntie.com/education/student-help
 image:
   feature: crunching_numbers.jpg
   teaser:
-  credit:
-  creditlink:
+image-credit:
+image-creditlink:
 ---
 <h5>The basic blueprint</h5>
 

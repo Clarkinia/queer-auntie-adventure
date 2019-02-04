@@ -6,6 +6,7 @@ author: Regina Clarkinia
 categories: [astrology]
 tags: [Uranus, Transits, Astrology]
 promo-img: clarkinia_promo_ad_03.jpg
+promo-link: https://www.clarkiniaastrology.com
 image:
   feature: kraut.jpg
   teaser:

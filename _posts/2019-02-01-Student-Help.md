@@ -5,7 +5,8 @@ description: Four ways you can help Oakland students
 author: Regina Clarkinia
 categories: [education]
 tags: [Help, Family, Education, Kids, Oakland, California, poc]
-promo-img:
+promo-img: oakschool_promo_ad_aplus.jpg
+promo-link: https://www.hellaheartteachers.com
 image:
   feature: oakteegirl.jpg
   teaser:

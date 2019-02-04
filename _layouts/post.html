@@ -54,7 +54,7 @@ layout: default
       <figure>
        <img src="{{ site.github.url }}/assets/img/{{ page.image.feature }}">
         <figcaption>
-          <a href= "{{ page.image.creditlink }}">{{ page.image.credit }}</a>
+          <a href= "{{ page.image.creditlink }}" target="_blank">{{ page.image.credit }}</a>
         </figcaption>
       </figure>
       </h4>
@@ -73,7 +73,7 @@ layout: default
   </div>
   <div class="cta-astro">
     {% if page.promo-img %}
-    <a href="https://www.clarkiniaastrology.com"><img src="/assets/img/{{ page.promo-img }}"></a>
+    <a href= "{{ page.promo-link }}" target="_blank"><img src="/assets/img/{{ page.promo-img }}"></a>
     {% endif %}
   </div>
   <div class="related">
