@@ -4,13 +4,13 @@ title: Astrology Feb 1-19
 description: Ask for help. Offer help.
 author: Regina Clarkinia
 categories: [astrology]
-tags: [Astrology, Horoscope]
+tags: [Help, Astrology, Family, Horoscope]
 promo-img:
 image:
   feature: posters.jpg
   teaser:
   credit:
-  creditlink:
+  creditlink: www.kqed.org/news/11719763/photos-oakland-teachers-paint-prepare-to-vote-on-strike
 ---
 <h5>Ask for help. Offer help.</h5>
 

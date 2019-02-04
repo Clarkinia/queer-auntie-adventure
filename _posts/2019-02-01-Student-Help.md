@@ -4,13 +4,13 @@ title: T-shirts and bread
 description: Four ways you can help Oakland students
 author: Regina Clarkinia
 categories: [education]
-tags: [Education, Kids, Help, Oakland]
+tags: [Help, Family, Education, Kids, Oakland, California, poc]
 promo-img:
 image:
   feature: oakteegirl.jpg
   teaser:
-  credit: Wear your care with a t-shirt and hoodie.
-  creditlink: www.hellaheartteachers.com
+  credit: Wear your care with a "Teachers are the heart of Oakland" t-shirt and hoodie.
+  creditlink: "www.hellaheartteachers.com"
 ---
 
 <a href="https://www.queerauntie.com/education/rumi">Teachers, families and students are fighting for public school education in Oakland, CA.</a>
