@@ -51,6 +51,6 @@ It can sound like I'm saying this year will be all peace and love and hippy dipp
 
 <a href="https://www.queerauntie.com/astrology/astrology-extra">Get some extra astro activities for February 1-19.</a>
 
-<a href="https://www.queerauntie.com/education/rumi>Read the whole interview with Rumi.</a>
+<a href="https://www.queerauntie.com/education/rumi">Read the whole interview with Rumi.</a>
 
-<a href="https://www.queerauntie.com/education/student-help">Four quick and easy ways to help students now.</a>
+<a href="https://www.queerauntie.com/education/student-help">Here are four quick and easy ways to help students now.</a>
