@@ -7,6 +7,72 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Astro Extras Feb 1-19</title>
+				
+				
+					<description>&lt;h5&gt;the tattoo: an astro activity&lt;/h5&gt;
+&lt;p&gt;here’s a little activity for this week. you will need a paper and pen.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 04 Feb 2019 00:00:00 -0800</pubDate>
+				<link>http://localhost:4000/astrology/Astrology-Extra.html</link>
+				<guid isPermaLink="true">http://localhost:4000/astrology/Astrology-Extra.html</guid>
+			</item>
+		
+			<item>
+				<title>Astrology Feb 1-19</title>
+				
+				
+					<description>&lt;h5&gt;Ask for help. Offer help.&lt;/h5&gt;
+
+</description>
+				
+				<pubDate>Sat, 02 Feb 2019 00:00:00 -0800</pubDate>
+				<link>http://localhost:4000/astrology/Help-Astrology.html</link>
+				<guid isPermaLink="true">http://localhost:4000/astrology/Help-Astrology.html</guid>
+			</item>
+		
+			<item>
+				<title>T-shirts and bread</title>
+				
+				
+					<description>&lt;p&gt;&lt;a href=&quot;https://www.queerauntie.com/education/rumi&quot;&gt;Teachers, families and students are fighting for public school education in Oakland, CA.&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 01 Feb 2019 00:00:00 -0800</pubDate>
+				<link>http://localhost:4000/education/Student-Help.html</link>
+				<guid isPermaLink="true">http://localhost:4000/education/Student-Help.html</guid>
+			</item>
+		
+			<item>
+				<title>New-ish</title>
+				
+				
+					<description>&lt;p&gt;&lt;a href=&quot;https://rumikoshino.com/section/203890-Sculpture-Installation.html&quot;&gt;Rumi Koshino&lt;/a&gt; is an artist and teacher. For three years she has been teaching at &lt;a href=&quot;https://www.ousd.org/domain/1712&quot;&gt;Oakland High,&lt;/a&gt; where the teachers are probably going to strike this February. I called her a few nights ago and asked how she’s doing.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 01 Feb 2019 00:00:00 -0800</pubDate>
+				<link>http://localhost:4000/education/Rumi.html</link>
+				<guid isPermaLink="true">http://localhost:4000/education/Rumi.html</guid>
+			</item>
+		
+			<item>
+				<title>California Public School Crisis</title>
+				
+				
+					<description>&lt;h5&gt;The basic blueprint&lt;/h5&gt;
+
+</description>
+				
+				<pubDate>Wed, 30 Jan 2019 00:00:00 -0800</pubDate>
+				<link>http://localhost:4000/education/School-Crisis.html</link>
+				<guid isPermaLink="true">http://localhost:4000/education/School-Crisis.html</guid>
+			</item>
+		
+			<item>
 				<title>Uranus Enters Taurus</title>
 				
 				
@@ -76,22 +142,6 @@ Bass drum. High hat. Scratch. Crash! Ride.&lt;/p&gt;
 				<pubDate>Wed, 04 Apr 2018 00:00:00 -0700</pubDate>
 				<link>http://localhost:4000/poetry/When-It-s-Just-Dark.html</link>
 				<guid isPermaLink="true">http://localhost:4000/poetry/When-It-s-Just-Dark.html</guid>
-			</item>
-		
-			<item>
-				<title>Five Alive</title>
-				
-				
-					<description>&lt;div class=&quot;seo-image&quot;&gt;
-&lt;img src=&quot;https://www.queerauntie.com/assets/img/llama.jpg&quot; /&gt;
-&lt;/div&gt;
-&lt;p&gt;When Lucia saw the one where Bugs cut carrots into his own cauldron, the one he was being cooked in, she went to the kitchen and got a bag of carrots from the bottom drawer of the fridge and a knife from the wooden silverware drawer. On the sofa, she cut the carrots into disks and pretended to be boiled alive while singing like Bugs.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Thu, 01 Mar 2018 00:00:00 -0800</pubDate>
-				<link>http://localhost:4000/fiction/Five-Alive.html</link>
-				<guid isPermaLink="true">http://localhost:4000/fiction/Five-Alive.html</guid>
 			</item>
 		
 	</channel>
