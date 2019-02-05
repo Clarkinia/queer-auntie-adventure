@@ -10,8 +10,6 @@ promo-link: https://www.queerauntie.com/education/student-help
 image:
   feature: crunching_numbers.jpg
   teaser:
-image-credit:
-image-creditlink:
 ---
 <h5>The basic blueprint</h5>
 
@@ -25,7 +23,10 @@ This should be a story about these students, their teachers and families. <a hre
 
 I could say, “Imagine it’s your kid that suddenly has to find a new school.” or “These kids are just like you were when you were in high school. They just want experiences, opportunities, relationships and a safe place to be teenagers.“ and then I’d say, “Remember when you were in high school?” and then you’d say, “I’d rather not.” Which is understandable. For those of us who had the privilege of school, it is was a dreaded delight to really just hate it to death.
 
+<figure>
 <a href="http://www.oaklandpost.org/2018/12/27/school-district-wants-close-roots-international-academy-school-year/"><img src="https://www.queerauntie.com/assets/img/roots_field.jpg"></a>
+<figcaption><h4>The ROOTS International Academy community.</h4></figcaption>
+</figure>
 
 So this doesn’t really have anything to do with these students, as much as it cuts to admit this. Thanks to racism, classism and political shell games, this isn’t about the students, the awkward geniuses, who usually but not always bloom where they’re planted. It should be about them because they are the real protagonists, the heroes of the story.
 
@@ -43,7 +44,15 @@ The Oakland Unified School District board members receive massive campaign funds
 
 The deciding factor in school closures seems to be the neighborhood’s lack of financial and political leverage. It has nothing to do with the quality of the school. Even good schools get shut down with no consideration for the school’s deeply ingrained, positive impact on the community. For example, this month (January 2019) the OUSD board voted to close ROOTS International Academy, a thriving school in East Oakland. The board was unmoved by <a href="https://edsource.org/2019/oakland-school-board-votes-to-close-first-of-up-to-two-dozen-schools-amid-opposition/607844?fbclid=IwAR1Qh3UT6rI245V4JHOvyjOGHhHuTe88Hxrsn4mH5nUBXc8_2xMD8hcX_tM">the outpouring of heartfelt support</a> from family, teachers and students at the OUSD board meeting.
 
-<a href="https://blog.oaklandxings.com/category/charter-schools-and-privatization/"><img src="https://www.queerauntie.com/assets/img/roots_speaker.jpg"></a>
+<figure>
+<h4>
+<a href="https://blog.oaklandxings.com/2019/01/roots-families-tell-school-board-dont-close-school/"><img src="https://www.queerauntie.com/assets/img/roots_speaker.jpg">
+<figcaption>
+Student speaking at the OUSD board meeting to keep ROOTS Academy open. Photo by Ken Epstein.
+</figcaption>
+</a>
+</h4>
+</figure>
 
 <h5>Direct accounting vs the runaround</h5>
 The OUSD runs $30 million over budget. The reasons for this shortfall include loss of revenue to charter schools, mismanagement by the OUSD administration and borrowing hundreds of millions from the state that they struggle to pay back. <a href="http://www.oaklandpost.org/2018/09/14/ousd-may-receive-millions-state-aid-money-comes-strings/">The Alameda County Office of Education and the Fiscal Crisis and Management Assistance Team (FCMAT) have swooped in many times,</a> advising the OUSD to shut down more schools, lay off more teachers and take out state loans.
@@ -73,12 +82,28 @@ Teacher’s unions claim that the effects of charter school industry strategies,
 
 This week, on January 29, <a href="https://laist.com/2019/01/29/lausd_board_asks_state_to_temporarily_halt_new_charter_schools_from_opening.php">the LAUSD board declared a temporary hiatus on the formation of new charter schools</a> in order to take a step back and analyze charter school impact. A comprehensive study by the California Department of Education is expected to be published late 2019 and will examine the more than two decades of charter school growth in California, the state with the most charter schools in the country.
 
+<figure>
+<h4>
 <a href= "https://edsource.org/2019/la-unified-teachers-still-face-challenges-over-contract-and-charter-school-moratorium/607910"><img src="https://www.queerauntie.com/assets/img/lausdboard.jpg"></a>
+<figcaption>
+LAUSD board
+</figcaption>
+</a>
+</h4>
+</figure>
 
 <a href= "https://edsource.org/2019/la-unified-teachers-still-face-challenges-over-contract-and-charter-school-moratorium/607910">The LAUSD board doesn’t actually have the power to suspend new charter schools;</a> this is something the California Legislature would likely have to approve. The LAUSD board’s action is more of a “please help us” signal to Sacramento, where a statewide cap on charter schools has been talked about. The OUSD board piggy-backed on to the LAUSD’s plea, letting Sacramento know that they want to be included in a statewide cap, if it happens.
 
 Newly elected State Superintendent of Public Instruction, Tony Thurmond, <a href="https://theintercept.com/2018/11/01/california-superintendent-of-public-instruction-charter-schools/">has promised a pause on charter school expansion.</a> Governor Gavin Newsom is more vague, supporting investigations into conflicts of interest and more transparency in the charter school industry, however he hasn’t spoken out about a moratorium.
 
-<a href="https://www.facebook.com/tony.thurmond/photos/a.288388564670642/1173743649468458/?type=1&theater"><img src="https://www.queerauntie.com/assets/img/thurmond.jpg"></a>
+<figure>
+<h4>
+<a href="https://www.facebook.com/tony.thurmond/photos/a.288388564670642/1173743649468458/?type=1&theater"><img src="https://www.queerauntie.com/assets/img/thurmond.jpg">
+<figcaption>
+California Governor, Gavin Newsom, with State Superintendent of Public Instruction, Tony Thurmond.
+</figcaption>
+</a>
+</h4>
+</figure>
 
 Like the OUSD board, most of the LAUSD board members have received large payments from the charter lobby, so this “temporary moratorium” on new charters may be a way to appear temporarily unbiased. The charter school lobby has proven to be excellent at their long game, finding ways to diffuse any obvious correlation between the lobby’s campaign donations and pro-charter bias on school boards across California.

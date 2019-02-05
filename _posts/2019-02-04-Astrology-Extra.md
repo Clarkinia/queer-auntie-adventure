@@ -10,8 +10,9 @@ promo-link: https://www.clarkiniaastrology.com
 image:
   feature: john_walter.jpg
   teaser:
-  credit: John Walter!
-  creditlink: www.them.us/story/john-walter-capsid
+  credit: not really sure why but i think it's a glitch and i can't delete this with the forwd slash or all hell breaks loose so i leave this here ya know/.
+  creditlink: https://www.them.us/story/john-walter-capsid/
+  caption: A still from the John Walter movie, "A Virus Walks Into A Bar".
 ---
 <h5>the tattoo: an astro activity</h5>
 here's a little activity for this week. you will need a paper and pen.

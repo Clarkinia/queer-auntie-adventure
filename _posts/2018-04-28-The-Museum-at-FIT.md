@@ -11,6 +11,7 @@ image:
   teaser:
   credit: Olivia Newton-John/ Physical
   creditlink: https://www.youtube.com/watch?v=6zwPVU92-XQ
+  caption: Album cover for Olivia Newton-John, "Physical"
 ---
 
 Late April. Around 5:30pm. I’m walking down the street to a see a museum show about high fashion for different body types. Right out in public, in the middle of busy Manhattan, a class of bootcampers side-shuffle from one side of the one-lane street to the other. At any moment, a car could drive through them, or want to drive through them. The instructor shouts commands in a heavy New York accent. I imagined he had been a fire fighter or a cop who survived 9-11 and couldn’t work the job anymore due to PTSD. He decided on a career change: to use his aggressive tenacity to motivate 20-somethings into shape.

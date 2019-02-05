@@ -10,8 +10,9 @@ promo-link: https://www.queerauntie.com/education/student-help
 image:
   feature: posters.jpg
   teaser:
-  credit: For three days in January, Art Build hosted a community art-making event where they made art for the upcoming teacher's strike in Oakland/.
-  creditlink: https://www.kqed.org/news/11719763/photos-oakland-teachers-paint-prepare-to-vote-on-strike
+  credit: not really sure why but i think it's a glitch and i can't delete this with the forwd slash or all hell breaks loose so i leave this here ya know/.
+  creditlink: http://www.kqed.org/news/11719763/photos-oakland-teachers-paint-prepare-to-vote-on-strike
+  caption: For three days in January, Art Build hosted a community art-making event where they made art for the upcoming teacher's strike in Oakland.
 ---
 <h5>Ask for help. Offer help.</h5>
 These next couple weeks will be increasingly high energy. You might surprise yourself at how much you will be able to accomplish. At the same time, it can be easy to get frenzied. It can help to have your out-of-this-world grand plans connected to a results-oriented project, practical daily routine or be in collaboration with others.
@@ -25,11 +26,13 @@ You may feel like helping others, which can grow into an inspired sense of think
 The best way to ground yourself right now is to connect with other humans. Ask for help. Share how you feel. Ask how they feel. Find out how you can help.
 
 <figure>
+<h4>
 <a href="https://www.queerauntie.com/education/student-help"><img src="https://www.queerauntie.com/assets/img/roots_grampa.jpg">
 <figcaption>
-The students, families and teachers at the OUSD board meeting: "articulating what they want with the facts to back it up".
+ROOTS Academy students, families and teachers organizing and speaking on what they need for their childrens' education. 
 </figcaption>
 </a>
+</h4>
 </figure>
 
 <h5>Working together in Oakland</h5>

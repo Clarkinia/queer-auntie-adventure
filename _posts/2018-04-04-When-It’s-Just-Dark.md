@@ -10,6 +10,7 @@ image:
   teaser:
   credit: Creative Commons/ Flickr Mike Bitzenhofer
   creditlink: https://www.flickr.com/photos/tambako/4750603032/
+  caption: Photo by Mike Bitzenhofer
 ---
 
 

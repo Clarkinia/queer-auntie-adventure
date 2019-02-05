@@ -10,8 +10,9 @@ promo-link: https://www.clarkiniaastrology.com
 image:
   feature: kraut.jpg
   teaser:
-  credit: Creative Commons/ Flickr Sarah Warren
+  credit: Creative Commons/
   creditlink: https://flic.kr/p/d2iAQb
+  caption: Photo by Sarah Warren
 ---
 
 Uranus moves through signs very slowly, in each sign for like 7 or more years... so I like to see how this unfolds. Even though the fateful day of the transition is meaningful and it’s funny you actually can notice the switch, I like to wait and see what we foment.

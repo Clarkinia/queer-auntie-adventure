@@ -10,6 +10,7 @@ image:
   teaser:
   credit: Creative Commons/ Flickr Tambako
   creditlink: https://www.flickr.com/photos/tambako/4750603032/
+  caption: Photo by Tambako
 ---
 
 <div class="seo-image">

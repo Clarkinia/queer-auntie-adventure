@@ -10,8 +10,9 @@ promo-link: https://www.hellaheartteachers.com
 image:
   feature: oakteegirl.jpg
   teaser:
-  credit: Wear your care with a "Teachers are the heart of Oakland" t-shirt and/or hoodie.
+  credit: not really sure why but i think it's a glitch and i can't delete this with the forwd slash or all hell breaks loose so i leave this here ya know/.
   creditlink: "https://www.hellaheartteachers.com"
+  caption: Wear your care with a "Teachers are the heart of Oakland" t-shirt or hoodie.
 ---
 
 <a href="https://www.queerauntie.com/education/rumi">Teachers, families and students are fighting for public school education in Oakland, CA.</a>

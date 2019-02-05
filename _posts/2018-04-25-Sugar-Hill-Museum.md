@@ -10,6 +10,7 @@ image:
   teaser:
   credit: Ana Mendieta/ Untitled (Facial Hair Transplants), 1972. © The Estate of Ana Mendieta Collection, LLC. Courtesy Galerie Lelong & Co.
   creditlink: http://www.galerielelong.com/
+  caption: Ana Mendieta, "Untitled (Facial Hair Transplants)", 1972. © The Estate of Ana Mendieta Collection, LLC. Courtesy Galerie Lelong & Co.
 ---
 
 The Sugar Hill Museum, in the Sugar Hill neighborhood of Harlem, is full of interactive materials. Raw wood sticks with frayed bark in a horizontal built-in shelf, some just lying there, others in a natural fiber basket. They seem like props for kids to generate stories and I wondered how it worked. Same with the living room-sized chess board on the floor with toddler-sized chess pieces in the central open gallery space. Keeping track of any chess game would result in a story structure, since it has relationship, motivation, strategy to pull that off with devastating losses and smug victories, and every emotion in the book.
