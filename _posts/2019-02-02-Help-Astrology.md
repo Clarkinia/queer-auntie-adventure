@@ -15,7 +15,7 @@ image:
   caption: For three days in January, Art Build hosted a community art-making event where they made art for the upcoming teacher's strike in Oakland.
 ---
 <h5>Ask for help. Offer help.</h5>
-These next couple weeks will be increasingly high energy. You might surprise yourself at how much you will be able to accomplish. At the same time, it can be easy to get frenzied. It can help to have your out-of-this-world grand plans connected to a results-oriented project, practical daily routine or be in collaboration with others.
+These next couple weeks will be increasingly high energy, and by mid-February everyone is going to be on one. You are in a new place, really feeling yourself, and ready to make something that means something to you, the real you, the dusted-off shoulders you. You might surprise yourself with how much you will be able to accomplish. At the same time, it can be easy to get frenzied. Stay grounded by giving your out-of-this-world grand plans connected a results-oriented project, practical daily routine or be in collaboration with others.
 
 A visualization for this: ride a wave of electric inspiration. If you start to think you know everything or try to do too much, you will wipe out, dude.
 
@@ -23,13 +23,13 @@ Personal identity is super activated right now. You see it in the hideous red MA
 
 You may feel like helping others, which can grow into an inspired sense of thinking you know what is right for everyone. As long as you keep it grounded, or, you know, maybe ask them what they want. The high ideals and wild-hair inspirations that hit like a flash of lightning are good when you are connected to reality.
 
-The best way to ground yourself right now is to connect with other humans. Ask for help. Share how you feel. Ask how they feel. Find out how you can help.
+The best way to ground yourself right now is to connect with other humans. Ask for help. Share how you feel. Ask how they feel. Find out how you can help. This year gives special blessings to those of pure heart doing altruistic creative projects for the better of all - sorry demon-spawn, it's just not your year : (
 
 <figure>
 <h4>
 <a href="https://www.queerauntie.com/education/student-help"><img src="https://www.queerauntie.com/assets/img/roots_grampa.jpg">
 <figcaption>
-ROOTS Academy students, families and teachers organizing and speaking on what they need for their childrens' education. 
+ROOTS Academy students, families and teachers organizing and speaking on what they need for their childrens' education.
 </figcaption>
 </a>
 </h4>
@@ -48,9 +48,12 @@ For three days in January, <a href="https://justseeds.org/art-build-techniques-f
 
 <br>
 <h5>The year ahead</h5>
-Right now is a prime time to activate your year. The theme of 2019 is taking care of ourselves, taking care of others and letting others take care of us. We can be heard better than ever and we can listen better than ever. <a href="https://justseeds.org/art-build-techniques-for-protest/">This year is excellent for creative projects, like art, music and poetry that help other people, express an altruistic message or just are deep in the feels.</a> It's a good year to follow your dreams and do the impossible. The recipe for success = patient regular work time + heart is in the right place.
+Right now is a prime time to activate. The theme of 2019 is taking care of ourselves, taking care of others and letting others take care of us. We can be heard better than ever and we can listen better than ever. <a href="https://justseeds.org/art-build-techniques-for-protest/">This year is excellent for creative projects, like art, music and poetry that help other people, express an altruistic message or just are deep in the feels.</a> It's a good year to follow your dreams and do the impossible.
+
+The recipe for success = patient regular work time + heart is in the right place.
 
 It can sound like I'm saying this year will be all peace and love and hippy dippy easy breezy, but you know that making art when you're tuned in to others can be super emotionally taxing. It's like walking a tightrope while cuddling a fuzzy wuzzy baby bear [I did an analogy]. In this kind of astro weather, it can be easy to hide away, zone out, binge on media and just isolate. None of these things is wrong. I encourage the following of the heart, whatever that means to you.
+
 
 <a href="https://www.queerauntie.com/astrology/astrology-extra">Get some extra astro activities for February 1-19.</a>
 
