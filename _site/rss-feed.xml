@@ -7,6 +7,22 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Lantana and Crows</title>
+				
+				
+					<description>&lt;p&gt;The air gets crisp with melted grass &lt;br /&gt;
+on quiet, hot days in Southern California. &lt;br /&gt;
+The sidewalk makes its move to dehydrate &lt;br /&gt;
+back to cement powder. &lt;br /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 08 Feb 2019 00:00:00 -0800</pubDate>
+				<link>http://localhost:4000/poetry/Lantana-Crows.html</link>
+				<guid isPermaLink="true">http://localhost:4000/poetry/Lantana-Crows.html</guid>
+			</item>
+		
+			<item>
 				<title>Astro Extras Feb 1-19</title>
 				
 				
@@ -25,7 +41,7 @@
 				
 				
 					<description>&lt;h5&gt;Ask for help. Offer help.&lt;/h5&gt;
-&lt;p&gt;These next couple weeks will be increasingly high energy. You might surprise yourself at how much you will be able to accomplish. At the same time, it can be easy to get frenzied. It can help to have your out-of-this-world grand plans connected to a results-oriented project, practical daily routine or be in collaboration with others.&lt;/p&gt;
+&lt;p&gt;These next couple weeks will be increasingly high energy, and by mid-February everyone is going to be on one. You are in a new place, really feeling yourself, and ready to make something that means something to you, the real you, the dusted-off shoulders you. You might surprise yourself with how much you will be able to accomplish. At the same time, it can be easy to get frenzied. Stay grounded by giving your out-of-this-world grand plans connected a results-oriented project, practical daily routine or be in collaboration with others.&lt;/p&gt;
 
 </description>
 				
@@ -131,18 +147,6 @@ Bass drum. High hat. Scratch. Crash! Ride.&lt;/p&gt;
 				<pubDate>Tue, 10 Apr 2018 00:00:00 -0700</pubDate>
 				<link>http://localhost:4000/poetry/Town-Cats.html</link>
 				<guid isPermaLink="true">http://localhost:4000/poetry/Town-Cats.html</guid>
-			</item>
-		
-			<item>
-				<title>When It’s Just Dark</title>
-				
-				
-					<description>&lt;p&gt;Sheets of hot tin roof go “waeahwaehhhweeaahhh,” a shimmering saw. Fleet-footed. A piece of cake pulled from the one cooling in the windah. Crumblings onto the unlit grass shards. Running through backyards in just the 1950s just a boy with a slingshot in yer pocket sayin’ “gee whiz” the neck snaps back, trachea bent into a dent by a cotton cord not always strung with clothes usually but not always. His birthright chances scatter like cat-eyes, surround where his spine lies. Their glassy flecks currying God-given favors, oven lives, clotheslines, boy oh boy cake freaks.&lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 04 Apr 2018 00:00:00 -0700</pubDate>
-				<link>http://localhost:4000/poetry/When-It-s-Just-Dark.html</link>
-				<guid isPermaLink="true">http://localhost:4000/poetry/When-It-s-Just-Dark.html</guid>
 			</item>
 		
 	</channel>
