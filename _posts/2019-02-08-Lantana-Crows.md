@@ -5,8 +5,8 @@ description:
 author: Regina Clarkinia
 categories: [poetry]
 tags: [Plants, Poetry, Music, Animals, Totems, Energies]
-promo-img: clarkinia_promo_ad_03.jpg
-promo-link: https://www.clarkiniaastrology.com
+promo-img: 
+promo-link:
 image:
   feature: crow_lantana.jpg
   teaser:
