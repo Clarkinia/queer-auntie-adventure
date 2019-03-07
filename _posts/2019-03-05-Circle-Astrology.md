@@ -21,13 +21,13 @@ In 2003 I started volunteering at City Slicker Farms, an urban farm that has bee
 <h4>
 <a href="https://www.youtube.com/watch?v=liT8cILFAV4"><img src="https://www.queerauntie.com/assets/img/envogue_dance.jpg">
 <figcaption>
-En Vogue are companion plants. They have done some light weeding and replanted before.
+En Vogue have done some light weeding and replanting in the past.
 </figcaption>
 </a>
 </h4>
 </figure>
 
-These next few weeks, you will be weeding through your companions, deciding which you’re ready to pull and which to root in deeper with. People from your past will resurface, if they haven’t already. As you re-acquaint yourselves, you will re-consider these relationships. Depending on where Pisces is in your chart, this can cover your chosen family, your soul pod, creative collaborators, mentors, neighbors, social media friends, co-workers or people with shared investments. You will be face-to-face with deciding which binds you want to break free of and which lasting commitments you want to make last.
+These next few weeks, you will be tending to your weed/plant people, deciding which you’re ready to pull and which to root in deeper with. People from your past will resurface, if they haven’t already. As you re-acquaint yourselves, you will re-consider these relationships. Depending on where Pisces is in your chart, this can cover your chosen family, your soul pod, creative collaborators, mentors, neighbors, social media friends, co-workers or people with shared investments. You will be face-to-face with deciding which binds you want to break free of and which lasting commitments you want to make last.
 
 <figure>
 <h4>
@@ -50,7 +50,7 @@ Mercury retrograding in Pisces is high vibes and you can get a lot of power from
 
 <figure>
 <h4>
-<a href="https://www.queerauntie.com/assets/img/foot_reflexology.jpg"><img src="https://www.queerauntie.com/assets/img/baby_accupressure.jpg">
+<a href="https://www.queerauntie.com/assets/img/foot_reflexology.jpg"><img src="https://www.queerauntie.com/assets/img/baby_foot.jpg">
 <figcaption>
 Baby yourself and rub your feet.
 </figcaption>
@@ -62,16 +62,16 @@ Even though you may feel harried by some of these repeated circumstances and peo
 
 <figure>
 <h4>
-<img src="https://www.queerauntie.com/assets/img/marbles_circles.jpg">
+<img src="https://www.queerauntie.com/assets/img/eighties_neighborkids.jpg">
 <figcaption>
-Piscean things: feet, imagination, art and childhood.
+
 </figcaption>
 </h4>
 </figure>
 
-Everything you do, do it from that vulnerable gut trust place of not needing to have it all figured out now. Trust that it will make sense in the end. Particularly for this whole month it's delicate high vibes so it's easy to get panicked and wish it made more sense. Unhealthy expression of Pisces gets sneaky, martyry, resentful, evasive, touchy, emo and victimy. Especially with the sun in Pisces, watch for a humble-brag show of compassionate and sensitive Piscean traits.
+Everything you do, do it from that vulnerable gut trust place of not needing to have it all figured out now. Trust that it will make sense in the end. With delicate high vibes so it's easy to get panicked and wish it made more sense. Unhealthy expression of Pisces gets sneaky, martyry, resentful, evasive, touchy, emo and victimy. Especially with the sun in Pisces, watch for a humble-brag show of compassionate and sensitive Piscean traits.
 
-Touch in with how you and everyone alive is in a vulnerable spot. Feel, listen and trust the quiet voice inside. Enjoy the different perspective while it lasts.
+Healthy Pisces is trusting, sharing, connecting and sitting with uncomfortable vulnerable feelings. Tell people what you feel, even if your emotions are more in flux than usual. Touch in with how you and everyone alive is in a vulnerable spot. Feel, listen and trust the quiet voice inside. Enjoy the altered perspective while it lasts.
 
 <figure>
 <h4>

@@ -344,10 +344,11 @@ $phone-width: 480px;
   display: none; }
 
 body img {
-  align: middle;
-  margin: 5px auto auto auto;
+  align: left;
+  margin: 10px auto 10px 0;
   display: block;
-  max-width: 600px; }
+  width: 600px;
+  max-width: 60vw; }
 
 .page-content {
   width: 600px;
