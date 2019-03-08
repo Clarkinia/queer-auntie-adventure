@@ -4,7 +4,7 @@ title: Astrology Feb 5-25
 description: Being with other people
 author: Regina Clarkinia
 categories: [astrology]
-tags: [Help, Astrology, Family, Horoscope]
+tags: [Togetherness, Astrology, Plants, Horoscope, Dance, Pisces, Community, California, poc]
 promo-img:
 promo-link:
 image:
@@ -56,7 +56,7 @@ Baby yourself and treat your feet to a little foot reflexology moment.
 <br>
 
 <h5>Being with people is a muscle</h5>
-Last month I went to a <a href="http://criticalresistance.org/abolition-of-policing-workshop/">Critical Resistance workshop</a> about how to use de-escalation skills instead of relying on 9-11 in conflict situations. We were counted out into groups and each group was asked to come up with ways to resolve a different scenario. My group's situation was getting in a fender bender with somebody who was just released on parole. The solution my group arrived at relied on <a href="https://compression.org/jackson-rising-kali-akuno-ajamu-nangwaya/">community resources, like mentors and time-banking, that promote accountability through cooperative trust.</a> But that involves real skills that take time to develop, an investment that would need to be sustained by continually assessing the needs of the community.
+Last month I went to a <a href="http://criticalresistance.org/abolition-of-policing-workshop/">Critical Resistance workshop</a> about how to use de-escalation skills instead of relying on 9-11 in conflict situations. We were counted out into groups and each group was asked to come up with ways to resolve a different scenario. My group's example was getting in a fender bender with somebody who was just released on parole. The solution my group arrived at relied on <a href="https://compression.org/jackson-rising-kali-akuno-ajamu-nangwaya/">community resources, like mentors and time-banking, that promote accountability through cooperative trust.</a> But that involves real skills that take time to develop, an investment that would need to be sustained by continually assessing the needs of the community.
 
 <figure>
 <h4>
@@ -67,36 +67,30 @@ In Jackson, MI, Cooperation Jackson is "an emerging vehicle for sustainable comm
 </a>
 </h4>
 </figure>
-<br>
 
+Learning how to work together, stay present and connect with others seems like a skill worth investing in. It's the urskill, the original skill, the skill to end all skills. At the <a href="http://criticalresistance.org/abolition-of-policing-workshop/">Critical Resistance workshop,</a> <a href="http://www.gmgallardo.com/contact.html">educator and workshop co-presenter, German</a> said, "When we rely on policing to solve all our problems, collective problem solving atrophies. We need to practice in order to sustain the innate abilities we have around conflict resolution."
 
-Learning how to work together, stay present and connect with others seems like a skill worth investing in. It's the urskill, the original skill, the skill to end all skills. At the <a href="http://criticalresistance.org/abolition-of-policing-workshop/">Critical Resistance workshop,</a> <a href="http://www.gmgallardo.com/contact.html">educator and workshop presenter, German</a> said, "When we rely on policing to solve all our problems, collective problem solving atrophies. We need to practice in order to sustain the innate abilities we have around conflict resolution."
-
-Learning to trust and communicate in confusing situations is a skill that takes practice. Throughout the day it is a constant practice of self awareness that helps me stay present. And being aware of others is another area I am always working on. Some things that I do to raise my awareness of others is through eye contact, slowing down to feel where they are coming from, listening more patiently and asking questions when I don't understand.
+Learning to trust and communicate in confusing situations is a skill that takes practice. Throughout the day it is a constant practice of self awareness that helps me stay present. And being aware of others is another area I am always working on. Some things that I do to raise my awareness of others is to get eye contact, slow down to feel where they are coming from, listen more patiently and ask questions when I don't understand.
 
 <figure>
 <h4>
 <a href="https://www.eventbrite.com/e/community-action-team-training-tickets-56730361037"><img src="https://www.queerauntie.com/assets/img/yjc_skits.jpg">
 <figcaption>
-Members of Youth Justice Coalition in Los Angeles provide Community Action Team Trainings where they teach practical skills to de-escalate situations you may encounter in everyday life. You can register now for the April 6 and 7 session.
+Members of Youth Justice Coalition in Los Angeles provide Community Action Team Trainings where they teach practical skills to de-escalate situations you may encounter in everyday life. You can register now for the April 6 and 7 session (I will be there).
 </figcaption>
 </a>
 </h4>
 </figure>
-<br>
-
-
-
 
 Sometimes I cut myself off from my feelings. I realize it happens when I memorize a bunch of new information or scroll through Instagram. It can feel good to spend time being more logical and impersonal, but often it's just a byproduct of overworking, overthinking and taking on too much. When I allow myself to be back in my body, the feeling of tenderness and sweetness can cause me to overflow with emotion. Sometimes the same thing happens when I listen and connect with another person. It's like while I was spending time in logic town, all my emotions were quietly welling up, my need to give and receive care and special attention patiently waiting.
 
-Because of the emotionally charged and sensitive workshop material, Jess and German began the workshop by affirming our abilities to take care of ourselves (get water, tea, coffee or step outside to take a breather). And they let us know to ask for help if we need it. Then German led a group activity where we called all of our selves into the room that might still be out in other parts of this city or roaming the skies. He said, "True change happens when we share ideas and for that to happens we need all the parts of you to be in the room."
+Co-presenters Jess and German began the Critical Resistance workshop by affirming our abilities to take care of ourselves (get water, tea, coffee or step outside to take a breather). And they invited us to ask for help if we need it. German led a group activity where we called all of our selves into the room. We called the pieces of us that might still be out in other parts of this city, lost in the past or roaming the skies. He said, "True change happens when we share ideas and for that to happen we need all the parts of you to be in the room."
 
 <figure>
 <h4>
 <img src="https://www.queerauntie.com/assets/img/eighties_neighborkids.jpg">
 <figcaption>
-
+Piscean things: groups, play, memory, childhood and dreamspaces.
 </figcaption>
 </h4>
 </figure>
@@ -109,13 +103,13 @@ Healthy Pisces is trusting, sharing, connecting and sitting with feelings. Tell 
 
 <figure>
 <h4>
-<img src="https://www.queerauntie.com/assets/img/moms_feet.jpg">
+<a href="https://www.huckmag.com/art-and-culture/kiki-vogue-radical-identity-social-change/"><img src="https://www.queerauntie.com/assets/img/kiki_limbsdance.jpg">
 <figcaption>
-Piscean things: dance, music, poetry and refracted ways of communicating.
+Piscean things: dance, music, poetry and refracted ways of communicating. Image from a huckmag story about Kiki dancing, Photography by Krisanne Johnson
 </figcaption>
+</a>
 </h4>
 </figure>
-
 
 
 <a href="https://www.queerauntie.com/astrology/astrology-extra">Get some extra astro activities for February 1-19.</a>
