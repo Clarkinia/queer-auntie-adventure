@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Astro Extras March 5-25
-description: Spin your partner
+description: Spin your partner and spit a rhyme
 author: Regina Clarkinia
 categories: [astrology]
 tags: [March, Astrology, Togetherness, Dance, Music, Poetry, Activities]
@@ -17,7 +17,7 @@ image:
 Lean into the illogical, creative goo during this time of beginnings and endings and returns and releases. Lots of overlap of new and old cycles, harmonizing with different feelings, relationships, roles. Find comfort in uncomfortable situations. Tune your relationship guitar, choose the notes to include or cut for the harmony.
 
 <h5>Right Brain</h5>
-Listen to your favorite songs from years ago. Sing songs from your childhood. Sing songs with your family and friends. If you're a musician, write a new song. Write a poem. Let your senses mix and match. Write a poem for a taste. Make a sound for a smell (like how farts smell and sound together, but try different ones since that one is already taken). Make a dance for a color. Make a mixtape. Cry, drink wine in the bath and listen to music. Walk in the rain while listening to music. Serenade your love.
+Listen to your favorite songs from years ago. Sing songs from your childhood. Sing songs with your family and friends. If you're a musician, write a new song. Write a poem. Let your senses mix and match. Write a poem for a taste. Make a sound for a smell (like how farts smell and sound together, but try different ones since that one is already taken). Make a dance for a color. Make a mixtape. Cry, drink wine in the bath and listen to music. Walk in the rain while listening to music. Serenade your love. Read a thin book of poetry.
 <figure>
 <h4>
 <a href="https://www.clarkiniaastrology.com"><img src="https://www.queerauntie.com/assets/img/dance_medieval.jpg">
