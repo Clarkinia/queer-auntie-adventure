@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Astrology Feb 5-25
+title: Astrology March 5-25
 description: Being with other people
 author: Regina Clarkinia
 categories: [astrology]
 tags: [Togetherness, Astrology, Plants, Horoscope, Dance, Pisces, Community, California, poc]
-promo-img:
-promo-link:
+promo-img: clarkinia_promo_ad_03.jpg
+promo-link: https://www.clarkiniaastrology.com
 image:
   feature: wave_organ.jpg
   teaser:
@@ -112,8 +112,6 @@ Piscean things: dance, music, poetry and refracted ways of communicating. Image 
 </figure>
 
 
-<a href="https://www.queerauntie.com/astrology/astrology-extra">Get some extra astro activities for February 1-19.</a>
+<a href="https://www.queerauntie.com/astrology/astro-activities-march">Get some extra astro activities for March 5-25.</a>
 
-<a href="https://www.queerauntie.com/education/rumi">Read the whole interview with Rumi.</a>
-
-<a href="https://www.queerauntie.com/education/student-help">Here are four quick and easy ways to help students now.</a>
+<a href="https://www.queerauntie.com/astrology/zoom-out-2019">See how this month fits in with the rest of the year.</a>
