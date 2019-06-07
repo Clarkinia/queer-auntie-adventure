@@ -2,7 +2,7 @@
 layout: post
 title: Astrology March 5-25
 description: Being with other people
-author: Regina Clarkinia
+author: Reg Clarkinia
 categories: [astrology]
 tags: [Togetherness, Astrology, Plants, Horoscope, Dance, Pisces, Community, California, poc]
 promo-img: clarkinia_promo_ad_03.jpg

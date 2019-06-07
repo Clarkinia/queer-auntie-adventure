@@ -2,7 +2,7 @@
 layout: post
 title: T-shirts and bread
 description: Four ways you can help Oakland students
-author: Regina Clarkinia
+author: Reg Clarkinia
 categories: [education]
 tags: [Help, Family, Education, Kids, Oakland, California, poc]
 promo-img: oakschool_promo_ad_tee.jpg

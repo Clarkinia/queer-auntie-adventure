@@ -2,7 +2,7 @@
 layout: post
 title: Astrology Feb 1-19
 description: Ask for help. Offer help.
-author: Regina Clarkinia
+author: Reg Clarkinia
 categories: [astrology]
 tags: [Help, Astrology, Family, Horoscope]
 promo-img: oakschool_promo_ad_tee.jpg

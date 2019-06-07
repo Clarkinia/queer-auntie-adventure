@@ -2,7 +2,7 @@
 layout: post
 title: Lantana and Crows
 description: Things that grow in light and underneath
-author: Regina Clarkinia
+author: Reg Clarkinia
 categories: [poetry]
 tags: [Plants, Poetry, Music, Animals, Totems, Energies]
 promo-img:

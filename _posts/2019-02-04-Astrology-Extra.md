@@ -2,7 +2,7 @@
 layout: post
 title: Astro Extras Feb 1-19
 description: The hunt for red octstrology
-author: Regina Clarkinia
+author: Reg Clarkinia
 categories: [astrology]
 tags: [Astrology, Activities, Tattoo, Uranus, Transits]
 promo-img: clarkinia_promo_ad_03.jpg

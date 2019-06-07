@@ -2,7 +2,7 @@
 layout: post
 title: Sugar Hill Museum
 description: A children's museum for art & storytelling.
-author: Regina Clarkinia
+author: Reg Clarkinia
 categories: [museum]
 tags: [Museum, Storytelling, Kids, Education]
 image:

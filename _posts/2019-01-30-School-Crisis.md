@@ -2,7 +2,7 @@
 layout: post
 title: California Public School Crisis
 description: A ruthless game of RISK (you know how that game gets)
-author: Regina Clarkinia
+author: Reg Clarkinia
 categories: [education]
 tags: [California, Education, Kids, poc]
 promo-img: oakschool_promo_ad_gramps.jpg

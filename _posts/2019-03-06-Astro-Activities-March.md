@@ -2,7 +2,7 @@
 layout: post
 title: Astro Extras March 5-25
 description: Spin your partner and spit a rhyme
-author: Regina Clarkinia
+author: Reg Clarkinia
 categories: [astrology]
 tags: [March, Astrology, Togetherness, Dance, Music, Poetry, Activities]
 promo-img: clarkinia_promo_ad_03.jpg

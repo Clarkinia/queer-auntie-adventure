@@ -2,7 +2,7 @@
 layout: post
 title: Five Alive
 description: A kid harvests ingredients from life for a magic brew.
-author: Regina Clarkinia
+author: Reg Clarkinia
 categories: [Fiction]
 tags: [Fiction, Noir, TV , Cartoons]
 image:
