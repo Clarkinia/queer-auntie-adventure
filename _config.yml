@@ -13,8 +13,8 @@ sass:
   style: :nested
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:	Queer Auntie
-description: The blog of writer Regina Clarkinia
-author: Regina Clarkinia
+description: The blog of writer Reg Clarkinia
+author: Reg Clarkinia
 
 facebook:
   publisher: https://www.facebook.com/Queer-Auntie-271039616807530/
